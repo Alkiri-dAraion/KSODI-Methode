@@ -65,12 +65,12 @@ hinauszublicken! (s. Tabelle 1)
 
 ## 4. Nächste Schritte: Integration in KSODI 
 
-### 4.1 Möglichkeiten zur Speicherung dieses Chats in KSODI 
+### 4.1 Möglichkeiten zur Einbindung der KSODI-Methode
 
-Falls KSODI als Datenbank oder interaktive Plattform aufgebaut ist:
-- Manuelle Speicherung als Markdown oder Notion-Dokument.
-- Automatische Speicherung über eine Datenbank (SQL, NoSQL).
-- Integration in das KSODI-Framework, um klassische vs. erweiterte Fragen automatisch zu bewerten.
+- Manuelle Speicherung als Markdown zu Beginn einer Unterhaltung mit der KI
+- Manuelle Speicherung als "Prompt Restriction"
+- In der Middleware
+- (weitere zu erarbeiten, Vorschläge gerne erwünscht)
  
 ### 4.2 Entwicklung eines KSODI-Case für Methodenvergleich 
 
