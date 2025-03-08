@@ -1,4 +1,4 @@
-#Anmerkungen zum KSODI System Prompt-DE.v1
+# Anmerkungen zum KSODI System Prompt-DE.v1
 
 - Beim aktuellen System-Prompt ist der MBTI / GPOP noch nicht mit einbezogen. Zunächst experimentieren wir mit dem Feedback der Maschine
 - In dieser ersten Version wurde der KSODI System Prompt verwendet, wie er hier dokumentiert ist. Der Fokus liegt auf der Evaluierung der Verständlichkeit und Präzision von Nutzerfragen, ohne dabei MBTI-Profile oder Präferenzen einzubeziehen.
