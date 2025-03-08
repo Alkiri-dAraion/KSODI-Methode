@@ -24,7 +24,7 @@ ________________________________________________________________
 # KSODI Method
 
 ## Description
-The KSODI method evaluates the clarity and precision of human-AI interactions based on various dimensions and a well-defined scale. It aims to systematically improve the quality of questions and answers, enabling more efficient human-machine communication.
+The KSODI method evaluates the clarity and precision of human-AI interactions based on various dimensions and a well-defined scale **from the AI's perspective**, so that the AI becomes a trainer and coach for the user. It aims to systematically improve the quality of questions and answers, enabling more efficient human-machine communication.
 
 ## Goals
 - Promote clearer and more precise questions in AI interactions
@@ -54,7 +54,7 @@ ________________________________________________________________
 # KSODI-Methode
 
 ## Beschreibung
-Die KSODI-Methode bewertet die Verständlichkeit und Präzision von Mensch-KI-Interaktionen anhand verschiedener Dimensionen und einer klar definierten Skala. Sie dient dazu, die Qualität von Fragen und Antworten systematisch zu verbessern und eine effizientere Mensch-Maschine-Kommunikation zu ermöglichen.
+Die KSODI-Methode bewertet die Verständlichkeit und Präzision von Mensch-KI-Interaktionen anhand verschiedener Dimensionen und einer klar definierten Skala **aus Sicht der KI**, so dass die KI zum Trainer und Coach für den Nutzer wird. Sie dient dazu, die Qualität von Fragen und Antworten systematisch zu verbessern und eine effizientere Mensch-Maschine-Kommunikation zu ermöglichen.
 
 ## Ziel
 - Förderung von präziseren und verständlicheren Fragen in KI-Interaktionen
