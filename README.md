@@ -65,3 +65,15 @@ Die KSODI-Methode bewertet die Verständlichkeit und Präzision von Mensch-KI-In
 1. **KSODI-Fragen-Methode**: Analyse und Bewertung von Nutzerfragen
 2. **KSODI-Antwort-Methode**: Evaluation und Optimierung von KI-Antworten
 3. **Technische Integration**: Bereitstellung von Open-Source-Code für Entwickler
+
+<br>
+
+________________________________________________________________
+
+<br>
+
+# Beispiele
+
+![Beispiel einer Frage zur Konfiguration einer MongoDB-Installation. Die Information, dass zwei Möglichkeiten zur Durchführung der Konfiguration existieren, ist nur in der KSODI-Bewertung vorhanden.](/DE/Beispiele/Beispiel%20Frage%20MonoDB.png)
+
+***Abbildung 1:*** **Beispiel einer Frage zur Konfiguration einer MongoDB-Installation. Die Information, dass zwei Möglichkeiten zur Durchführung der Konfiguration existieren, ist nur in der KSODI-Bewertung vorhanden.**
