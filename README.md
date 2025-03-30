@@ -151,6 +151,15 @@ Diese Entwicklungen zeigen, dass KSODI:
 
 **Und Eure Mitarbeit ist dabei sehr willkommen!**
 
+<br>
+
+________________________________________________________________
+
+<br>
+
+# KSODI – Whitepaper
+
+Whitepaper siehe [hier](/DE/KSODI%20Whitepaper-DE.md)
 
 <br>
 
