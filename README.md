@@ -16,7 +16,7 @@ ________________________________________________________________
 - 🌱 I’m currently immersing myself and exploring the remarkable opportunities it presents for adaptive learning
 - 💞️ We`re looking to collaborate with professionals from various fields in the development of the KSODI - method 
 - 📫 How to reach us: ksodi.horse@thevoid.email
-- Funfact: ⚡ 'Tealogy Friends' (Quote ChatGPT 4.5, Deutsch: 'Teeologie-Freunde' = 'We just love tea'
+- ⚡ 'Tealogy Friends' (Quote ChatGPT 4.5, Deutsch: 'Teeologie-Freunde' = 'We just love tea'
   
 ________________________________________________________________
 
