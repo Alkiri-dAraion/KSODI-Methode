@@ -9,13 +9,14 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ________________________________________________________________
 
-- 👋 Hi, I’m Anne Steinacker-Folkerts ( @Alkiri-dAraion ) - I came up with the idea for this project and I´m developing it together with Heiko Folkerts and
-     Silke Honerkamp and sometimes some other friends
+- 👋 Hi, I’m Anne Steinacker-Folkerts (@Alkiri-dAraion). I came up with the idea for this project and I’m developing it together with Heiko Folkerts, Silke Honerkamp, and sometimes other friends.
+     I’m an experienced IT trainer with over 30 years of training experience and a Hogrefe-licensed G.P.O.P. Teamcoach (Golden). Therefore, I felt I should help people reduce their fear of facing
+     the challenges of AI interactions and optimize results.
 - 👀 We´re interested in nature, animals (especially horses), art, music, gaming and IT
 - 🌱 I’m currently immersing myself and exploring the remarkable opportunities it presents for adaptive learning
 - 💞️ We`re looking to collaborate with professionals from various fields in the development of the KSODI - method 
 - 📫 How to reach us: ksodi.horse@thevoid.email
-- ⚡ Fun fact: "Teeologie - Freunde" (Zit. ChatGPT 4.5)
+- Funfact: ⚡ 'Tealogy Friends' (Quote ChatGPT 4.5, Deutsch: 'Teeologie-Freunde' = 'We just love tea'
   
 ________________________________________________________________
 
