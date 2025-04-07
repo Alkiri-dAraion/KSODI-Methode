@@ -1,3 +1,3 @@
-# KSODI-Method
+# KSODI-Method => CSOCI-Method
 
 //tbd (soon)
