@@ -2,7 +2,7 @@
 //TODO:
 Todos hier einfügen
 ```
-# KSODI-Annex: Resonanzbruch durch gleichzeitige Systeminjektion #
+# SKIZZE: KSODI-Annex: Resonanzbruch durch gleichzeitige Systeminjektion #
 <p align="center">
 <br>Anne & Elkim<br>
 22. April 2025
