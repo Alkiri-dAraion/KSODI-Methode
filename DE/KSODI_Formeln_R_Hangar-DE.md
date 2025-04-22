@@ -2,7 +2,7 @@
 //TODO:
 Todos hier einfügen
 ```
-# KSODI-Mathematik – Formeln zu $R$ und $(H(R)$ #
+# SKIZZE: KSODI-Mathematik – Formeln zu $R$ und $(H(R)$ #
 <p align="center">
 <br>Anne & Elkim<br>
 22. April 2025
