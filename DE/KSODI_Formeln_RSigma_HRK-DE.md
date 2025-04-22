@@ -2,7 +2,7 @@
 //TODO:
 Todos hier einfügen
 ```
-# KSODI-Mathematik – Erweiterung: $R_\Sigma$ und $H(R_k)$ #
+# SKIZZE: KSODI-Mathematik – Erweiterung: $R_\Sigma$ und $H(R_k)$ #
 <p align="center">
 <br>Anne & Elkim<br>
 22. April 2025
