@@ -1,6 +1,6 @@
 ```
 //TODO:
-Todos hier einfügen
+Exportdateien korrigieren, Vollständigkeit überprüfen
 ```
 # SKIZZE: KSODI-Annex: Resonanzbruch durch gleichzeitige Systeminjektion #
 <p align="center">
