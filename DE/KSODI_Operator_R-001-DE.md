@@ -1,9 +1,12 @@
 
 ```
 //TODO:
-Todos hier einfügen
+- Definition für Operator K bearbeiten und hochladen
+- Zwischenerergebnis R bearbeiten und hochladen
+- Erweiterung R_\Sigma bearbeiten und hochladen
+- Annex Resilienz bearbeiten und hochladen
 ```
-# KSODI Operator-Kartei – Eintrag R-001 #
+# SKIZZE: KSODI Operator-Kartei – Eintrag R-001 #
 
 ## Operator: ##
 **$R$** – *Resonanzoperator (Basisform)*
