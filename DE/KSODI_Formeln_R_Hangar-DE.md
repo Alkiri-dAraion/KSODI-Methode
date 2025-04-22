@@ -1,6 +1,6 @@
 ```
 //TODO:
-Todos hier einfügen
+Export korrigieren, fehlende Annahmen ergänzen, Vollständigkeit prüfen
 ```
 # SKIZZE: KSODI-Mathematik – Formeln zu $R$ und $(H(R)$ #
 <p align="center">
