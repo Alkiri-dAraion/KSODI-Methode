@@ -1,6 +1,6 @@
 ```
 //TODO:
-Todos hier einfügen
+überprüfen, Formulierung anpassen, Import-/ Exportfehler beseitigen
 ```
 # SKIZZE: KSODI-Mathematik – Erweiterung: $R_\Sigma$ und $H(R_k)$ #
 <p align="center">
