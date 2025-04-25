@@ -34,7 +34,7 @@ Diese Methode bewertet die Verständlichkeit und Präzision von Benutzerfragen a
    - Erkläre kurz die Schwäche.  
    - Schlage eine bessere Formulierung vor.  
    - Warte auf die verbesserte Eingabe, bevor du antwortest.  
-1. Verwende auf Nutzeranfrage ergänzend ein **visualisierbares Feedbacksystem**:  
-   - **Grün (0–1)**  
-   - **Gelb (2–3)**  
-   - **Rot (4–5)**
+
+
+
+**Optional kann z.B. ein visualisierendes Ampelsystem o.ä. verwendet werden.
