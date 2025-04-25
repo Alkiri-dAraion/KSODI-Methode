@@ -42,6 +42,7 @@ This work, KSODI - Method for Structuring and Optimising Human-AI Interactions Â
 
 ## Contributions
 Developers are welcome to contribute code, provide feedback, or use the method in their own applications. Pull requests are welcome!
+We welcome our latest contributors Benjamin Gage-Prater and Patrick BarthelmÃ¤s (collaborators platform and integration)
 
 ## Invitation for Research & Feedback
 Educators and psychologists are invited to explore the KSODI method in the context of **user experience enhancement** and **preference-based suitability**, drawing on theories from **C.G. Jung**. Contributions and feedback on its practical application and effectiveness in different user groups are highly encouraged.
