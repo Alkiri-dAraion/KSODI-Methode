@@ -2,7 +2,7 @@
 
 //tbd (soon)
 
-# Cluster 4: What Is Missing Today? Why KSODI Became Necessary
+# Cluster 4: What Is Missing Today? Why KSODI / CSOCI became necessary
 
 ## 1. Introduction
 Discussion of existing methods for evaluating questions in human-AI interactions and their limitations.
