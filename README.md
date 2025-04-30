@@ -25,7 +25,7 @@ ________________________________________________________________
 
 <br>
 
-# KSODI Method
+# KSODI Method (CSOCI in English)
 
 ## Description
 
