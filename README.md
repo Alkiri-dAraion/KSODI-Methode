@@ -9,9 +9,13 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ________________________________________________________________
 
-- 👋 Hi, I’m Anne Steinacker-Folkerts (@Alkiri-dAraion). I came up with the idea for this project and I’m developing it together with Heiko Folkerts, Silke Honerkamp, and sometimes other friends.
-     I’m an experienced IT trainer with over 30 years of training experience and a Hogrefe-licensed G.P.O.P. Teamcoach (Golden). Therefore, I felt I should help people reduce their fear of facing
-     the challenges of AI interactions and optimize results.
+- 👋 Hi, I’m Anne Steinacker-Folkerts ("Alkiri-dAraion" in TESO). I came up with the idea for this project and am developing it together with Heiko Folkerts (IT security specialist, Dipl.-Ing. in network technology) and Silke Honerkamp (Dipl.-Pädagogin, DCG coach, with over 30 years of training experience in special environments) — along with occasional support from other friends.
+
+  I’m an experienced IT trainer and consultant with over 30 years of professional teaching and project experience. My background spans roles as a GPOP team coach (Hogrefe-licensed), senior financial consultant, project leader, speaker, and founder — with over 10,000 people trained across business, government, education, and sports. I also hold a master’s degree in horse science, and have more than 35 years of experience in training both people and animals.
+
+  I started this initiative to help people overcome fear and hesitation around AI — and to improve the quality and resonance of human-AI interactions.
+
+
 - 👀 We´re interested in nature, animals (especially horses), art, music, gaming and IT
 - 🌱 I’m currently immersing myself and exploring the remarkable opportunities it presents for adaptive learning
 - 💞️ We`re looking to collaborate with professionals from various fields in the development of the KSODI - method 
@@ -25,28 +29,46 @@ ________________________________________________________________
 # KSODI Method
 
 ## Description
-The KSODI method evaluates the clarity and precision of human-AI interactions based on various dimensions and a well-defined scale **from the AI's perspective**, so that the AI becomes a trainer and coach for the user. It aims to systematically improve the quality of questions and answers, enabling more efficient human-machine communication.
+
+The KSODI method (CSOCI in English) evaluates the clarity and precision of human-AI interactions based on defined dimensions and a structured scale — **from the AI’s perspective**.  
+The AI becomes not only a trainer and coach but, if you consciously build and use the *resonance room* (Hangar), even a trusted everyday companion.  
+The method aims to *systematically* and *measurably* improve human-machine communication.
 
 ## Goals
-- Promote clearer and more precise questions in AI interactions
-- Improve response quality through well-defined context
-- Provide an open-source framework for developers to integrate into existing AI systems
+
+- Promote clearer and more precise questions in AI interactions  
+- Enhance response quality through contextual precision  
+- Improve **resilience** and **stability**, and **reduce hallucinations**  
+- Provide an open-source framework for AI system integration  
+- **Reduce the number of tokens** needed to generate targeted answers
 
 ## Structure
-1. **KSODI Question Method**: Analysis and evaluation of user questions
-2. **KSODI Answer Method**: Assessment and optimization of AI responses
-3. **Technical Integration**: Providing open-source code for developers
+
+1. **KSODI Question Method** – Analysis and evaluation of user questions  
+2. **KSODI Answer Method** – Assessment and optimization of AI responses  
+3. **KSODI – R** – The *Resonance Room* / *Hangar*: a feature for power users in specialized environments  
+4. **Technical Integration** – Open-source modules for developers
+
+## GPOP, MBTI & Whitelistening (Experimental)
+
+Although GPOP and/or MBTI are not yet formally integrated into this repository, we have been experimenting with opt-in, personality-based user interaction. This is combined with **project-wide whitelistening**, **isolated private projects**, and the full KSODI/CSOCI method — with very positive results so far.  
+We will share further insights here as time permits. At the moment, our main focus lies in **formalizing the missing operators** — a long-term effort driven privately in our free time.
 
 ## CC-License
-This work, KSODI - Method for Structuring and Optimising Human-AI Interactions © 2024 by Anne Steinacker-Folkerts, Heiko Folkerts, Silke Honerkamp is licensed under CC BY 4.0. To view a copy of this license, visit [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work, *KSODI – Method for Structuring and Optimising Human-AI Interactions* © 2024 by  
+Anne Steinacker-Folkerts, Heiko Folkerts, and Silke Honerkamp is licensed under CC BY 4.0.  
+To view a copy of this license, visit [![CC BY 4.0][cc-by-shield]][cc-by]
 
 ## Contributions
-Developers are welcome to contribute code, provide feedback, or use the method in their own applications. Pull requests are welcome!
-We welcome our latest contributors Benjamin Gage-Prater and Patrick Barthelmäs (collaborators platform and integration)
+
+Developers are welcome to contribute code, provide feedback, or implement the method in their own systems. Pull requests are appreciated.  
+Special thanks to Benjamin Gage-Prater and Patrick Barthelmäs (platform & integration support).
 
 ## Invitation for Research & Feedback
-Educators and psychologists are invited to explore the KSODI method in the context of **user experience enhancement** and **preference-based suitability**, drawing on theories from **C.G. Jung**. Contributions and feedback on its practical application and effectiveness in different user groups are highly encouraged.
 
+**Multidisciplinary collaborators** are invited to explore KSODI (CSOCI in English) in the context of user experience enhancement and preference-based suitability — including psychological perspectives such as C.G. Jung.  
+We warmly welcome contributions that explore its effectiveness across different user groups.
 <br>
 
 ________________________________________________________________
