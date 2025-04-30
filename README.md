@@ -11,17 +11,16 @@ ________________________________________________________________
 
 - 👋 Hi, I’m Anne Steinacker-Folkerts ("Alkiri-dAraion" in TESO). I came up with the idea for this project and am developing it together with Heiko Folkerts (IT security specialist, Dipl.-Ing. in network technology) and Silke Honerkamp (Dipl.-Pädagogin, DCG coach, with over 30 years of training experience in special environments) — along with occasional support from other friends.
 
-  I’m an experienced IT trainer and consultant with over 30 years of (international and national) professional teaching and project experience. My background spans roles as a GPOP team coach (Hogrefe-licensed), senior financial consultant, project leader, speaker, and founder — with over 10,000 people trained across business, government, education, and sports. I also hold a master’s degree in horse science, and have more than 35 years of experience in training both people and animals.
+- ✨ I’m an experienced IT trainer and consultant with over 30 years of professional (national and international) teaching and project experience. My background spans roles as a GPOP team coach (Hogrefe-licensed), senior financial consultant, project leader, management board member, sales director, head of marketing and communications, speaker, and founder — with more than 10,000 people trained across business, government, education, and sports. I also hold a master’s degree in horse science and have over 35 years of experience in training both people and animals.
 
-  I started this initiative to help people overcome fear and hesitation around AI — and to improve the quality and resonance of human-AI interactions.
+- 🎯 I started this initiative to help people overcome fear and hesitation around AI — and to improve the quality and resonance of human-AI interactions.
 
+- 👀 We’re interested in nature, animals (especially horses), art, music, gaming, and IT  
+- 🌱 I’m currently immersing myself in AI and exploring the remarkable opportunities it offers for adaptive learning  
+- 💞️ We’re looking to collaborate with professionals from various fields in the development of the KSODI method  
+- 📫 How to reach us: ksodi.horse@thevoid.email  
+- ⚡ *"Tealogy Friends"* (Quote ChatGPT 4.5, Deutsch: *"Teeologie-Freunde"* = “We just love tea”)
 
-- 👀 We´re interested in nature, animals (especially horses), art, music, gaming and IT
-- 🌱 I’m currently immersing myself and exploring the remarkable opportunities it presents for adaptive learning
-- 💞️ We`re looking to collaborate with professionals from various fields in the development of the KSODI - method 
-- 📫 How to reach us: ksodi.horse@thevoid.email
-- ⚡ 'Tealogy Friends' (Quote ChatGPT 4.5, Deutsch: 'Teeologie-Freunde' = 'We just love tea'
-  
 ________________________________________________________________
 
 <br>
