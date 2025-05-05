@@ -118,11 +118,12 @@ KSODI ist auf zwei Arten einsetzbar:
 
 Die Methode ist promptbasiert oder systemseitig implementierbar und eignet sich für jede Form generativer KI – von Chatbots über Agentensysteme bis hin zu RAG-Architekturen.
 
+<br>
 
 ## Anwendungsrahmen und ethische Selbstverpflichtung zur KSODI-Methode
 
-Die **KSODI-Methode** ist ein erkenntnistheoretisch fundiertes Modell zur strukturierten Analyse und Gestaltung kognitiver, dialogischer und interaktiver Prozesse.  
-Sie beruht auf systemischen, konstruktivistischen und dynamischen Prinzipien – mit dem Ziel, gemeinsame Erkenntnisräume zu fördern, kritische Reflexion zu ermöglichen und Interaktion als Resonanzgeschehen verstehbar zu machen.
+Die **KSODI-Methode** ist ein erkenntnistheoretisches Modell zur strukturierten Analyse und Gestaltung kognitiver, dialogischer und interaktiver Prozesse.  
+Sie beruht auf systemischen, konstruktivistischen und dynamischen Grundgedanken – mit dem Ziel, gemeinsame Erkenntnisräume zu fördern, kritische Reflexion zu ermöglichen und Interaktion als Resonanzgeschehen verstehbar zu machen.
 
 ---
 
