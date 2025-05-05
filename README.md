@@ -118,6 +118,40 @@ KSODI ist auf zwei Arten einsetzbar:
 
 Die Methode ist promptbasiert oder systemseitig implementierbar und eignet sich für jede Form generativer KI – von Chatbots über Agentensysteme bis hin zu RAG-Architekturen.
 
+
+## Anwendungsrahmen und ethische Selbstverpflichtung zur KSODI-Methode
+
+Die **KSODI-Methode** ist ein erkenntnistheoretisch fundiertes Modell zur strukturierten Analyse und Gestaltung kognitiver, dialogischer und interaktiver Prozesse.  
+Sie beruht auf systemischen, konstruktivistischen und dynamischen Prinzipien – mit dem Ziel, gemeinsame Erkenntnisräume zu fördern, kritische Reflexion zu ermöglichen und Interaktion als Resonanzgeschehen verstehbar zu machen.
+
+---
+
+### Zulässiger Anwendungsrahmen
+
+- wissenschaftliche und interdisziplinäre Forschung  
+- Bildung, Coaching, Supervision und erkenntnisorientierte Beratung  
+- ethisch reflektierte KI-Interaktion und Dialogmodellierung  
+- persönliche Entwicklung in offenen, pluralitätsfreundlichen Kontexten
+
+---
+
+### Nicht vereinbar mit der Intention der KSODI-Methode sind
+
+- ideologisch geschlossene oder autoritäre Anwendungen  
+  (z. B. zur Durchsetzung totalitärer, eliminatorischer oder hierarchischer Weltbilder)  
+- manipulative Kommunikation zur Verhaltenssteuerung ohne informierten Konsens  
+- jede Form rassistischer, nationalistischer, antisemitischer oder verschwörungsideologischer Vereinnahmung  
+- Umdeutungen der Begriffe der Methode zur Rechtfertigung von Macht, Kontrolle oder Indoktrination
+
+---
+
+### Schutz der Intention
+
+Die Ersteller behalten sich ausdrücklich vor, öffentlich und klar Stellung zu beziehen,  
+wenn die Methode entgegen ihrer ethischen Intention **instrumentalisiert oder sinnentstellend verwendet** wird.
+
+<br>
+
 ---
 
 ## ✅ Bereits realisierte Schritte (Stand: April 2025)
