@@ -18,7 +18,7 @@ Die KSODI-Methode bewertet Fragen anhand von fünf zentralen Kriterien:
 - **D = Deutlichkeit** (Wie klar und eindeutig ist die Fragestellung?)
 - **I = Informationsgehalt** (Wie detailliert ist die Frage für eine präzise Antwort?)
 
-Die Bewertung erfolgt auf einer Skala von 0 bis 6, wobei 0 für eine perfekt formulierte Frage und 6
+Die Bewertung erfolgt auf einer Skala von 0 bis 5, wobei 0 für eine perfekt formulierte Frage und 6
 für eine unbrauchbare, nicht verwertbare Frage steht.
 
 **3. KSODI-Quest-Methode vs. KSODI-Answer-Methode**
@@ -62,6 +62,8 @@ In der Ära der Künstlichen Intelligenz hängt die Qualität der erhaltenen Ant
 Qualität der gestellten Fragen ab. Die KSODI-Methode wurde entwickelt, um diesen
 Zusammenhang zu analysieren und systematisch zu verbessern. Durch eine gezielte Bewertung
 der Fragen erhalten Nutzer direkte Rückmeldung zur Optimierung ihrer Formulierungen.
+
+
 **2. Die Herausforderung der Mensch-KI-Interaktion**
 Viele Nutzer haben Schwierigkeiten, ihre Fragen so zu formulieren, dass sie präzise und
 kontextbezogene Antworten erhalten. Häufig sind Fragen zu vage, enthalten implizite Annahmen
