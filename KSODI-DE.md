@@ -83,7 +83,7 @@ verstärkt gewünschte Verhaltensweisen.
 **4. Die KSODI-Bewertungsskala**
 
 Die Methode unterteilt Fragen in sechs Qualitätsstufen, von **perfekt formuliert (0)** bis
-**unbrauchbar (6)**. Anhand der fünf KSODI-Kriterien (Kontext, Struktur, Objektivität, Deutlichkeit,
+**unbrauchbar (5)**. Anhand der fünf KSODI-Kriterien (Kontext, Struktur, Objektivität, Deutlichkeit,
 Informationsgehalt) wird die Qualität jeder Frage systematisch analysiert und verbessert.
 
 **5. Praktische Anwendung und Nutzen**
