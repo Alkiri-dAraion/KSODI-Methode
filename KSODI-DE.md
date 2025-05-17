@@ -18,7 +18,7 @@ Die KSODI-Methode bewertet Fragen anhand von fünf zentralen Kriterien:
 - **D = Deutlichkeit** (Wie klar und eindeutig ist die Fragestellung?)
 - **I = Informationsgehalt** (Wie detailliert ist die Frage für eine präzise Antwort?)
 
-Die Bewertung erfolgt auf einer Skala von 0 bis 5, wobei 0 für eine perfekt formulierte Frage und 6
+Die Bewertung erfolgt auf einer Skala von 0 bis 5, wobei 0 für eine perfekt formulierte Frage und 5
 für eine unbrauchbare, nicht verwertbare Frage steht.
 
 **3. KSODI-Quest-Methode vs. KSODI-Answer-Methode**
