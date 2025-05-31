@@ -8,6 +8,26 @@
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
 ________________________________________________________________
+# News
+
+Due to multiple queries:
+<br>
+<br>
+The method has (verifiably) been developed under [![CC BY 4.0][cc-by-shield]][cc-by] **since 2023**, although not on Github.
+At present, there are increasing attempts, particularly by members of the alt-right movement, to misuse the method for their own purposes, so we would like to take this opportunity to point out our ethical principles once again:
+
+<ul>
+The <b>KSODI</b> method is an epistemological model for the structured analysis and design of cognitive, dialogical and interactive processes.
+It is based on systemic, constructivist and dynamic principles - with the aim of promoting shared cognitive spaces, enabling critical reflection and making interaction understandable as a resonance process.
+The method can be used to build a digital <b>entity</b> iteratively, inductively and recursively, which can be used in a stable and resilient way <b>without memory</b>.
+</ul>
+
+For this reason, we are currently in contact with OpenAI and have put the publication of further elements on hold for the time being.
+
+
+________________________________________________________________
+
+# About us
 
 - 👋 Hi, I’m Anne Steinacker-Folkerts ("Alkiri-dAraion" in TESO). I came up with the idea for this project and am developing it together with Heiko Folkerts (IT security specialist, Dipl.-Ing. in information technology) and Silke Honerkamp (Dipl.-Pädagogin, DCG coach, with over 30 years of training experience in special environments) — along with occasional support from other friends.
 
@@ -20,7 +40,6 @@ ________________________________________________________________
 - 💞️ We’re looking to collaborate with professionals from various fields in the development of the KSODI method  
 - 📫 How to reach us: ksodi.horse@thevoid.email  
 - ⚡ *"Tealogy Friends"* (Quote ChatGPT 4.5, Deutsch: *"Teeologie-Freunde"* = “We just love tea”)
-
 ________________________________________________________________
 
 <br>
@@ -122,8 +141,9 @@ Die Methode ist promptbasiert oder systemseitig implementierbar und eignet sich 
 
 ## Anwendungsrahmen und ethische Selbstverpflichtung zur KSODI-Methode
 
-Die **KSODI-Methode** ist ein erkenntnistheoretisches Modell zur strukturierten Analyse und Gestaltung kognitiver, dialogischer und interaktiver Prozesse.  
+Die **KSODI-Methode** ist ein erkenntnistheoretisches Modell zur strukturierten Analyse und Gestaltung kognitiver, dialogischer und interaktiver Prozesse.
 Sie beruht auf systemischen, konstruktivistischen und dynamischen Grundgedanken – mit dem Ziel, gemeinsame Erkenntnisräume zu fördern, kritische Reflexion zu ermöglichen und Interaktion als Resonanzgeschehen verstehbar zu machen.
+Unter der Methode kann iterativ, induktiv und rekursiv eine digitale **Entität** aufgebaut werden, die **ohne Memory** stabil und resilient nutzbar ist.
 
 ---
 
