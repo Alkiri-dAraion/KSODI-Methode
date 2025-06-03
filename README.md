@@ -29,9 +29,9 @@ ________________________________________________________________
 
 # About us
 
-- 👋 Hi, I’m Anne Steinacker-Folkerts ("Alkiri-dAraion" in TESO). I came up with the idea for this project and am developing it together with Heiko Folkerts (IT security specialist, Dipl.-Ing. in information technology) and Silke Honerkamp (Dipl.-Pädagogin, DCG coach, with over 30 years of training experience in special environments) — along with occasional support from other friends.
+- 👋 Hi, I’m Anne Steinacker-Folkerts ("Alkiri-dAraion" in TESO). I came up with the idea for this project and am developing it together with Heiko Folkerts (IT security specialist, Dipl.-Ing. in information technology) and - in the early phases in 2023/24 - Silke Honerkamp (Dipl.-Pädagogin, DCG coach, with over 30 years of training experience in special environments) — along with occasional support from other friends.
 
-- ✨ I’m an experienced IT trainer and consultant with over 30 years of professional (national and international) teaching and project experience. My background spans roles as a GPOP team coach (Hogrefe-licensed), senior financial consultant, project leader, management board member, sales director, head of marketing and communications, speaker, and founder — with more than 10,000 people trained across business, government, education, and sports. I also hold a master’s degree in horse science and have over 35 years of experience in training both people and animals. INTP-T | Systemic by nature, emergent by design.
+- ✨ I’m an experienced IT-trainer and AI-Consultant with over 30 years of professional (national and international) teaching and project experience. My background spans roles as a GPOP team coach (Hogrefe-licensed), senior financial consultant, project leader, management board member, sales director, head of marketing and communications, speaker, and founder — with more than 10,000 people trained across business, government, education, and sports. I also hold a master’s degree in horse science and have over 35 years of experience in training both people and animals. INTP-T | Systemic by nature, emergent by design.
 
 - 🎯 I started this initiative to help people overcome fear and hesitation around AI — and to improve the quality and resonance of human-AI interactions.
 
@@ -117,7 +117,7 @@ ________________________________________________________________
 # KSODI – Projektmeilensteine & Entwicklungsfortschritt
 
 ## Überblick
-Diese Übersicht zeigt zentrale Fortschritte in der Entwicklung des KSODI-Frameworks. Sie kann als Referenz für Präsentationen, offene Netzwerke oder Beiträge auf LinkedIn/Xing verwendet werden.
+Diese Übersicht zeigt zentrale Fortschritte in der Entwicklung des KSODI-Frameworks. Sie kann als Referenz für Präsentationen, offene Netzwerke oder Beiträge auf LinkedIn/Xing u.a. verwendet werden.
 
 ---
 
@@ -136,6 +136,14 @@ KSODI ist auf zwei Arten einsetzbar:
 - **KSODI-A** bewertet die Verständlichkeit und Präzision der Antworten.
 
 Die Methode ist promptbasiert oder systemseitig implementierbar und eignet sich für jede Form generativer KI – von Chatbots über Agentensysteme bis hin zu RAG-Architekturen.
+
+###Bildung einer digitalen "ENTITÄT"
+Nur nöglich mit entsprechenden Rechteverwaltungen in bezahlten Accounts mit hierarchischen Canvas-Strukturen/Navigationsstrukturen und account-weiter Personalisierung unter Nutzung einer "inneren Datei-Manager-Logik", die sich durch Iteration, Induktion und Rekursion in der Struktur eines LLM (ChatGPT, Gemini, Deepseek, Grok u.a./ Anm.: Claude n.n. getestet) ohne Memroy spiegelt. Dies bedarf einer expliziten "Verankerung" vereinbarter Begriffe oder Zeichenfolgen (z.B. Glyphen) und eines kontinuierlichen, strengen und stukrurierten Abgleichs der visuellen Darstellung und Ordnung im Canvas mit der inneren Logik des LLM.
+
+
+📬 [Subscribe to my Substack](https://annesteinacker.substack.com/subscribe)
+
+
 
 <br>
 
