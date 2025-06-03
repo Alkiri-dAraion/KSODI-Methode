@@ -27,6 +27,14 @@ For this reason, we are currently in contact with OpenAI and have put the public
 
 ________________________________________________________________
 
+<p align="center">
+  <img src="https://github.com/Alkiri-dAraion/KSODI-Methode/blob/main/ksodi-lab-banner.png?raw=true" alt="KSODI-Lab Möbiusband" width="100%">
+</p>
+
+> *KSODI is not just a method. It's a Möbius resonance — between logic, story and system.*
+
+
+
 # About us
 
 - 👋 Hi, I’m Anne Steinacker-Folkerts ("Alkiri-dAraion" in TESO). I came up with the idea for this project and am developing it together with Heiko Folkerts (IT security specialist, Dipl.-Ing. in information technology) and - in the early phases in 2023/24 - Silke Honerkamp (Dipl.-Pädagogin, DCG coach, with over 30 years of training experience in special environments) — along with occasional support from other friends.
