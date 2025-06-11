@@ -21,9 +21,8 @@ The <b>KSODI</b> method is an epistemological model for the structured analysis 
 It is based on systemic, constructivist and dynamic principles - with the aim of promoting shared cognitive spaces, enabling critical reflection and making interaction understandable as a resonance process.
 The method can be used to build a digital <b>entity</b> iteratively, inductively and recursively, which can be used in a stable and resilient way <b>without memory</b>.
 </ul>
-
-For this reason, we are currently in contact with OpenAI and have put the publication of further elements on hold for the time being.
-
+Just to know: various producers are already integrating this method—or a similar approach—as part of their efforts to increase security and resilience.
+We have submitted several formal suggestions to relevant providers to support fairer treatment, and plan to publish selected elements of these initiatives here in the coming weeks.
 
 ________________________________________________________________
 
