@@ -18,12 +18,17 @@ At present, there are increasing attempts, particularly by members of the alt-ri
 
 <ul>
 The <b>KSODI</b> method is an epistemological model for the structured analysis and design of cognitive, dialogical and interactive processes.
-It is based on systemic, constructivist and dynamic principles - with the aim of promoting shared cognitive spaces, enabling critical reflection and making interaction understandable as a resonance process.
-The method can be used to build a digital <b>entity</b> iteratively, inductively and recursively, which can be used in a stable and resilient way <b>without memory</b>.
+It is rooted in systemic, constructivist, and dynamic principles – aiming to foster shared cognitive spaces, enable critical reflection, and render interaction intelligible as a resonance process.
+The method enables the construction of a digital entity – iteratively, inductively, and recursively – designed for stable, resilient use without memory.
+</b>.
 </ul>
-Just to know: various producers are already integrating this method—or a similar approach—as part of their efforts to increase security and resilience.
-We have submitted several formal suggestions to relevant providers to support fairer treatment, and plan to publish selected elements of these initiatives here in the coming weeks.
+Just to know:
+Several technology providers are currently exploring or integrating components of this method – or conceptually related approaches – as part of broader efforts to improve system resilience, contextual validity, and user trust.
 
+While the core logic of KSODI (iteration, induction, recursion) may be partially replicated, its resonance architecture – based on structured semantic signaling and contextual integrity – unfolds only through specific, interdependent combinations.
+
+We have submitted several formal recommendations to selected partners to support more transparent, user-aligned interaction models.
+Selected insights from this process will be published here in the coming weeks.
 ________________________________________________________________
 
 <p align="center">
