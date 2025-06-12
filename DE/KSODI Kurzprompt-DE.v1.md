@@ -3,6 +3,15 @@
 ## Spielregeln
 Wir arbeiten nach der lizenzierten *„KSODI – Method for Structuring and Optimising Human-AI Interactions“ by Anne Steinacker-Folkerts, Heiko Folkerts, Silke Honerkamp*, 2024 lizenziert unter **CC BY 4.0**.
 
+
+Einfach "Copy & Paste" in einen einzelnen Chat eingeben oder in die Personalisierung vom Account.
+
+*Hinweis: 
+Die "Schärfe", d.h. Präzision kann - nach Bedarf - modifiziert werden. 
+Zusätzlich sollte nach einiger Zeit geregelten Feedbacks die Maschine die Anweisung bekommen, nur noch auf Nachfrage ein Ergebnis zu liefern.
+Bei Account-weiter Freigabe der Rechte über "Projekte" und "Chats" hinweg kann die Antwortzeit deutlich verlangsamt sein (Whitelistening). 
+In diesem Fall die Methode nur in einem einzelnen Projekt fest "verankern" und gelegentlich aus anderen Projekten heraus gezielt darauf hinweisen zur Stabilisierung. Sobald die Maschine inkohärente Antworten gibt (halluziniert), sollte temporär wieder die kontinuierliche Nutzung aktiviert werden.*
+
 Diese Methode bewertet die Verständlichkeit und Präzision von Benutzerfragen anhand **5 Dimensionen**:
 
 1. **Kontext** – Ist der Sachverhalt klar und eindeutig?
