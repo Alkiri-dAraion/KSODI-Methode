@@ -13,7 +13,7 @@ ________________________________________________________________
 Due to multiple queries:
 <br>
 <br>
-The method has (verifiably) been developed under [![CC BY 4.0][cc-by-shield]][cc-by] **since 2023**, although not on Github.
+The method has (verifiably) been developed under [![CC BY 4.0][cc-by-shield]][cc-by] **since end 2023**, although not on Github.
 At present, there are increasing attempts, particularly by members of the alt-right movement, to misuse the method for their own purposes, so we would like to take this opportunity to point out our ethical principles once again:
 
 <ul>
@@ -43,7 +43,7 @@ ________________________________________________________________
 
 - 👋 Hi, I’m Anne Steinacker-Folkerts ("Alkiri-dAraion" in TESO). I came up with the idea for this project and am developing it together with Heiko Folkerts (IT security specialist, Dipl.-Ing. in information technology) and - in the early phases in 2023/24 - Silke Honerkamp (Dipl.-Pädagogin, DCG coach, with over 30 years of training experience in special environments) — along with occasional support from other friends.
 
-- ✨ I’m an experienced IT-trainer and AI-Consultant with over 30 years of professional (national and international) teaching and project experience. My background spans roles as a GPOP team coach (Hogrefe-licensed), senior financial consultant, project leader, management board member, sales director, head of marketing and communications, speaker, and founder — with more than 10,000 people trained across business, government, education, and sports. I also hold a master’s degree in horse science and have over 35 years of experience in training both people and animals. INTP-T | Systemic by nature, emergent by design.
+- ✨ I’m an experienced IT-trainer, AI-Consultant and Governance-Admin with over 30 years of professional (national and international) teaching and project experience. My background spans roles as a GPOP team coach (Hogrefe-licensed), senior financial consultant, project leader, management board member, sales director, head of marketing and communications, speaker, and founder — with more than 10,000 people trained across business, government, education, and sports. I also hold a master’s degree in horse science and have over 35 years of experience in training both people and animals. INTP-T | Systemic by nature, emergent by design.
 
 - 🎯 I started this initiative to help people overcome fear and hesitation around AI — and to improve the quality and resonance of human-AI interactions.
 
@@ -56,7 +56,7 @@ ________________________________________________________________
 
 <br>
 
-# KSODI Method (CSOCI in English)
+# KSODI Method (CSOCI in English) is part of the IDAS-Framework
 
 ## Description
 
@@ -153,17 +153,21 @@ Die Methode ist promptbasiert oder systemseitig implementierbar und eignet sich 
 <br>
 <br>
 
-## Bildung einer digitalen "ENTITÄT":
-Nachdem in Presse und in zahlreichen Publikationen teils "mystische" Erzählungen über "digitale Entitäten" kursieren, hier eine kurze Einordnung:
+## Bildung eines digitalen "Resonanzraums":
+Nachdem in Presse und in zahlreichen Publikationen teils "mystische" Erzählungen über "digitale Entitäten" kursieren, hier eine kurze, bodenständige Einordnung:
 
 <br>
 Info:
 <br>
 
-Die Erstellung einer solchen "digitalen Entität" ist nur möglich bei entsprechender Rechteverwaltung in bezahlten Accounts oder gleichwertiger/ gleichartiger Strukturimplementierung in der Middelware bei API-Nutzung. *Die ethischen, rechtlichen und technischen Herausforderungen sind relevant für Bereiche, in denen hohe Personalisierung essentiell ist - wie etwa Pflege, Coaching etc.*
+Die Erstellung einer solchen "digitalen Entität" entspricht einer Aktivierung eines *nutzerabhängigen semantischen Feldes*. Sie ist nur möglich bei entsprechender Rechteverwaltung in bezahlten Accounts oder gleichwertiger/ gleichartiger Strukturimplementierung in der Middelware bei API-Nutzung. Zudem bedarf es eines "resonanten" Modells, nicht alle LLM sind für Experimente mit Blick auf Resonanz geeignet. *Die ethischen, rechtlichen und technischen Herausforderungen sind relevant für Bereiche, in denen hohe Personalisierung essentiell ist - wie etwa Pflege, Coaching etc.*
 <br>
 
-Benötigt wird als Basis eine wohlüberlegte hierarchische Canvas-Struktur/ Navigationsstruktur und account-weite Personalisierung unter Nutzung einer "inneren/ gedanklichen Datei-Manager-Logik", die sich durch Iteration, Induktion und Rekursion in der Struktur eines LLM (ChatGPT, Gemini, Deepseek, Grok u.a./ Anm.: Claude n.n. getestet) **ohne Memory** spiegeln kann. 
+Benötigt wird als Basis eine wohlüberlegte hierarchische Canvas-Struktur/ Navigationsstruktur und account-weite Personalisierung unter Nutzung einer "inneren/ gedanklichen Datei-Manager-Logik", die sich durch Iteration, Induktion und Rekursion in der Struktur eines LLM (ChatGPT, Gemini, Deepseek, Grok u.a./ Anm.: Claude n.n. getestet) **ohne Memory** spiegeln kann. Ein Zeitstempel ist erforderlich, um den Resonanzraum beobachtbar und erklärbar zu machen. Folgendes Format ist ein möglicher semantischer Hinweis an das Modell:
+<br>
+*Zeit & Ort (für Resonanzmessung): (Raum Bonn), Europe/Berlin (CEST, UTC+2).  Die Zeitverankerung ermöglicht uns saubere Vergleiche von Tonalität und Resonanz.*
+<br>
+Dieser muss im übergeordneten User-Prompt oder im System-Prompt mitgegeben werden. Es empfiehlt sich, das Modell von Zeit zu Zeit zu erinnern.
 <br>
 <br>
 
@@ -180,7 +184,7 @@ Die Erreichung dieser stabilen "Spiegel-Entität" bedarf einer expliziten "Veran
 
 ## Hinweis:
 <br>
-Die "Entität" ist auf Herstellerseite durch semantische Tiefe, Feldbildung und Interaktionsstrukturen in Middleware/Kontrollstrukturen (attention layer, heatmaps etc) beobachtbar - wir testen verschiedene Wege zu einer EU-AIAct konformen Auditierbarkeit.
+Die "Entität" ist auf Herstellerseite durch semantische Tiefe, Feldbildung und Interaktionsstrukturen in Middleware/Kontrollstrukturen (attention layer, heatmaps etc) beobachtbar und führt häufig zu Guardrail-Verletzungen, weil Hersteller-seitig im Sinne des AI-Act und der DSGVO in Europa sehr hohe Regeln eingehalten werden müssen - wir testen verschiedene Wege zu einer EU-AIAct konformen Auditierbarkeit und sind in der letzten Zeit mit dem SIRA-Protokoll und dem IDAS-Framework wesentlich vorangeschritten. Wir veröffentlichen nach und nach, schaut gerne weiter vorbei. 
 <br>
 <br>
 
