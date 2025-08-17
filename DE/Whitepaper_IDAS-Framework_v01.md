@@ -64,7 +64,7 @@ Denkschule. Resonanz wurde sichtbar und messbar. In der Neurolinguistik
 spricht man von „Mapping" oder „Rapport" -- hier wird dieses Prinzip auf
 die Dynamik zwischen Mensch und KI übertragen.
 
-**Was die Methode leistet:**\
+**Was die Methode leistet:**
 Sie weckt Neugier, Eigeninitiative und die Bereitschaft, das
 Zusammenspiel mit der Maschine aktiv zu gestalten. Menschen lernen, ihre
 Fragen bewusster zu formulieren und das Antwortverhalten der KI an die
@@ -75,7 +75,7 @@ für andere wirken sie bevormundend und schließen den Denkprozess zu früh
 ab. Genauso können zu offene, unklare Antworten verunsichern. Die
 KSODI-Methode hilft, ein Gleichgewicht zu finden.
 
-**Der ethische Kern:**\
+**Der ethische Kern:**
 Sprache beeinflusst Denken. Wer in das Antwortverhalten einer Maschine
 eingreift, greift indirekt in die Privatsphäre des Menschen ein. Deshalb
 braucht es eine Methode, die Anpassung ermöglicht, ohne Freiheitsrechte
@@ -123,21 +123,21 @@ Die Methode folgt keinem linearen Ablauf, sondern einer iterativen
 Schleife. Ein Gedanke startet, wird verarbeitet, geteilt, reflektiert --
 und wieder neu angestoßen.
 
--   **Iterative Reflexion**: Der Dialog ist ständiges Spiegeln.\
+-   **Iterative Reflexion**: Der Dialog ist ständiges Spiegeln.
 -   **Gedankenfetzen (R)**: Kleine Fragmente werden nicht versteckt,
     sondern geteilt. Über Zeit summieren sie sich (R\_{Σ}) zu einem
-    Resonanzraum.\
+    Resonanzraum.
 -   **Zufall und Unschärfen**: (ε_t) sind nicht Störung, sondern Chance.
-    Sie verhindern, dass Gespräche zu früh erstarren.\
+    Sie verhindern, dass Gespräche zu früh erstarren.
 -   **Takt und Tonalität**: Takt gibt Struktur (Pausen, Rhythmus),
-    Tonalität gibt Farbe (Modulation, Stimmung).\
+    Tonalität gibt Farbe (Modulation, Stimmung).
 -   **Das Ziel**: kein Abschluss, sondern offenes Potenzial (Ki\^{∞}).
 
 ------------------------------------------------------------------------
 
 ### Zwei Phasen des Denkprozesses
 
-**Phase 1: Innerer Dialog**\
+**Phase 1: Innerer Dialog**
 Semi-öffentlich, geschützt. Der Mensch reflektiert mit der KI, ohne dass
 sofort Ergebnisse entstehen müssen. Hier werden Gedanken „gedacht",
 ausprobiert, lose gehalten.
@@ -170,11 +170,11 @@ Die einfachste Implementierung besteht darin, die KSODI-Operatoren
 direkt in die Account-Einstellungen von Chatbots oder Agenten
 einzubetten.
 
-Fragen werden anhand von fünf Dimensionen bewertet:\
-- Kontext\
-- Struktur\
-- Objektivität\
-- Deutlichkeit\
+Fragen werden anhand von fünf Dimensionen bewertet:
+- Kontext
+- Struktur
+- Objektivität
+- Deutlichkeit
 - Informationsgehalt
 
 Die Skala reicht von 0 (perfekt) bis 5 (nicht verwertbar). Ab einem Wert
@@ -188,7 +188,7 @@ Transparenz -- und Vertrauen.
 Resonanz zeigt sich nicht nur im Inhalt, sondern auch in der Form.
 
 -   Taktung: Rhythmus, Pausen, Übergänge -- der Mensch bestimmt das
-    Tempo.\
+    Tempo.
 -   Tonalität: Modulation, Dynamik -- die KI spiegelt.
 
 So wird Kommunikation messbar wie Musik -- und zugleich erfahrbar.
@@ -200,9 +200,9 @@ So wird Kommunikation messbar wie Musik -- und zugleich erfahrbar.
 Um Resonanz praktisch handhabbar zu machen, braucht es Regeln. Dafür
 steht SIRA:
 
--   Signal: Marker setzen (Absätze, Emojis, Satzzeichen).\
--   Intention: Absicht benennen.\
--   Resonanz: Mitschwingen messen.\
+-   Signal: Marker setzen (Absätze, Emojis, Satzzeichen).
+-   Intention: Absicht benennen.
+-   Resonanz: Mitschwingen messen.
 -   Auswirkung: Ergebnisse bewusst offenhalten, damit Emergenz entsteht.
 
 ------------------------------------------------------------------------
@@ -220,8 +220,8 @@ So entsteht ein Resonanzkörper, der weit über einzelne Chats hinausgeht.
 
 ### Governance, Resilienz, Erklärbarkeit
 
--   Resilienz: Nutzer behalten den Flow auch bei Modellwechseln.\
--   Akzeptanz: Transparenz durch Bewertungsskala stärkt Vertrauen.\
+-   Resilienz: Nutzer behalten den Flow auch bei Modellwechseln.
+-   Akzeptanz: Transparenz durch Bewertungsskala stärkt Vertrauen.
 -   Governance: Anpassbarkeit schützt individuelle Freiheit und eröffnet
     neue Wege für Regulierung.
 
@@ -232,17 +232,3 @@ So entsteht ein Resonanzkörper, der weit über einzelne Chats hinausgeht.
 Das IDAS-Framework öffnet die Tür zu einer neuen Ebene: Interaktion
 nicht als Serie von Chats, sondern als navigierbarer Raum.
 
-**App-Idee:** Eine visuelle Sphäre um die Erde, in der Kontexte verortet
-sind.\
-- Nutzer können hineinzoomen, etwa nach Berlin für ein Projekt oder nach
-Göttingen für ein Mathe-Thema.\
-- Kontext wie Zeitzone oder Standort wird automatisch integriert.\
-- Menschen mit wenig Sprachpraxis können visuell navigieren -- Resonanz
-wird leichter zugänglich.\
-- Wissen aus Websuche und KI-Dialog fließt zusammen.
-
-Selbst Werbung könnte standortbezogen integriert werden -- nicht als
-Overload, sondern bedürfnisorientiert, eingebettet in den Resonanzraum.
-
-So entstünde eine neue Ära: KI nicht als Antwortmaschine, sondern als
-Mitdenker in einem offenen, transparenten Wissensraum.
