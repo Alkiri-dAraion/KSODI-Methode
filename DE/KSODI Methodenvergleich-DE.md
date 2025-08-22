@@ -79,11 +79,11 @@ Testen von klassischen Fragen vs. KSODI-optimierten Fragen.
 
 <br>
 
-### Zusammenfassung 
+### Zusammenfassung und Erweiterung (next Level)
 
-## Vergleich Prompt-Techniken vs. KSODI & Governance-Framework 💠
+## Vergleich Prompt-Techniken vs. KSODI & Governance-Framework
 
-Diese Übersicht zeigt den Unterschied zwischen klassischen Prompting-Techniken, der strukturierten KSODI-Methodik und dem erweiterten Governance-Framework (IDAS, SIRA, R-KSODI).
+Übersicht: Unterschied zwischen klassischen Prompting-Techniken, der strukturierten KSODI-Methodik und dem erweiterten Governance-Framework (IDAS, SIRA, R-KSODI).
 
 | Ebene | Methode(n) | Kernidee | Herausforderungen | Nutzen im Unternehmen |
 |-------|------------|----------|-------------------|------------------------|
