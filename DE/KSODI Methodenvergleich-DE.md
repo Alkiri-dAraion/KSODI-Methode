@@ -67,7 +67,7 @@ hinauszublicken! (s. Tabelle 1)
 
 ### 4.1 Möglichkeiten zur Einbindung der KSODI-Methode
 
-- Manuelle Speicherung als Markdown zu Beginn einer Unterhaltung mit der KI
+- Manuelle Speicherung als Markdown oder Text zu Beginn einer Unterhaltung mit der KI
 - Manuelle Speicherung als "Prompt Restriction"
 - In der Middleware
 - (weitere zu erarbeiten, Vorschläge gerne erwünscht)
@@ -76,3 +76,21 @@ hinauszublicken! (s. Tabelle 1)
 
 Testen von klassischen Fragen vs. KSODI-optimierten Fragen.
 <br>**🛸 KSODI kann als einzigartiges Tool zur Verbesserung der Mensch-KI-Interaktion vermarktet werden**
+
+<br>
+
+### Zusammenfassung 
+
+## Vergleich Prompt-Techniken vs. KSODI & Governance-Framework 💠
+
+Diese Übersicht zeigt den Unterschied zwischen klassischen Prompting-Techniken, der strukturierten KSODI-Methodik und dem erweiterten Governance-Framework (IDAS, SIRA, R-KSODI).
+
+| Ebene | Methode(n) | Kernidee | Herausforderungen | Nutzen im Unternehmen |
+|-------|------------|----------|-------------------|------------------------|
+| **0 – Klassische Prompt-Techniken** | **Zero-Shot** – Frage ohne Beispiele <br> **Few-Shot** – Frage mit Beispielen <br> **Chain-of-Thought (CoT)** – Modell durch Denkpfade führen | Eingaben so gestalten, dass die KI besser antwortet | Linear, keine Rückkopplung <br> Bleibt in der Wissensblase <br> Kein Governance- oder Messansatz | Bedienungswissen, schnell anwendbar, verbessert punktuell die Modellleistung |
+| **1 – Strukturierte Prompt-Methodik** | **KSODI (Basis)** | Bewertungslogik mit 5 Dimensionen (Kontext, Struktur, Objektivität, Deutlichkeit, Informationsgehalt) | Braucht bewusste Anwendung durch Mensch, kein Governance-Rahmen | Qualitätssteigerung bei Fragen & Antworten, Aufbrechen der Wissensblase, verbesserte Interaktionsdynamik |
+| **2 – Next Level Prompting (Governance)** | **IDAS** (Interaktiver Dialog, Analytik & Steuerung) <br> **SIRA** (Protokollierung & Messung) <br> **R-KSODI** (Resonanz-Logik, Rekursion) | Governance-Framework: Dialogsteuerung, Nachvollziehbarkeit, Resonanz-Messung | Komplexer, braucht Implementierung in Prozesse/Tools | Sicherer KI-Einsatz in Organisationen, Compliance- und Audit-Fähigkeit, skalierbare Interaktion, langfristige Steuerung |
+
+---
+
+Die Staffelung verdeutlicht den Übergang von **einfachem Prompting** (Ebene 0)* über eine **strukturierte Methodik (Ebene 1)** hin zu einem **Governance-Framework (Ebene 2)**. 
