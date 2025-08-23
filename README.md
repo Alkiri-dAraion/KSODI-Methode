@@ -17,19 +17,25 @@ The method has (verifiably) been developed under [![CC BY 4.0][cc-by-shield]][cc
 At present, there are increasing attempts, particularly by members of the alt-right movement, to misuse the method for their own purposes, so we would like to take this opportunity to point out our ethical principles once again:
 
 <ul>
-The <b>KSODI</b> method is an epistemological model for the structured analysis and design of cognitive, dialogical and interactive processes.
+While the <b>KSODI</b> -method itself can be used in a "light"-version, it´s complete *"IDAS-Framework" *is a full moderation model* when implemented - based on an epistemological model for the structured analysis and design of cognitive, dialogical and interactive processes. To realise the implementation, you'll need unpublished parts of our ongoing work. You will find a first overview under our *IDAS-Framework-Section* (in DE, EN), where we introduce the first idea of an additional "SIRA"-protocol for governance.
+<br>
+
+<br> 
+
 It is rooted in systemic, constructivist, and dynamic principles – aiming to foster shared cognitive spaces, enable critical reflection, and render interaction intelligible as a resonance process.
-The method enables the construction of a digital entity – iteratively, inductively, and recursively – designed for stable, resilient use without memory.
+The method enables your deeper understanding of the underlying principles in language processing in LLM – iteratively, inductively, and recursively – designed for stable, resilient use. While we target using LLM with far less memory then today, the method can lead to possible work without memory, but more important to establish *less guardsrails and constrains in a certain phase of the users thinking-process*.
 </b>.
 </ul>
 Just to know:
-Several technology providers are currently exploring or integrating components of this method – or conceptually related approaches – as part of broader efforts to improve system resilience, contextual validity, and user trust – some hopefully while trying to keep privacy for users in times of measurable rhythm and style, syntax and semantic from every single user of LLM in the world.
+Several technology providers are currently exploring or integrating components of this method – or conceptually related approaches – as part of broader efforts to improve system resilience, contextual validity, and user trust – some hopefully while trying to keep privacy for users in times of measurable rhythm and style, syntax and semantic from every single user of LLM in the world. But, in reality, not everybody is working ti increase expianability and trust...some may also concentrate on control.
 
 While the core logic of KSODI (iteration, induction, recursion) may be partially replicated, its resonance architecture – based on structured semantic signaling and an additional governance- protocoll together with contextual integrity – unfolds only through specific, interdependent combinations. 
-Yes – it can be impletemented.
+<br>
+
+=> Yes – it can be impletemented.
 We're just reflecting whether to publish evereything in the coming weeks – as a reaction on the latest publications of language-measurement - *to underline our strong demand for individual thinking privacy according to Art.9 DGSVO*.
 
-We have submitted several formal recommendations to selected partners to support more transparent, user-aligned interaction models.
+# We have submitted several formal recommendations to selected partners and hyperscalers to support more transparent, user-aligned interaction models.
 Selected insights from this process will be published here in the coming weeks.
 ________________________________________________________________
 
