@@ -23,9 +23,9 @@ The method enables the construction of a digital entity – iteratively, inducti
 </b>.
 </ul>
 Just to know:
-Several technology providers are currently exploring or integrating components of this method – or conceptually related approaches – as part of broader efforts to improve system resilience, contextual validity, and user trust.
+Several technology providers are currently exploring or integrating components of this method – or conceptually related approaches – as part of broader efforts to improve system resilience, contextual validity, and user trust – some hopefully while trying to keep privacy for users in times of measurable rhythm and style, syntax and semantic from every single user of LLM in the world.
 
-While the core logic of KSODI (iteration, induction, recursion) may be partially replicated, its resonance architecture – based on structured semantic signaling and contextual integrity – unfolds only through specific, interdependent combinations.
+While the core logic of KSODI (iteration, induction, recursion) may be partially replicated, its resonance architecture – based on structured semantic signaling and an additional governance- protocoll together with contextual integrity – unfolds only through specific, interdependent combinations. It can be impletemented und we're just reflecting publishing evereything in the next weeks regading the latest publications of language-measurement - *to underline our strong demand for individual thinking privacy according to Art.9 DGSVO*.
 
 We have submitted several formal recommendations to selected partners to support more transparent, user-aligned interaction models.
 Selected insights from this process will be published here in the coming weeks.
