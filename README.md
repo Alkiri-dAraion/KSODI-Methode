@@ -59,7 +59,7 @@ ________________________________________________________________
   <img src="https://github.com/Alkiri-dAraion/KSODI-Methode/blob/main/ksodi-lab-banner.png?raw=true" alt="KSODI-Lab Möbiusband" width="100%">
 </p>
 
-> *KSODI is not just a method. It's a Möbius resonance — between logic, story and system.*
+> *KSODI is not just a method. It's a Möbius resonance — and a metric.*
 
 
 
