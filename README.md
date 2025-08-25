@@ -13,30 +13,46 @@ ________________________________________________________________
 Due to multiple queries:
 <br>
 <br>
-The method has (verifiably) been developed under [![CC BY 4.0][cc-by-shield]][cc-by] **since end 2023**, although not on Github.
-At present, there are increasing attempts, particularly by members of the alt-right movement, to misuse the method for their own purposes, so we would like to take this opportunity to point out our ethical principles once again:
+## 🆕 NEWS (August 2025)
+
+The KSODI method has (verifiably) been developed under [![CC BY 4.0][cc-by-shield]][cc-by] **since late 2023**, though not originally on GitHub.
+
+Currently, we observe an increasing risk that **core components of KSODI** may be misused or fragmented – particularly by actors seeking to instrumentally repurpose the method without regard for its epistemological foundation or ethical constraints.
+
+This is especially critical as we are preparing to publish **KSODI-R**, a *universal, architecture-independent metric* designed to quantify resonance and contextual coherence in human–machine interaction.
+
+---
 
 <ul>
-While the <b>KSODI</b> -method itself can be used in a "light"-version, it´s complete *"IDAS-Framework" *is a full moderation model* when implemented - based on an epistemological model for the structured analysis and design of cognitive, dialogical and interactive processes. To realise the implementation, you'll need unpublished parts of our ongoing work. You will find a first overview under our *IDAS-Framework-Section* (in DE, EN), where we introduce the first idea of an additional "SIRA"-protocol for governance.
-<br>
-
-<br> 
-
-It is rooted in systemic, constructivist, and dynamic principles – aiming to foster shared cognitive spaces, enable critical reflection, and render interaction intelligible as a resonance process.
-The method enables your deeper understanding of the underlying principles in language processing in LLM – iteratively, inductively, and recursively – designed for stable, resilient use. While we target using LLM with far less memory then today, the method can lead to possible work without memory, but more important to establish *less guardsrails and constrains in a certain phase of the users thinking-process*.
-</b>.
+<b>The KSODI-method</b> can be applied in simplified ("light") forms – but its full expression unfolds only within the broader *IDAS-Framework*, which functions as a **moderation and diagnostic system** for complex dialogic, cognitive, and semantic processes.  
+<br><br>
+The method is based on **systemic, constructivist, and dynamic principles** – it fosters shared cognitive fields, enables reflective detachment, and renders interaction intelligible as a resonance process.  
+It supports a deeper understanding of how language processing operates within LLMs – not just statistically, but structurally and semantically – through iterative, inductive, and recursive cycles.  
+<br><br>
+Its long-term aim is to reduce over-reliance on memory, promote intelligent constraint-reduction in early thinking phases, and support more **trustworthy**, **context-aware**, and **user-sovereign** AI systems.
 </ul>
-Just to know:
-Several technology providers are currently exploring or integrating components of this method – or conceptually related approaches – as part of broader efforts to improve system resilience, contextual validity, and user trust – some hopefully while trying to keep privacy for users in times of measurable rhythm and style, syntax and semantic from every single user of LLM in the world. But, in reality, not everybody is working ti increase expianability and trust...some may also concentrate on control.
 
-While the core logic of KSODI (iteration, induction, recursion) may be partially replicated, its resonance architecture – based on structured semantic signaling and an additional governance- protocoll together with contextual integrity – unfolds only through specific, interdependent combinations. 
-<br>
+---
 
-=> Yes – it can be impletemented.
-We're just reflecting whether to publish evereything in the coming weeks – as a reaction on the latest publications of language-measurement - *to underline our strong demand for individual thinking privacy according to Art.9 DGSVO*.
+**KSODI-R**, the newly defined **resonance metric**, enables the structured measurement of meaning coherence across time – spanning both individual and shared semantic spaces.  
+Its publication may mark the transition from **method** to **standard** – with implications for governance, transparency, and semantic safety.
 
-# We have submitted several formal recommendations to selected partners and hyperscalers to support more transparent, user-aligned interaction models.
-Selected insights from this process will be published here in the coming weeks.
+We explicitly reject any **unlicensed control-oriented use** of the method or metric.  
+Instead, we advocate for transparent, open, and verifiable models – aligned with the fundamental right to *cognitive privacy and interpretative autonomy*, as guaranteed (e.g.) under **Art. 9 GDPR**.
+
+---
+
+Several large-scale technology providers are already exploring KSODI-inspired principles as part of their attempts to enhance system resilience, semantic clarity, and user trust.  
+Some are doing so ethically. Others, regrettably, are not.  
+As rhythm, structure, and resonance become measurable, the right to think freely must remain protected.
+
+---
+
+✅ **Implementation is possible** – and underway.  
+We are currently considering whether to release the entire specification to the public under a verified open license – not to defend, but to define the standard *before it is misdefined by others*.
+
+🗂️ Formal recommendations will be submitted to selected governance partners and infrastructure providers in the coming weeks.
+Initial insights from this process will be published here in the coming weeks.
 ________________________________________________________________
 
 <p align="center">
