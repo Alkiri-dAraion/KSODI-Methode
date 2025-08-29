@@ -136,7 +136,7 @@ ________________________________________________________________
 # KSODI-Methode
 
 ## Beschreibung
-Die KSODI-Methode bewertet die Verständlichkeit und Präzision von Mensch-KI-Interaktionen anhand verschiedener Dimensionen und einer klar definierten Skala **aus Sicht der KI**, so dass die KI zum Trainer und Coach für den Nutzer wird. Das Framework IDAS mit dem SIRA-Protokoll sowie der R-KSODI-Methode ermöglicht eine Governance-konforme Nutzung bei der Implementierung. "KSODI-light" ohne Framework dient als Basisvariante dazu, die Qualität von Fragen und Antworten systematisch zu verbessern und eine effizientere Mensch-Maschine-Kommunikation zu ermöglichen. 
+Die KSODI-Methode bewertet die Verständlichkeit und Präzision von Mensch-KI-Interaktionen anhand verschiedener Dimensionen und einer klar definierten Skala **aus Sicht der KI**, so dass die KI zum Trainer und Coach für den Nutzer wird. Das Framework IDAS mit dem SIRA-Protokoll sowie der R-KSODI-Methode ermöglicht eine Governance-konforme Nutzung bei Implementierung. "KSODI-light" ohne Framework dient als Basisvariante dazu, die Qualität von Fragen und Antworten systematisch zu verbessern und eine effizientere Mensch-Maschine-Kommunikation zu ermöglichen. 
 
 ## Ziel
 - Förderung von präziseren und verständlicheren Fragen in KI-Interaktionen
