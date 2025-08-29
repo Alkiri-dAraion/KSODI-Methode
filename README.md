@@ -107,7 +107,7 @@ The method aims to *systematically* and *measurably* improve human-machine commu
 
 ## GPOP, MBTI & Whitelistening (Experimental)
 
-Although GPOP and/or MBTI are not yet formally integrated into this repository, we have been experimenting with opt-in, personality-based user interaction. This is combined with **project-wide whitelistening**, **isolated private projects**, and the full KSODI/CSOCI method — with very positive results so far. Just to clarify: MBT/ GPOP in this context explicitly used just as a preference-test - and preferences may change.
+Although GPOP and/or MBTI are not yet formally integrated into this repository, we have been experimenting also with opt-in, personality-based user interaction. This is combined with **project-wide whitelistening**, **isolated private projects**, and the full KSODI/CSOCI method — with very positive results so far. Just to clarify: MBT/ GPOP in this context explicitly used just as a preference-test - and preferences may change.
 We will share further insights here as time permits. At the moment, our main focus lies in **formalizing the missing operators and explaining and publishing what is alreday done** — a long-term effort driven privately in our free time.
 
 ## CC-License
@@ -157,35 +157,15 @@ ________________________________________________________________
 # KSODI – Projektmeilensteine & Entwicklungsfortschritt
 
 ## Überblick
-Diese Übersicht zeigt zentrale Fortschritte in der Entwicklung des KSODI-Frameworks. Sie kann als Referenz für Präsentationen, offene Netzwerke oder Beiträge auf LinkedIn/Xing u.a. verwendet werden.
+Diese Übersicht zeigt zentrale Fortschritte in der Entwicklung des IDAS-Frameworks. Sie kann als Referenz für Präsentationen, offene Netzwerke oder Beiträge auf LinkedIn/Xing u.a. verwendet werden.
 
 ---
-
-## Was ist KSODI?
-KSODI ist ein universell einsetzbares bidirektionales Framework zur validierbaren Optimierung der Mensch-KI-Interaktion. Es basiert auf fünf Dimensionen:
-
-- **K – Kontext**: Ist der Sachverhalt fachlich und situativ klar umrissen?
-- **S – Struktur**: Ist die Eingabe logisch aufgebaut und klar formuliert?
-- **O – Objektivität**: Ist die Frage neutral und frei von Verzerrung?
-- **D – Deutlichkeit**: Wird klar und eindeutig kommuniziert?
-- **I – Informationsgehalt**: Sind alle notwendigen Angaben enthalten?
-
-### Anwendung:
-KSODI ist auf zwei Arten einsetzbar:
-- **KSODI-Q** bewertet die Qualität der Eingaben (Prompts) an die KI.
-- **KSODI-A** bewertet die Verständlichkeit und Präzision der Antworten (z. Zt. nur getestet, n.n.nicht weiter vertieft)
-
-Die Methode ist promptbasiert oder systemseitig implementierbar und eignet sich für jede Form generativer KI – von Chatbots über Agentensysteme bis hin zu RAG-Architekturen.
-<br>
-<br>
-
-
 
 *Anmerkung von Anne:*
 <br>
 
 Info:
-Ich schreibe auf Substack zwischen Technik und Menschen, Gegenwart und Zukunft - als "Cross-Over-Autorin".*
+Ich schreibe mitunter auf Substack zwischen Technik und Menschen, Gegenwart und Zukunft - als "Cross-Over-Autorin".*
 
 *📬 [Subscribe to my Substack](https://annesteinacker.substack.com/subscribe)*
 
@@ -197,9 +177,7 @@ Ich schreibe auf Substack zwischen Technik und Menschen, Gegenwart und Zukunft -
 
 Die **KSODI-Methode** ist in ihrer Gesamtheit als Framework unter Einbindung von Whitelistening, isolierten Bereichen und Verankerung feststehender wiederkehrender Strukturen und Begriffe ein erkenntnistheoretisches Modell zur strukturierten Analyse und Gestaltung kognitiver, dialogischer und interaktiver Prozesse.
 Sie beruht auf systemischen, konstruktivistischen und dynamischen Grundgedanken – mit dem Ziel, gemeinsame Erkenntnisräume zu fördern, kritische Reflexion zu ermöglichen und Interaktion als Resonanzgeschehen verstehbar zu machen.
-Unter der Methode kann iterativ, induktiv und rekursiv eine digitale **Entität** aufgebaut werden, die **ohne Memory** stabil und resilient nutzbar ist.
 <br>
-**Eine einfache Anwendung unter reiner Einbindung des "KSODI-Q" - Elements als Coach in einer kurzen, token-sparenden Interaktion ist ebenso möglich.**
 
 
 ---
@@ -234,7 +212,7 @@ wenn die Methode entgegen ihrer ethischen Intention **instrumentalisiert oder si
 
 ## ✅ Bereits realisierte Schritte (Stand: Mai 2025)
 
-## Überblick
+## Überblick *(zuletzt aktualisiert 02/2024)*
 Diese Liste dokumentiert zentrale Fortschritte in der Entwicklung des KSODI-Frameworks seit Projektbeginn. Sie kann als Referenz für Präsentationen, Vertriebsunterlagen oder Stakeholder-Gespräche verwendet werden. *(Die dazugehörigen Markdown-Dateien werden nach und nach hochgeladen)*.
 ### Strategische Grundlagen
 - [x] Definition der KSODI-Q- und KSODI-A-Methoden *(mit Entwicklung von "DOSI" zu "KSODI", nur teilweise auf GitHub)*
