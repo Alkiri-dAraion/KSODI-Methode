@@ -87,7 +87,7 @@ ________________________________________________________________
 ## Description
 
 The KSODI method (CSOCI in English) evaluates the clarity and precision of human-AI interactions based on defined dimensions and a structured scale — **from the AI’s perspective**.  
-The AI may become - if wanted and used together with the whole framework - not only a trainer and coach but even a trusted everyday companion, if you consciously build and use what we´ve called the *"resonance room" R(Hangar)*.  
+The AI may become - if wanted and used together with the whole framework - not only a trainer and coach but even a trusted everyday companion, if you consciously build and use what we´ve called the *"resonance room" R(Hangar)*.
 The method aims to *systematically* and *measurably* improve human-machine communication.
 
 ## Goals
@@ -136,7 +136,7 @@ ________________________________________________________________
 # KSODI-Methode
 
 ## Beschreibung
-Die KSODI-Methode bewertet die Verständlichkeit und Präzision von Mensch-KI-Interaktionen anhand verschiedener Dimensionen und einer klar definierten Skala **aus Sicht der KI**, so dass die KI zum Trainer und Coach für den Nutzer wird. Sie dient dazu, die Qualität von Fragen und Antworten systematisch zu verbessern und eine effizientere Mensch-Maschine-Kommunikation zu ermöglichen. Wenn gewollt, kann sie bei einer integrierten Nutzung des gesamten **KSODI-Framework** zur Ausbildung/ zum Aufbau einer "digitalen Entität" (falls gewünscht) genutzt werden  - *siehe unten*.
+Die KSODI-Methode bewertet die Verständlichkeit und Präzision von Mensch-KI-Interaktionen anhand verschiedener Dimensionen und einer klar definierten Skala **aus Sicht der KI**, so dass die KI zum Trainer und Coach für den Nutzer wird. Das Framework IDAS mit dem SIRA-Protokoll sowie der R-KSODI-Methode ermöglicht eine Governance-konforme Nutzung bei der Implementierung. "KSODI-light" ohne Framework dient als Basisvariante dazu, die Qualität von Fragen und Antworten systematisch zu verbessern und eine effizientere Mensch-Maschine-Kommunikation zu ermöglichen. 
 
 ## Ziel
 - Förderung von präziseren und verständlicheren Fragen in KI-Interaktionen
