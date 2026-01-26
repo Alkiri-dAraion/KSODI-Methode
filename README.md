@@ -26,6 +26,8 @@ We warmly welcome contributions that explore its effectiveness across different 
 
 *full english version under the **EN** - all Sections under construction)*
 
+
+[cc-by-image]: https://github.com/Alkiri-dAraion/KSODI-Methode/blob/main/ksodi-lab-banner.png#:~:text=ksodi%2D-,lab,-%2Dbanner.png
 ________________________________________________________________
 
 
