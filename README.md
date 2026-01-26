@@ -4,7 +4,6 @@
 
 [banner-image]: https://raw.githubusercontent.com/Alkiri-dAraion/KSODI-Methode/main/ksodi-lab-banner.png
 
-![KSODI / IDAS – Möbius Concept Banner][banner-image]
 
 
 [![CC BY 4.0][cc-by-image]][cc-by]
