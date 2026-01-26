@@ -1,6 +1,10 @@
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-badge]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+[banner-image]: https://raw.githubusercontent.com/Alkiri-dAraion/KSODI-Methode/main/ksodi-lab-banner.png
+
+![KSODI / IDAS – Möbius Concept Banner][banner-image]
 
 
 [![CC BY 4.0][cc-by-image]][cc-by]
@@ -11,7 +15,8 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 This work, *KSODI – Method for Structuring and Optimising Human-AI Interactions* © 2024 by  
 Anne Steinacker-Folkerts, Heiko Folkerts, and Silke Honerkamp is licensed under CC BY 4.0.  
-To view a copy of this license, visit [![CC BY 4.0][cc-by-shield]][cc-by]
+To view a copy of this license, visit [![CC BY 4.0][cc-by-shield]][cc-by] .
+
 
 ## Contributions
 
