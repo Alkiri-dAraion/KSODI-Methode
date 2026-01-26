@@ -37,8 +37,43 @@ Special thanks to Benjamin Gage-Prater and Patrick Barthelmäs (platform & integ
 
 
 ________________________________________________________________
+## Publication Status & Ongoing Updates
+
+All materials and public references published under the KSODI name up to **November 2025** reflect the state of the method at that time.
+
+The **IDAS Framework**, including its architectural extensions, governance integration and the SIRA protocol, is currently being consolidated and will be **published incrementally over the coming days and weeks**.
+
+This repository therefore represents a **living framework**:
+- existing concepts are preserved for transparency and continuity,
+- newer structures and clarifications are added step by step,
+- and no previously published material is retroactively altered without notice.
+
+Updates will focus on clarity, formalization and practical applicability across governance, agent-based systems and AI literacy contexts.
+
+<br>
+### Methodological Clarification
+
+As part of this consolidation, the **KSODI variants (Light, Standard-Eval and Full)** have been **significantly refined and more clearly separated** with regard to:
+
+- implementability,
+- governance relevance,
+- and intended purpose.
+
+Earlier versions and public descriptions intentionally explored multiple perspectives in parallel.  
+In retrospect, this led to **insufficient separation between learning-oriented, evaluative and governance-focused use cases**.
+
+The current structure therefore reflects a deliberate clarification:
+- **KSODI-Light** is positioned as a human-facing, learning and explainability-oriented variant,
+- **KSODI-Standard-Eval** as a numerically observable, audit-capable evaluation layer,
+- **KSODI-Full** as an extended analytical and architectural perspective.
+
+This separation is essential for responsible implementation, regulatory clarity and long-term system stability.
 
 
+<br>
+<br>
+<br>
+________________________________________________________________
 ## From KSODI to IDAS
 
 The **KSODI Method** originated as a structured approach to improve the clarity, precision and quality of human–AI interaction.
@@ -303,4 +338,8 @@ A clear ethical framework ensures responsible usage.
 
 The framework is actively developed and used in real-world contexts.
 Documentation, examples and further technical details are continuously expanded.
+
+
+---
+
 
