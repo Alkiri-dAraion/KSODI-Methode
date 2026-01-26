@@ -20,3 +20,13 @@ We'll come back to that later with some ideas for you.
 📫 How to reach us ( yes, we love horses... ): ksodi.horse@thevoid.email
 
 ⚡ "Tealogy Friends" (Quote: ChatGPT 4.5, Deutsch: "Teeologie-Freunde" = “We just love tea”)
+
+
+*Anmerkung von Anne:*
+<br>
+
+Info:
+Ich schreibe mitunter auf Substack zwischen Technik und Menschen, Gegenwart und Zukunft - als "Cross-Over-Autorin".*
+
+*📬 [Subscribe to my Substack](https://annesteinacker.substack.com/subscribe)*
+
