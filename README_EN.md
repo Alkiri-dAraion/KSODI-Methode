@@ -5,10 +5,10 @@
 [banner-image]: https://raw.githubusercontent.com/Alkiri-dAraion/KSODI-Methode/main/ksodi-lab-banner.png
 
 
-
-[![CC BY 4.0][cc-by-image]][cc-by]
+[![CC BY 4.0][cc-by-badge]][cc-by]
 <br>
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
+
 
 ## CC-License
 
