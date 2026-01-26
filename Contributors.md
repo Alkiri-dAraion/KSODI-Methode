@@ -21,7 +21,7 @@ We thank our friends Patrick Bathelmäs (Developer, Implementation) and Benjamin
 
 
 <br>
-___________________________________________________
+______________
 
 ## Origin of the KSODI Method (Short Context)
 
@@ -38,14 +38,22 @@ In discussions with Silke, one key realization crystallized:
 “*You cannot not communicate*” may hold true for humans — but it does not translate directly to machines.  
 Machines do not begin with meaning; they begin with an **impulse**.
 
-Between 2023 and 2024, the method evolved slowly and iteratively — through day and night reflections, practical experimentation, and yes, sometimes even dreams about mathematics — into what is now known as **KSODI**.  
+Between 2023 and 2025, the method evolved slowly and iteratively — through day and night reflections, practical experimentation, and yes, sometimes even dreams about mathematics — into what is now known as **KSODI**.  
 The focus shifted toward **observable interaction structure**, rather than content, intention or correctness.
 
 A central insight during this phase was that meaningful evaluation requires stepping back from both:
 - a purely developer-centric signal perspective, and
 - a purely user-centric communication perspective.
 
-Only by observing interaction *across* the five KSODI operators did the relative nature of reference frames, goal spaces and drift become visible.
+Only by observing interaction *across* the five KSODI operators did the relative nature of reference frames, goal spaces and drift become visible. 
+
+During this phase, the ideas were shared with **OpenAI**.  
+They **acknowledged the structural approach and broader implications of the work**, noting in particular the clarity of the framework, the relevance of Whitelistening, and the focus on trust, continuity and user-visible safeguards:
+- *"Your insights, observations and the structured approach"*
+- *"We´ve noted all the points you´ve raised, including the technical observations, proposed improvements, and the broader implications for trust and continuity"*
+- *"Your KSODI framework and the concept of Whitelistening provide valuable context"*
+- *"your proposed solutions like project-level voice locking and user-visible warnings are particularly helpful"*
+- *"Your work with ELKIM(GPT) is a testament to what´s possible when AI is integrated into long-term, meaningful flows"*
 
 Throughout the summer of 2025, Anne and Patrick revisited, evaluated and refined what had already been built — adding small but crucial pieces with each review cycle.  
 Toward the end of 2025, a decisive internal breakthrough occurred in a discussion with Heiko:
