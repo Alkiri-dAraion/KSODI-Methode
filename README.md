@@ -27,9 +27,24 @@ We warmly welcome contributions that explore its effectiveness across different 
 *full english version under the **EN** - all Sections under construction)*
 
 
-[cc-by-image]: https://github.com/Alkiri-dAraion/KSODI-Methode/blob/main/ksodi-lab-banner.png#:~:text=ksodi%2D-,lab,-%2Dbanner.png
+[cc-by-image]: https://raw.githubusercontent.com/Alkiri-dAraion/KSODI-Methode/main/ksodi-lab-banner.png
 ________________________________________________________________
 
+
+## From KSODI to IDAS
+
+The **KSODI Method** originated as a structured approach to improve the clarity, precision and quality of human–AI interaction.
+
+As practical applications evolved — from individual prompt usage to continuous, agent-based and organizational AI systems — it became clear that isolated evaluation was no longer sufficient.
+
+To address this, KSODI was embedded into a broader framework:
+
+**IDAS – Interactive Dialog, Analytics & Steering**
+
+IDAS provides the architectural, temporal and governance-oriented context in which KSODI operates today.  
+While KSODI defines *what can be observed*, IDAS defines *how observation, analysis and stabilization are applied over time*.
+
+The following sections describe the IDAS Framework and explain how KSODI and SIRA work together as part of a coherent governance and early-warning approach.
 
 
 # IDAS Framework
