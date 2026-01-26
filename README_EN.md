@@ -51,6 +51,7 @@ This repository therefore represents a **living framework**:
 Updates will focus on clarity, formalization and practical applicability across governance, agent-based systems and AI literacy contexts.
 
 <br>
+
 ### Methodological Clarification
 
 As part of this consolidation, the **KSODI variants (Light, Standard-Eval and Full)** have been **significantly refined and more clearly separated** with regard to:
