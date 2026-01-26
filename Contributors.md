@@ -84,15 +84,15 @@ We are still testing, observing and learning — and remain open to additional p
 Feel free to reach out.
 
 <br>
-___________________________________________
-*Personal note by Anne:*  
+_____________________________________
 <br>
 
 *Personal note by Anne:*  
+
 <br>
 
-From time to time, I write on Substack at the intersection of technology and human experience — exploring ideas, short reflections, and occasional pieces of fiction and poetry.  
-Some of these texts capture moments of *crystallization*: when abstract structure, intuition and meaning briefly align.
+*From time to time, I write on Substack at the intersection of technology and human experience — exploring ideas, short reflections, and occasional pieces of fiction and poetry.  
+Some of these texts capture moments of *crystallization* (one of my short stories): when abstract structure, intuition and meaning briefly align.*
 
 *📬 [Subscribe to my Substack](https://annesteinacker.substack.com/subscribe)*
 
