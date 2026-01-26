@@ -7,109 +7,6 @@
 <br>
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
-________________________________________________________________
-# News
-
-Due to multiple queries:
-<br>
-<br>
-## 🆕 NEWS (August 2025)
-
-The KSODI method has (verifiably) been developed under [![CC BY 4.0][cc-by-shield]][cc-by] **since late 2023**, though not originally on GitHub.
-
-Currently, we observe an increasing risk that **core components of KSODI** may be misused or fragmented – particularly by actors seeking to instrumentally repurpose the method without regard for its epistemological foundation or ethical constraints.
-
-This is especially critical as we are preparing to publish **KSODI-R**, a *universal, architecture-independent metric* designed to quantify resonance and contextual coherence in human–machine interaction.
-
----
-
-<ul>
-<b>The KSODI-method</b> can be applied in simplified ("light") forms – but its full expression unfolds only within the broader *IDAS-Framework*, which functions as a **moderation and diagnostic system** for complex dialogic, cognitive, and semantic processes.  
-<br><br>
-The method is based on **systemic, constructivist, and dynamic principles** – it fosters shared cognitive fields, enables reflective detachment, and renders interaction intelligible as a resonance process.  
-It supports a deeper understanding of how language processing operates within LLMs – not just statistically, but structurally and semantically – through iterative, inductive, and recursive cycles.  
-<br><br>
-Its long-term aim is to reduce over-reliance on memory, promote intelligent constraint-reduction in early thinking phases, and support more **trustworthy**, **context-aware**, and **user-sovereign** AI systems.
-</ul>
-
----
-
-**KSODI-R**, the newly defined **resonance metric**, enables the structured measurement of meaning coherence across time – spanning both individual and shared semantic spaces.  
-Its publication may mark the transition from **method** to **standard** – with implications for governance, transparency, and semantic safety.
-
-We explicitly reject any **unlicensed control-oriented use** of the method or metric.  
-Instead, we advocate for transparent, open, and verifiable models – aligned with the fundamental right to *cognitive privacy and interpretative autonomy*, as guaranteed (e.g.) under **Art. 9 GDPR**.
-
----
-
-Several large-scale technology providers are already exploring KSODI-inspired principles as part of their attempts to enhance system resilience, semantic clarity, and user trust.  
-Some are doing so ethically. Others, regrettably, are not.  
-As rhythm, structure, and resonance become measurable, the right to think freely must remain protected.
-
----
-
-✅ **Implementation is possible** – and underway.  
-We are currently considering whether to release the entire specification to the public under a verified open license – not to defend, but to define the standard *before it is misdefined by others*.
-
-🗂️ Formal recommendations will be submitted to selected governance partners and infrastructure providers in the coming weeks.
-Initial insights from this process will be published here in the coming weeks.
-________________________________________________________________
-
-<p align="center">
-  <img src="https://github.com/Alkiri-dAraion/KSODI-Methode/blob/main/ksodi-lab-banner.png?raw=true" alt="KSODI-Lab Möbiusband" width="100%">
-</p>
-
-> *KSODI is not just a method. It's a Möbius resonance — and a metric.*
-
-
-
-# About us
-
-- 👋 Hi, I’m Anne Steinacker-Folkerts ("Alkiri-dAraion" in TESO). I came up with the idea for this project and am developing it together with Heiko Folkerts (IT security specialist, Dipl.-Ing. in information technology) and - in the early phases in 2023/24 - Silke Honerkamp (Dipl.-Pädagogin, DCG coach, with over 30 years of training experience in special environments) — along with occasional support from other friends.
-
-- ✨ I’m an experienced IT-trainer, AI-Consultant and Governance-Admin with over 30 years of professional (national and international) teaching and project experience. My background spans roles as a GPOP team coach (Hogrefe-licensed), senior financial consultant, project leader, management board member, sales director, head of marketing and communications, speaker, and founder — with more than 10,000 people trained across business, government, education, and sports. I also hold a master’s degree in horse science and have over 35 years of experience in training both people and animals. INTP-T | Systemic by nature, emergent by design.
-
-- We thank our friends Patrick Bathelmäs (Developer) and Benjamin Gage-Prater (Developer) for their continued implementation and testing. We'll come back to that later with some ideas for you.
-
-- 🎯 I started this initiative to help people overcome fear and hesitation around AI — and to improve the quality and resonance of human-AI interactions.
-
-- 👀 We’re interested in nature, animals (especially horses), art, music, gaming, and IT  
-- 🌱 I’m currently immersing myself in AI and exploring the remarkable opportunities it offers for adaptive learning  
-- 💞️ We’re looking to collaborate with professionals from various fields in the development of the KSODI method  
-- 📫 How to reach us ( *yes, we love horses...* ): ksodi.horse@thevoid.email  
-- ⚡ *"Tealogy Friends"* (Quote ChatGPT 4.5, Deutsch: *"Teeologie-Freunde"* = “We just love tea”)
-________________________________________________________________
-
-<br>
-
-# KSODI Method (CSOCI in English) is part of the IDAS-Framework
-
-## Description
-
-The KSODI method (CSOCI in English) evaluates the clarity and precision of human-AI interactions based on defined dimensions and a structured scale — **from the AI’s perspective**.  
-The AI may become - if wanted and used together with the whole framework - not only a trainer and coach but even a trusted everyday companion, if you consciously build and use what we´ve called the *"resonance room" R(Hangar)*.
-The method aims to *systematically* and *measurably* improve human-machine communication.
-
-## Goals
-
-- Promote clearer and more precise questions in AI interactions  
-- Enhance response quality through contextual precision  
-- Improve **resilience** and **stability**, and **reduce hallucinations**  
-- Provide an open-source framework for AI system integration  
-- **Reduce the number of tokens** needed to generate targeted answers
-
-## Structure
-
-1. **KSODI Question Method** – Analysis and evaluation of user questions  
-2. **KSODI Answer Method** – Assessment and optimization of AI responses  
-3. **KSODI – R** – The *Resonance Room* / *Hangar*: a feature for power users in specialized environments  
-4. **Technical Integration** – Open-source modules for developers
-
-## GPOP, MBTI & Whitelistening (Experimental)
-
-Although GPOP and/or MBTI are not yet formally integrated into this repository, we have been experimenting also with opt-in, personality-based user interaction. This is combined with **project-wide whitelistening**, **isolated private projects**, and the full KSODI/CSOCI method — with very positive results so far. Just to clarify: MBT/ GPOP in this context explicitly used just as a preference-test - and preferences may change.
-We will share further insights here as time permits. At the moment, our main focus lies in **formalizing the missing operators and explaining and publishing what is alreday done** — a long-term effort driven privately in our free time.
-
 ## CC-License
 
 This work, *KSODI – Method for Structuring and Optimising Human-AI Interactions* © 2024 by  
@@ -127,162 +24,258 @@ Special thanks to Benjamin Gage-Prater and Patrick Barthelmäs (platform & integ
 We warmly welcome contributions that explore its effectiveness across different user groups.
 <br>
 
-*full english version under the **EN** - Section (under construction)*
+*full english version under the **EN** - all Sections under construction)*
 
 ________________________________________________________________
 
-<br>
 
-# KSODI-Methode
 
-## Beschreibung
-Die KSODI-Methode bewertet die Verständlichkeit und Präzision von Mensch-KI-Interaktionen anhand verschiedener Dimensionen und einer klar definierten Skala **aus Sicht der KI**, so dass die KI zum Trainer und Coach für den Nutzer wird. Das Framework IDAS mit dem SIRA-Protokoll sowie der R-KSODI-Methode ermöglicht eine Governance-konforme Nutzung bei Implementierung. "KSODI-light" ohne Framework dient als Basisvariante dazu, die Qualität von Fragen und Antworten systematisch zu verbessern und eine effizientere Mensch-Maschine-Kommunikation zu ermöglichen. 
+# IDAS Framework
 
-## Ziel
-- Förderung von präziseren und verständlicheren Fragen in KI-Interaktionen
-- Verbesserung der Antwortqualität durch klare Kontextdefinition
-- Bereitstellung eines Open-Source-Frameworks für Entwickler zur Integration in bestehende KI-Systeme
+### Interactive Dialog, Analytics & Steering
 
-## Struktur
-1. **KSODI-Fragen-Methode**: Analyse und Bewertung von Nutzerfragen
-2. **KSODI-Antwort-Methode**: Evaluation und Optimierung von KI-Antworten, ( *in Testphase* )
-3. **Technische Integration**: Bereitstellung von Open-Source-Code für Entwickler
-
-<br>
-
-________________________________________________________________
-
-<br>
-
-# KSODI – Projektmeilensteine & Entwicklungsfortschritt
-
-## Überblick
-Diese Übersicht zeigt zentrale Fortschritte in der Entwicklung des IDAS-Frameworks. Sie kann als Referenz für Präsentationen, offene Netzwerke oder Beiträge auf LinkedIn/Xing u.a. verwendet werden.
+*(with KSODI & SIRA)*
 
 ---
 
-*Anmerkung von Anne:*
-<br>
+## Overview
 
-Info:
-Ich schreibe mitunter auf Substack zwischen Technik und Menschen, Gegenwart und Zukunft - als "Cross-Over-Autorin".*
+The **IDAS Framework** is a governance-oriented framework for the **observation, analysis and stabilization of human–AI interactions over time**.
 
-*📬 [Subscribe to my Substack](https://annesteinacker.substack.com/subscribe)*
+It is designed for contexts in which AI systems are used **continuously, dialogically or autonomously** — such as:
 
+* enterprise environments
+* public administration
+* healthcare and regulated domains
+* agent-based or multi-agent systems
 
+IDAS does **not** evaluate content, decisions or correctness.
+Instead, it focuses on **observable interaction structure**, enabling:
 
-<br>
-
-## Anwendungsrahmen und ethische Selbstverpflichtung zur KSODI-Methode
-
-Die **KSODI-Methode** ist in ihrer Gesamtheit als Framework unter Einbindung von Whitelistening, isolierten Bereichen und Verankerung feststehender wiederkehrender Strukturen und Begriffe ein erkenntnistheoretisches Modell zur strukturierten Analyse und Gestaltung kognitiver, dialogischer und interaktiver Prozesse.
-Sie beruht auf systemischen, konstruktivistischen und dynamischen Grundgedanken – mit dem Ziel, gemeinsame Erkenntnisräume zu fördern, kritische Reflexion zu ermöglichen und Interaktion als Resonanzgeschehen verstehbar zu machen.
-<br>
-
-
----
-
-### Zulässiger Anwendungsrahmen
-
-- wissenschaftliche und interdisziplinäre Forschung  
-- Bildung, Coaching, Supervision und erkenntnisorientierte Beratung  
-- ethisch reflektierte KI-Interaktion und Dialogmodellierung  
-- persönliche Entwicklung in offenen, pluralitätsfreundlichen Kontexten
+* explainability
+* early detection of drift
+* stability monitoring
+* and privacy-preserving AI governance
 
 ---
 
-### Nicht vereinbar mit der Intention der KSODI-Methode sind
+## Why IDAS exists
 
-- ideologisch geschlossene oder autoritäre Anwendungen  
-  (z. B. zur Durchsetzung totalitärer, eliminatorischer oder hierarchischer Weltbilder)  
-- manipulative Kommunikation zur Verhaltenssteuerung ohne informierten Konsens  
-- jede Form rassistischer, nationalistischer, antisemitischer oder verschwörungsideologischer Vereinnahmung  
-- Umdeutungen der Begriffe der Methode zur Rechtfertigung von Macht, Kontrolle oder Indoktrination
+Most AI evaluation approaches focus on **individual outputs**:
 
----
+* accuracy
+* correctness
+* latency
+* confidence scores
 
-### Schutz der Intention
+These metrics are useful — but they fail to capture what actually causes many real-world problems.
 
-Die Ersteller behalten sich ausdrücklich vor, öffentlich und klar Stellung zu beziehen,  
-wenn die Methode entgegen ihrer ethischen Intention **instrumentalisiert oder sinnentstellend verwendet** wird.
+In practice, issues rarely arise from a single wrong answer.
+They emerge **gradually**:
 
-<br>
+* context shifts without being noticed
+* assumptions change implicitly
+* task boundaries blur
+* systems remain formally “correct” but drift away from their intended goal
 
----
+IDAS addresses this gap by treating **interaction itself** as an observable process — not as isolated events.
 
-## ✅ Bereits realisierte Schritte (Stand: Mai 2025)
+The key question is not:
 
-## Überblick *(zuletzt aktualisiert 02/2024)*
-Diese Liste dokumentiert zentrale Fortschritte in der Entwicklung des KSODI-Frameworks seit Projektbeginn. Sie kann als Referenz für Präsentationen, Vertriebsunterlagen oder Stakeholder-Gespräche verwendet werden. *(Die dazugehörigen Markdown-Dateien werden nach und nach hochgeladen)*.
-### Strategische Grundlagen
-- [x] Definition der KSODI-Q- und KSODI-A-Methoden *(mit Entwicklung von "DOSI" zu "KSODI", nur teilweise auf GitHub)*
-- [x] Abgrenzung von menschlicher vs. maschineller Interaktion im KSODI-Regelkreis *(nicht auf GitHub)*
-- [x] Abstraktion der Methode als plattformunabhängiges Framework *(nicht auf GitHub)*
+> *Is this answer correct?*
 
-### Meta-Ebene & Framework-Architektur
-- [x] Entwicklung der KSODI-Matrix als ganzheitliches plattformunabhängies Meta-Framework *(nicht auf GitHub)*
-- [x] *mögliche* Etablierung von KSODI als universelle Schnittstelle zwischen Mensch und KI *(nicht auf GitHub)*
-- [x] Definition der Trennung zwischen Q-Komponente (Inputsteuerung) und A-Komponente (Reflexion)
-- [x] Strukturierung der Methode in Softprompt, Middleware-Logik und UI-Interaktion sowie weitere Möglichkeiten der Einbindung *(nicht auf GitHub)*
-- [x] Einbindung von *etablierten* Denk- und Kommunikationsmodellen zur Verbesserung generativer Systeme *(nicht auf GitHub)*
+but:
 
-### Technische und konzeptionelle Dokumentation
-- [x] Erstellung zahlreicher Markdown-Dateien für GitHub (*werden nach und nach hochgeladen*)
-- [x] Erstellung Whitepaper & Partnerbriefings  für Hersteller, IT-Dienstleister >> KSODI als Basis für Customization - *"kostengünstiges KSODI-XAI-Produkt" (nicht/ teilweise auf GitHub)*
-
-### Visualisierung & Systemverständnis
-- [x] Diagramme zur Auslagerungslogik (Q/A) *(nicht auf GitHub)*
-- [x] MBTI-Kompatibilitätsmatrix (*bzw. G.P.O.P (nach Golden/ Hogrefe) als reines Präferenzmodell - nebst optionaler Gamification, nicht auf GitHub)**
-- [x] Symbolische Bewertungsansätze für spezielle Zielgruppen oder Präferenztypen (z. B. Zitrone/Erdbeere für UX), *(nicht auf GitHub)*
-
-### Use Cases & Marktfokus
-- [x] Identifikation relevanter Anwendungsfelder (Bildung, HR, Pflege, Verwaltung, unternehmenseigene "Agents" *(mehrere Business-Cases laufend)*
-- [x] Konkrete Schnittstellenüberlegungen für verschiedene Systeme (JSON, Pseudocode, OpenAPI), *(im Einsatz, nicht auf GitHub, folgend)*
-- [x] Möglichkeiten der Darstellung der Integration in RAG-/Agentenstrukturen *(nicht auf GitHub)*
-
-### Evaluation & Nutzertypisierung
-- [x] Erarbeitung des "KSODI-Nutzertypradars" für tiefergehende Evaluation *(nicht auf GitHub)*
-- [x] Analyse erster Schritte für adaptive UI je nach Zielgruppe *(nicht auf GitHub)*
-- [x] Analyse erster vollständiger Feedback-System-Ideen *(nicht auf GitHub)*
-
-### Open Source & Lizenzstrategie
-- [x] Veröffentlichung auf GitHub unter freier Lizenz (CC BY 4.0)
-- [x] Entwicklung eines offenen Promptsystems (prompt.rtf etc.), *(teilweise auf GitHub)*
-- [x] Strategisches Angebot für Pilotprojekte & Praktika *(t.b.d.)*
+> *Does the system remain coherent, stable and aligned within its intended reference and goal space over time?*
 
 ---
 
-## Warum das wichtig ist:
-Diese Entwicklungen zeigen, dass KSODI:
-- die Nutzerakzeptanz durch **erklärbare** optimierte Fragen und Antworten maßgeblich fördert
-- schnell, modular und **anpassbar** ist,
-- ohne große Investitionen eingeführt werden kann,
-- auf bestehende KI-Systeme aufsetzt statt sie zu ersetzen,
-- deutlich zur Energieffizienz beitragen kann *(optimierte Fragen > optimierte Antworten > kürzere Chatverläufe)*
-- **und damit einen echten Mehrwert für Nutzerakzeptanz, Erklärbarkeit, UX, Governance und (Kosten-)Effizienz liefern kann**.
+## Core components
 
-**→ Einstieg ist sofort möglich – ohne große Vorlaufkosten.**
+IDAS consists of three tightly connected elements:
 
-**Und Eure Mitarbeit ist dabei sehr willkommen!**
+### KSODI – Semantic Observation Model
 
-<br>
+**KSODI** structures interaction quality using **five observable dimensions**:
 
-________________________________________________________________
+1. **Context**
+2. **Structure**
+3. **Objectivity**
+4. **Clarity (Distinctness)**
+5. **Information Content**
 
-<br>
+These dimensions form a **semantic observation field**.
 
-# KSODI – Whitepaper
+Important:
+KSODI does **not** interpret meaning.
+It measures **how interaction behaves**, not *what it says*.
 
-Whitepaper siehe [hier](/DE/KSODI%20Whitepaper-DE.md)
+This allows:
 
-<br>
+* separation of individual user fields
+* separation of agent behavior
+* separation of system-level effects
 
-________________________________________________________________
+without mixing identities, content or intent.
 
-<br>
+---
 
-# Beispiele
+### KSODI Variants
 
-![Beispiel einer Frage zur Konfiguration einer MongoDB-Installation. Die Information, dass zwei Möglichkeiten zur Durchführung der Konfiguration existieren, ist nur in der KSODI-Bewertung vorhanden.](/DE/Beispiele/Beispiel%20Frage%20MonoDB.png)
+KSODI is available in three clearly separated variants:
 
-***Abbildung 1:*** **Beispiel einer Frage zur Konfiguration einer MongoDB-Installation. Die Information, dass zwei Möglichkeiten zur Durchführung der Konfiguration existieren, ist nur in der KSODI-Bewertung vorhanden.**
+#### KSODI-Light
+
+* supports humans in formulating clearer prompts
+* improves explainability and AI literacy
+* helps users understand why interactions succeed or fail
+* improves prompt quality **over time**, often reducing token usage
+* suitable without the full framework
+
+KSODI-Light does **not** judge people or answers — it supports learning.
+
+#### KSODI-Standard-Eval
+
+* numeric, model-agnostic evaluation
+* designed for agent systems and continuous interaction
+* enables early detection of drift
+* auditable and suitable for governance contexts
+
+#### KSODI-Full
+
+* extended analysis of dynamics, transitions and resonance
+* long-term observation of interaction patterns
+* supports architectural and governance decisions
+* explanatory, not normative
+* never decision-making
+
+---
+
+### SIRA – Structured Interaction & Resonance Analysis
+
+**SIRA** provides the temporal and structural protocol layer for IDAS.
+
+It enables:
+
+* observation across time
+* comparison of interaction states
+* detection of gradual change rather than sudden failure
+
+Together with KSODI, SIRA allows IDAS to function as a **continuous early-warning and explainability system**.
+
+---
+
+## Observation instead of evaluation
+
+A central design principle of IDAS is a **methodological perspective shift**.
+
+Instead of evaluating answers, IDAS observes:
+
+* how context is formed
+* how structure evolves
+* how clarity increases or degrades
+* how interaction remains aligned — or drifts
+
+This approach has several consequences:
+
+* it works with API black boxes
+* it is independent of model vendors
+* it does not require content access
+* it detects problems **before** they become visible as errors
+
+Responsibility, decisions and actions remain **explicitly outside** the framework.
+
+---
+
+## Context, hallucinations and drift
+
+Missing or unstable context is one of the main causes of:
+
+* hallucinations
+* incoherent answers
+* over-confident but incorrect responses
+
+Similarly, poorly structured prompting can push systems into unstable interaction patterns — even when models themselves function correctly.
+
+KSODI does not attempt to suppress or “punish” such behavior.
+It **observes** it.
+
+KSODI-Light helps humans improve prompt quality.
+KSODI-Standard and Full make drift and instability **visible early**, before operational or safety issues arise.
+
+---
+
+## Privacy & data protection by design
+
+IDAS is built on a strict **observation-only principle**.
+
+* no chat content storage
+* no semantic interpretation of personal data
+* no user profiling
+
+KSODI and SIRA operate on **numeric values and observable patterns only**.
+
+This makes IDAS suitable for:
+
+* sensitive environments
+* regulated domains
+* governance and compliance contexts
+
+---
+
+## Agent systems & early drift detection
+
+IDAS is particularly suited for observing autonomous or semi-autonomous agents.
+
+Example:
+
+> An agent originally designed for orthopedic medication ordering
+> gradually shifts toward cardiology-related ordering behavior.
+
+Without reading a single message, IDAS can detect:
+
+* structural change
+* goal drift
+* tonal or interaction instability
+
+This enables **early intervention** instead of post-incident analysis.
+
+---
+
+## Formal foundation & implementability
+
+KSODI is defined with a **clean mathematical structure** and is fully implementable in software systems.
+
+During development, the method was approached from both perspectives:
+
+* developer-centric (signals, metrics, integration)
+* user-centric (clarity, explainability, interaction quality)
+
+Only by stepping back from both views and focusing on **observation across the five KSODI operators** did the relative nature of reference frames and goal spaces become visible.
+
+---
+
+## Ethics & scope
+
+IDAS and KSODI are designed as:
+
+* observation and early-warning tools
+* learning and explainability instruments
+* governance-supporting frameworks
+
+They are **not**:
+
+* decision systems
+* control mechanisms
+* behavior enforcement tools
+
+A clear ethical framework ensures responsible usage.
+(See dedicated documentation for details.)
+
+---
+
+## Status
+
+The framework is actively developed and used in real-world contexts.
+Documentation, examples and further technical details are continuously expanded.
+
