@@ -50,7 +50,7 @@ This repository therefore represents a **living framework**:
 
 Updates will focus on clarity, formalization and practical applicability across governance, agent-based systems and AI literacy contexts.
 
-<br>
+_______
 
 ### Methodological Clarification
 
@@ -68,13 +68,13 @@ The current structure therefore reflects a deliberate clarification:
 - **KSODI-Standard-Eval** as a numerically observable, audit-capable evaluation layer,
 - **KSODI-Full** as an extended analytical and architectural perspective.
 
-This separation is essential for responsible implementation, regulatory clarity and long-term system stability.
+### => This separation is essential for implementation, regulatory clarity and system stability.
 
 
-<br>
-<br>
 <br>
 ________________________________________________________________
+<br>
+
 ## From KSODI to IDAS
 
 The **KSODI Method** originated as a structured approach to improve the clarity, precision and quality of human–AI interaction.
