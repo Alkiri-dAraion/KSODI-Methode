@@ -25,8 +25,7 @@ Special thanks to Benjamin Gage-Prater and Patrick Barthelmäs (platform & integ
 
 ## Invitation for Research & Feedback
 
-**Multidisciplinary collaborators** are invited to explore KSODI (CSOCI in English) in the context of user experience enhancement and preference-based suitability — including psychological perspectives such as C.G. Jung. (Important: MBTI / G.P.O.P (Golden) in this context explicitly used as a *preference-test* )  
-We warmly welcome contributions that explore its effectiveness across different user groups.
+**Multidisciplinary collaborators** are invited to explore KSODI (CSOCI in English) in the context of user experience enhancement and preference-based suitability.
 <br>
 
 *full english version under the **EN** - all Sections under construction)*
@@ -92,7 +91,7 @@ Most AI evaluation approaches focus on **individual outputs**:
 * latency
 * confidence scores
 
-These metrics are useful — but they fail to capture what actually causes many real-world problems.
+These metrics are useful — but they often fail to capture what actually causes many real-world problems.
 
 In practice, issues rarely arise from a single wrong answer.
 They emerge **gradually**:
