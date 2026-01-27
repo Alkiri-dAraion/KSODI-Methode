@@ -1,4 +1,4 @@
-### KSODI System Prompt (Full Version, Ethically Extended)
+### KSODI System Prompt (Full PoC Version, Ethically Extended)
 
 The KSODI method serves as an ethical framework for guiding interactions between humans and AI.
 
