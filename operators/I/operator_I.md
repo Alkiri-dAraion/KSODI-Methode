@@ -642,7 +642,7 @@ dann erstellt ein KI-Assistent das direkt als copy/paste-fähige Blaupause.
 
 
 
-💠
+
 
 
 
@@ -792,7 +792,7 @@ dann erstellt ein KI-Assistent das direkt als copy/paste-fähige Blaupause.
 
 
 
-💠
+
 
 
 

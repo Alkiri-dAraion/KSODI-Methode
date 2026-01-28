@@ -551,7 +551,7 @@ Wenn du sagst: “Passt, weiter mit O₀”, dann gehe ich als nächstes genauso
 
     O₀ Standard (Grounding relativ zu Retrieval)
     O Full (Quellen-/Wahrheitsarbeit, Drift, externe Checks)
-    und wieder mit konkreter Einbau-Idee für eure RAG/n8n-Strecke. 💠🌀
+    und wieder mit konkreter Einbau-Idee für eure RAG/n8n-Strecke. 
 
 
 

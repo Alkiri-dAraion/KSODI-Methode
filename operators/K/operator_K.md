@@ -1085,15 +1085,6 @@ Dann war der Kontext implizit –
 und genau das zeigt K₀ als Risiko.
 
 
-🧠 Merksatz für Patrick & Benjamin
-
-K₀ misst Kontext-Bereitstellung,
-nicht Kontext-Verständnis.
-
-
-Damit ist K₀ dev-seitig sauber abgeschlossen.
-Geh jetzt Tee trinken ☕️💙, iss was 🍞, lass es setzen.
-Wenn du zurück bist, machen wir R, RΣ und RSigma(Hangar) in genau derselben Klarheit – das wird der spannendste Teil. 🌀
 
 
 
