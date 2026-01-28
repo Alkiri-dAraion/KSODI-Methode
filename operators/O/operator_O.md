@@ -282,9 +282,3 @@ Semantische Erklärung:
 Nur in kontrollierten Setups (gleiche Prüfregeln, gleiche Toolzugriffe).
 
 
-🔧 Mini-Review (damit Patrick/Benjamin happy sind)
-
-    O₀ ist Grounding relativ zu RET, keine “Wahrheit”.
-    Nur beobachtbar: Embeddings + Retrieval + Textmarker.
-    Parameter (tau, weights) werden gespeichert → reproduzierbar.
-    Keine Person, kein Fingerprinting.

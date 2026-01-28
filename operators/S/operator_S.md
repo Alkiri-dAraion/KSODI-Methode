@@ -309,8 +309,6 @@ Pro Turn:
         format_passed_map (z.B. {"JSON":false,"STEPS":true})
         n_paragraphs, n_bullets, n_numbered, n_headings
 
-Damit kann Benjamin sofort prüfen: “Warum S0 so?”
-
 
 8) Edge Cases / Guardrails
 
@@ -376,11 +374,3 @@ Ideen:
 
 Nur in kontrollierten Setups (gleiche Regeln, gleiche Aufgabenklassen).
 
-
-🔍 Mini-Reality-Check (für Patrick & Benjamin)
-
-    kein Stil-Score
-    kein Personenmerkmal
-    Regex + einfache Parser + Embeddings reichen
-    Format-Checks sind explizit → auditierbar
-    Parameter versionierbar

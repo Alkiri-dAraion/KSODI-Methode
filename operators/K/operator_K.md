@@ -308,8 +308,6 @@ Pro Turn:
         format_passed_map (z.B. {"JSON":false,"STEPS":true})
         n_paragraphs, n_bullets, n_numbered, n_headings
 
-Damit kann Benjamin sofort prüfen: “Warum S0 so?”
-
 
 8) Edge Cases / Guardrails
 
@@ -389,13 +387,6 @@ Ideen:
 Nur in kontrollierten Setups (gleiche Regeln, gleiche Aufgabenklassen).
 
 
-🔍 Mini-Reality-Check (für Patrick & Benjamin)
-
-    kein Stil-Score
-    kein Personenmerkmal
-    Regex + einfache Parser + Embeddings reichen
-    Format-Checks sind explizit → auditierbar
-    Parameter versionierbar
 
 
 Wir beobachten nur, was bereitgestellt wurde – nicht, was jemand „im Kopf hatte“.
@@ -812,18 +803,6 @@ Implizite Rekonstruktion aus früheren Turns
 → das ist KSODI-Full (K(t)), nicht K₀.
 
 
-🧭 Saubere Trennung (bitte Patrick & Benjamin genau so sagen)
-
-    K₀ beantwortet:
-    „Habe ich diesem System jetzt genug Kontext gegeben?“
-    K(t) beantwortet:
-    „Wie hat sich unser gemeinsamer Kontext aufgebaut?“
-
-Wenn ihr das vermischt, verliert ihr:
-
-    Auditierbarkeit
-    Erklärbarkeit
-    ethische Klarheit
 
 
 Wichtigster KSODI-Satz an dieser Stelle

@@ -406,8 +406,6 @@ In Code/Infra heißt das:
 
 4) D₀ Komponenten — implementierbar & erklärbar
 
-Ich halte mich an die drei Teile, aber mit konkreter MVP-Operationalisierung, damit Benjamin/Patrick nicht meckern 😄
-
 (A) Kontextkohärenz (C)
 
 Was: passt der Chunk semantisch zur sichtbaren Grundlage?
@@ -473,9 +471,6 @@ Startwerte (pragmatisch):
     (\beta=0.3) (Operationalität)
     (\gamma=0.2) (Ambiguität-Strafe)
 
-👉 Wenn Benjamin “zu heuristisch” sagt:
-Dann sagst du: D₀ ist Standard-Eval, erklärbar, auditierbar; Heuristiken sind gewollt.
-Und wir können später empirisch justieren.
 
 
 6) Outputs, die ihr speichern solltet (für Audit / Debug)
@@ -488,8 +483,6 @@ Pro Turn (für q und a getrennt):
     reference_ids (retrieval doc ids)
     system_prompt_id, tool_profile_id
     optional: sentence_count (nur zur Stabilitätsprüfung)
-
-So kann Patrick im Dashboard sehen, warum D₀ so ausfiel.
 
 
 7) Edge Cases (damit euch nichts um die Ohren fliegt)
