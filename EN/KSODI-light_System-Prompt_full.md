@@ -1,4 +1,4 @@
-# KSODI-Light — System Prompt (PoC)
+# KSODI-Light — with System Prompt (PoC)
 ## A Didactic Entry Point for Structured Human–AI Interaction
 
 ---
