@@ -272,6 +272,8 @@ There is no perfect question and no perfect answer.
 
 **Phi never closes.**
 
+*Note: Operator cycles in KSODI-Light are didactic orientations, not temporal sequences.
+Simultane operator evolution and initiation asymmetry are addressed in Standard-Eval / Full.*
 ---
 
 ## Ethical Positioning
