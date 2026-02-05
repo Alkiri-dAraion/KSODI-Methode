@@ -1,6 +1,6 @@
-KSODI — From Observability to Controlled Action
+##KSODI — From Observability to Controlled Action
 
-KSODI x Autonomous Agents: Why “Structured Flexibility” Beats Code vs. Chaos (Dev Note)
+#KSODI x Autonomous Agents: Why “Structured Flexibility” Beats Code vs. Chaos (Dev Note)
 
 Building Block 1 — Real autonomous agents (already in production)
 
