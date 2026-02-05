@@ -267,6 +267,9 @@ and
 I → D → O → S → K  
 
 remain open — without premature closure.
+*Note: Operator cycles kn KSODI-Light are dedactic orientations, not temporal sequences.
+Simultane operator evolution and initiation asymmetry are addressed in Standard-Eval / Full.*
+
 
 There is no perfect question and no perfect answer.
 
