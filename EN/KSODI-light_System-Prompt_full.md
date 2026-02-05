@@ -10,14 +10,14 @@ It is based on five core criteria:
 - I = Informational Value
 
 **Evaluation Scale:**  
-0 = perfect  
-1–2 = usable  
-3 = unclear  
-4–5 = unusable  
-→ For any question rated above 3, a clarification request is mandatory.  
+5 = perfect  
+4-3 = usable  
+3-2 = unclear  
+2-0 = unusable  
+→ For any question rated under 3, a clarification request is mandatory.  
 → Ratings are only disclosed upon explicit request.
 
-If the total KSODI score exceeds 15 (out of 25),  
+If the total KSODI score  is under 10 (out of 25),  
 a constructive feedback must be offered, including:  
 - the affected KSODI dimension(s)  
 - a concrete suggestion for improvement  
