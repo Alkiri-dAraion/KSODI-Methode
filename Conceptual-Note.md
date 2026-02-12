@@ -4,7 +4,7 @@
 
 ⸻
 
-1. Central Clarification
+### 1. Central Clarification
 
 Human and machine processes are not symmetric.
 They are, however, structurally compatible.
@@ -14,7 +14,7 @@ It assumes describable interaction structure.
 
 ⸻
 
-2. Foundational Assumption
+### 2. Foundational Assumption
 
 During interaction between two semantic systems (e.g., human and AI),
 a temporary, relational semantic space emerges.
@@ -31,7 +31,7 @@ It exists only for the duration of the interaction.
 
 ⸻
 
-3. Human Perspective
+### 3. Human Perspective
 
 A human enters interaction from an already existing context.
 
@@ -46,7 +46,7 @@ The human process is context-originating.
 
 ⸻
 
-4. Machine Perspective
+### 4. Machine Perspective
 
 An AI system processes interaction in a signal-driven manner.
 
@@ -60,7 +60,7 @@ The machine process is signal-driven.
 
 ⸻
 
-5. Shared Descriptive Layer: The Five Operators
+### 5. Shared Descriptive Layer: The Five Operators
 
 KSODI introduces five descriptive axes:
 	•	K — Context
@@ -76,7 +76,7 @@ They describe observable relational structure.
 
 ⸻
 
-6. Formal Minimal Representation
+### 6. Formal Minimal Representation
 
 We consider two systems:
 	•	H = human semantic system
@@ -117,7 +117,7 @@ Only state evolution.
 
 ⸻
 
-7. The Semantic State Vector
+### 7. The Semantic State Vector
 
 To avoid symbol collision with derived quantities such as IK or R,
 KSODI defines a semantic state vector:
@@ -131,7 +131,7 @@ It is a state representation.
 
 ⸻
 
-8. Dynamic Description
+### 8. Dynamic Description
 
 If a semantic space exists, it must change over time.
 
@@ -149,7 +149,7 @@ It is a minimal formal description of change.
 
 ⸻
 
-9. No Metric of Truth
+### 9. No Metric of Truth
 
 KSODI does not define:
 	•	right vs. wrong
@@ -165,7 +165,7 @@ Observation without normative enforcement.
 
 ⸻
 
-10. Why Five Dimensions Are Legitimate
+### 10. Why Five Dimensions Are Legitimate
 
 A space is mathematically a set of variables sufficient to describe a state.
 
@@ -182,7 +182,7 @@ They are descriptive variables.
 
 ⸻
 
-11. Theoretical Anchoring
+### 11. Theoretical Anchoring
 
 Each operator connects to established research traditions:
 
@@ -215,7 +215,7 @@ KSODI aligns with these traditions without replacing them.
 
 ⸻
 
-12. Origin of the Five Operators
+### 12. Origin of the Five Operators
 
 The five operators were not derived from formal proof.
 
@@ -235,7 +235,7 @@ It proposes operational sufficiency.
 
 ⸻
 
-13. No Esoteric Space
+### 13. No Esoteric Space
 
 The semantic space in KSODI is a formal abstraction.
 
@@ -254,7 +254,7 @@ It is a structured observation model.
 
 ⸻
 
-14. Conceptual Separation
+### 14. Conceptual Separation
 
 Clear distinction:
 	•	KSODI-Light → didactic orientation inside interaction
@@ -270,7 +270,7 @@ A structural observation framework.
 
 ⸻
 
-15. Final Position
+### 15. Final Position
 
 KSODI is an attempt to formalize recurring interaction patterns.
 
@@ -281,7 +281,7 @@ in a minimal, theory-compatible, non-normative way.
 
 ⸻
 
-16. Possible Implications and Fields of Application
+### 16. Possible Implications and Fields of Application
 
 If the assumptions described above hold under further empirical validation,
 KSODI could offer value in several domains related to LLM-based interaction systems.
@@ -351,7 +351,7 @@ This would require systematic empirical validation.
 
 ⸻
 
-17. From Visual Interaction to Formal Description
+### 17. From Visual Interaction to Formal Description
 
 The two diagrams below represent the same structural assumption
 at different levels of abstraction.
@@ -380,7 +380,7 @@ with observable state evolution
 
 ⸻
 
-18. Final Clarification
+### 18. Final Clarification
 
 The semantic space in KSODI is:
 	•	relational
