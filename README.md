@@ -38,7 +38,10 @@ Special thanks to Benjamin Gage-Prater and Patrick Barthelmäs (platform & integ
 
 ________________________________________________________________
 
-⚠️ This documentation includes hypothesis-oriented material (written in the conditional / Konjunktiv), reflecting ongoing empirical exploration of the KSODI model. The Conceptual Note elaborates on theoretical assumptions and should be read with this context in mind.
+⚠️ This documentation includes hypothesis-oriented material (written in the conditional / Konjunktiv), reflecting ongoing empirical exploration of the KSODI model.  
+
+**Further theoretical clarification:**  
+See the [Conceptual Note](./Conceptual-Note.md).
 <br>
 
 ## Publication Status & Ongoing Updates
