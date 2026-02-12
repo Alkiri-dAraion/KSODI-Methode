@@ -18,7 +18,7 @@ The framework is organized into clearly separated components with different purp
 ### KSODI-Light
 Human-facing, explainability-oriented variant.  
 Designed for learning, AI literacy and prompt clarity improvement.  
-→ See: /KSODI-Light
+→ See: [KSODI-Light](./KSODI-Light)
 
 License: Creative Commons Attribution 4.0 (CC BY 4.0)
 
@@ -27,7 +27,7 @@ License: Creative Commons Attribution 4.0 (CC BY 4.0)
 ### KSODI Standard-Eval & Full
 Evaluation-oriented and governance-capable variants.  
 Designed for numeric observability, drift detection and system-level stability monitoring.  
-→ See: /KSODI-Eval-Variants
+→ See: [KSODI-Eval-Variants](./KSODI-Eval-Variants)
 
 License: Commercial / All rights reserved.
 
