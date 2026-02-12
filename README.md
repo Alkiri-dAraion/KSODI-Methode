@@ -27,7 +27,7 @@ License: Creative Commons Attribution 4.0 (CC BY 4.0)
 ### KSODI Standard-Eval & Full
 Evaluation-oriented and governance-capable variants.  
 Designed for numeric observability, drift detection and system-level stability monitoring.  
-→ See: /KSODI-Eval-Varianten
+→ See: /KSODI-Eval-Variants
 
 License: Commercial / All rights reserved.
 
