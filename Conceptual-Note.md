@@ -1,8 +1,6 @@
-KSODI – Conceptual Note
+# KSODI — Conceptual Note
+*A structural observation model for human–AI interaction*
 
-A Structural Observation Model for Human–AI Interaction
-
-⸻
 
 1. Central Clarification
 
@@ -439,4 +437,7 @@ It proposes a structured hypothesis:
 that interaction dynamics can be described formally
 without assuming internal access to model parameters.
 
-Further testing is required.
+*Further testing is required.*
+
+
+#These implications are hypotheses supported by empirical patterns observed in prototype implementations and require rigorous systematic evaluation.
