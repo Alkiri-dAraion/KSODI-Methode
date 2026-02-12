@@ -84,7 +84,9 @@ We consider two systems:
 
 Each has an internal semantic state:
 
+$$
 S_H(t), \quad S_M(t)
+$$
 
 The user interface (UI) is not a cognitive space.
 It is a coupling function:
