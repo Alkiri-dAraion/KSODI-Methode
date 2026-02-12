@@ -76,38 +76,115 @@ They describe observable relational structure.
 
 ⸻
 
-6. Formal Minimal Representation
+🔹 Formal Minimal Notation (Revised, Clean Version)
 
-We consider two systems:
-	•	H = human semantic system
-	•	M = machine semantic system
+1️⃣ Two interacting systems
 
-Each has an internal semantic state:
+We consider two semantic systems:
+	•	H = Human semantic system
+	•	M = Machine semantic system
 
-$$
-S_H(t), \quad S_M(t)
-$$
+Each possesses an internal semantic state.
 
-The user interface (UI) is not a cognitive space.
-It is a coupling function:
+Instead of using S, we define a state vector:
 
-C : S_H \leftrightarrow S_M
+\mathbf{Z}_H(t), \quad \mathbf{Z}_M(t)
 
-Interaction results in mutual state change:
+⸻
 
-S_H(t+1) = f_H(S_H(t), I_M(t))
+2️⃣ Definition of the Semantic State Vector
 
-S_M(t+1) = f_M(S_M(t), I_H(t))
+The internal semantic state at time t is defined as:
+
+\mathbf{Z}(t) = \big( K(t), S(t), O(t), D(t), I(t) \big)
+
+Where:
+	•	K(t) = Context dimension
+	•	S(t) = Structure dimension
+	•	O(t) = Objectivity dimension
+	•	D(t) = Distinctness dimension
+	•	I(t) = Informational Value dimension
+
+Important clarification:
+
+\mathbf{Z}(t)
+
+is not an additional operator.
+
+It is a compact representation of the five KSODI dimensions as a state vector in a 5-dimensional descriptive space.
+
+⸻
+
+3️⃣ The UI as Coupling Interface
+
+The user interface is not a semantic system.
+
+It is a coupling operator:
+
+C : \mathbf{Z}_H \leftrightarrow \mathbf{Z}_M
+
+It mediates signal exchange, but does not generate meaning independently.
+
+⸻
+
+4️⃣ Coupled State Evolution
+
+Interaction results in reciprocal state transitions:
+
+\mathbf{Z}_H(t+1) = f_H\big( \mathbf{Z}_H(t), I_M(t) \big)
+
+\mathbf{Z}_M(t+1) = f_M\big( \mathbf{Z}_M(t), I_H(t) \big)
 
 Where:
 	•	I_H(t) = input from human
 	•	I_M(t) = input from machine
 
-This forms a coupled dynamical system.
+This forms a coupled dynamic system.
 
 No teleology.
-No target state.
+No predefined target state.
 Only state evolution.
+
+⸻
+
+5️⃣ Dynamic Description
+
+The development of interaction can be minimally described as:
+
+State:
+\mathbf{Z}(t)
+
+First derivative (direction of change):
+\frac{d\mathbf{Z}}{dt}
+
+Second derivative (stability / acceleration of change):
+\frac{d^2\mathbf{Z}}{dt^2}
+
+This is a formal abstraction.
+
+It does not claim physical ontology.
+It describes structural change in interaction.
+
+⸻
+
+6️⃣ Position of IK and R
+
+To avoid confusion:
+	•	\mathbf{Z}(t) = instantaneous semantic state vector
+	•	IK = function of relational coherence across time
+	•	R = dynamic resonance projection derived from interaction trajectory
+
+Example (abstract):
+
+IK = g\big( \mathbf{Z}(t_1), \mathbf{Z}(t_2), \dots \big)
+
+R = h\left( \frac{d\mathbf{Z}}{dt} \right)
+
+Thus:
+	•	Z describes state
+	•	IK describes cross-state coherence
+	•	R describes dynamic alignment
+
 
 ⸻
 
