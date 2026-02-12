@@ -95,4 +95,3 @@ _____________________________________
 Some of these texts capture moments of *crystallization* (one of my short stories): when abstract structure, intuition and meaning briefly align.*
 
 *📬 [Subscribe to my Substack](https://annesteinacker.substack.com/subscribe)*
-

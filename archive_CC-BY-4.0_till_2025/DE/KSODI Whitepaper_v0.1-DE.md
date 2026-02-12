@@ -108,4 +108,4 @@ Die KSODI-Methode bietet die Lösung:
 
 ***👉 KSODI revolutioniert die KI-Nutzung nachhaltig; Unternehmen, Entwickler und Entscheidungsträger sollten jetzt handeln!***
 
-![Ein KSODI-Bot hilft dem Menschen aus der "Box"](/DE/res/KSODI%20image%2001.png)
+![Ein KSODI-Bot hilft dem Menschen aus der "Box"](/DE/res/assets/images/KSODI_Steinzeit_zur_Zukunft.png)
