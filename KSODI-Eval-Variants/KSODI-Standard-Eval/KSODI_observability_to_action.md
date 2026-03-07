@@ -119,20 +119,22 @@ It signals when **interaction structure becomes unstable**.
 
 Language-driven systems face a structural trade-off.
 
-
-       Flexibility
-              /\
-             /  \
-            /    \
-           /      \
-          / KSODI  \
-         /structured\
-        /flexibility \
-       /              \
-      /                \
-     /__________________\
-Predictability        Chaos  
-
+```
+                Flexibility
+                   /\
+                  /  \
+                 /    \
+                /      \
+               / KSODI  \
+              /structured\
+             /flexibility \
+            /              \
+           /                \
+          /                  \
+         /                    \
+        /______________________\
+Predictability              Chaos
+```
 
 Three design approaches:
 
