@@ -1,4 +1,4 @@
-# IDAS Framework – Whitepaper V1.1
+# IDAS Framework – Whitepaper V3.3
 
 *Interactive Dialogue, Analytics & Steering (IDAS)*  
 Author: Anne Steinacker-Folkerts  
@@ -119,3 +119,94 @@ Five operators describe interaction structure:
 - **I — Information content**
 
 These operators produce normalized values in the range:
+[0,1]
+
+Together they form the interaction state vector:
+Z = (K,S,O,D,I)
+
+From this vector further observable interaction structures can be derived.
+
+---
+
+# Observability vs Steering
+
+A central design principle of IDAS is the separation between:
+
+**Observation**
+
+and
+
+**Control**
+
+### Observability
+
+The system describes interaction states.
+
+Examples include:
+
+- state vectors
+- interaction distributions
+- interaction dynamics
+
+No normative judgement is applied.
+
+---
+
+### Steering
+
+Steering is possible but **not part of the core model**.
+
+Control mechanisms arise only when thresholds or policies are introduced.
+
+Examples:
+
+- drift alerts
+- anomaly detection
+- workflow automation
+
+These mechanisms are external to the core observation model.
+
+---
+
+# SIRA – Interaction Protocol
+
+While KSODI describes interaction structure, SIRA describes **interaction practice**.
+
+SIRA is a lightweight protocol for structured dialogue.
+
+Steps:
+
+- **Signal** – structural markers in interaction
+- **Intention** – clarify purpose
+- **Resonance** – verify mutual understanding
+- **Adjustment** – allow adaptation and iteration
+
+The protocol does not enforce behavior but encourages structured interaction.
+
+---
+
+# Emergence and Interaction Dynamics
+
+Complex interaction patterns may emerge when structured observation and interaction protocols are combined.
+
+However:
+
+The framework does **not assume or guarantee emergent properties**.
+
+Emergent behavior is treated as an empirical observation that must be critically examined.
+
+---
+
+# Vision
+
+IDAS approaches interaction not as a linear chat log but as a navigable interaction space.
+
+In future systems this could enable:
+
+- interaction maps
+- project-level interaction analysis
+- visual exploration of dialogue structures
+
+The long-term goal is to make human–AI interaction **more transparent, structured and understandable**.
+
+
