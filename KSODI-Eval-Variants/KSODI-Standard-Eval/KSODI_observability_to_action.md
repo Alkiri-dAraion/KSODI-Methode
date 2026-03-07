@@ -12,7 +12,7 @@ The framework focuses on **interaction structure and state dynamics**, not on ev
 
 ---
 
-# Building Block 1 — Autonomous Agents Already Exist
+# Autonomous Agents Already Exist
 
 Autonomous agents are not a future concept.  
 They are already widely deployed across software development, research workflows, automation systems and customer support platforms.
@@ -56,7 +56,7 @@ Without monitoring, long interaction chains can gradually drift away from their 
 
 ---
 
-# Building Block 2 — Operator Drift
+# Operator Drift
 
 KSODI makes structural interaction changes visible.
 
@@ -115,7 +115,7 @@ It signals when **interaction structure becomes unstable**.
 
 ---
 
-# Building Block 3 — The Autonomy Trilemma
+# The Autonomy Trilemma
 
 Language-driven systems face a structural trade-off.
 
@@ -132,3 +132,97 @@ Language-driven systems face a structural trade-off.
       /                \
      /__________________\
 Predictability        Chaos  
+
+
+Three design approaches:
+
+| Approach | Strength | Limitation |
+|----------|----------|------------|
+Hard-coded rules | Predictable | Break under linguistic variation |
+Pure emergence | Flexible | Unstable and drift-prone |
+KSODI observability | Flexible and monitorable | Requires monitoring infrastructure |
+
+---
+
+## Why Deterministic Rules Fail
+
+Example rule system:
+if “refund” in message:
+if order_value > 100:
+escalate()
+else:
+approve_refund()
+
+Fails for:
+• “I want my money back.”  
+• “The item arrived damaged.”  
+• “Can I exchange this?”
+
+Language variability breaks rigid rules.
+
+---
+
+## KSODI-Structured Interaction
+
+Incoming message:
+“The item arrived damaged.”
+
+Structural analysis:
+
+| Operator | Observation |
+|------|------|
+K | missing order context |
+S | unclear process |
+O | missing evidence |
+D | unclear desired outcome |
+I | incomplete information |
+
+Example Standard-Eval:
+K = 0.4
+S = 0.6
+O = 0.3
+D = 0.5
+I = 0.4
+
+Result:
+Average ≈ 0.44
+Light ≈ 2.2
+
+Possible policy response:
+
+Request missing anchors:
+• order ID  
+• photo evidence  
+• desired outcome
+
+Language remains flexible, but interaction stays structurally stable.
+
+---
+
+# Governance Clarification
+
+KSODI is designed to improve **interaction observability and structural stability**.
+
+The framework:
+
+• does not reconstruct private information  
+• does not access external data sources  
+• does not perform cross-account inference
+
+If similar interaction patterns appear across systems, this results from:
+
+• repeated user interaction styles  
+• shared contextual prompts  
+• model generalization
+
+—not from hidden data access.
+
+---
+
+# Conclusion
+
+Autonomous systems already operate in production environments.
+
+As autonomy increases, **interaction monitoring becomes essential**.
+
+KSODI provides a **minimal, implementation-agnostic observability framework** for analyzing interaction structure in language-driven systems.
