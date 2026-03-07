@@ -11,7 +11,7 @@ ________________________________________________________________
 
 KSODI is a structured observation and causality model for human–AI interaction quality.
 It is part of the IDAS-Framework.
-see: > KSODI-IDAS-SIRA_Framework
+→ See: [KSODI-IDAS-SIRA_Framework](./→ 
 
 The framework is organized into clearly separated components with different purposes and licenses.
 
