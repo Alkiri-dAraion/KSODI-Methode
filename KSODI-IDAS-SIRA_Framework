@@ -1,0 +1,121 @@
+# IDAS Framework – Whitepaper V1.1
+
+*Interactive Dialogue, Analytics & Steering (IDAS)*  
+Author: Anne Steinacker-Folkerts  
+
+---
+
+## Changelog – Version 1.1
+
+- **Two-phase interaction model**
+  - Phase 1: reflective exploration space
+  - Phase 2: productive interaction space
+
+- **Clarified architecture**
+  - IDAS = interaction architecture
+  - KSODI = structural observation method
+  - SIRA = interaction protocol
+
+- **Clear separation between**
+  - observation (observability)
+  - steering (control mechanisms)
+
+---
+
+# IDAS in One Sentence
+
+**IDAS is an architectural framework for structuring, observing and optionally steering human–AI interaction over time.**
+
+It integrates three elements:
+
+| Component | Role |
+|---|---|
+| KSODI | structural observation and causality model |
+| SIRA | interaction protocol |
+| IDAS | architectural integration |
+
+---
+
+# Architectural Principle
+
+IDAS intentionally separates three layers of interaction analysis:
+
+1. **Explainability**  
+2. **Observability**  
+3. **Optional steering**
+
+This separation ensures that observation and control remain distinguishable.
+
+---
+
+# Relationship to Existing Evaluation Methods
+
+IDAS and KSODI do **not replace existing evaluation methodologies**.
+
+The framework intentionally builds on concepts already used in:
+
+- prompt evaluation
+- interaction analysis
+- system observability
+- drift detection
+- human–computer interaction research
+
+Many mathematical elements therefore rely on established techniques such as:
+
+- vector spaces
+- distance measures
+- sequence analysis
+- statistical distributions
+
+KSODI primarily contributes **a structured way of combining these techniques into a coherent interaction model.**
+
+---
+
+# Two Phases of Interaction
+
+IDAS distinguishes two interaction environments.
+
+## Phase 1 – Reflective Space
+
+A protected exploratory environment.
+
+Characteristics:
+
+- experimentation
+- open thinking
+- idea generation
+- iterative dialogue
+
+This phase is **not intended for monitoring or evaluation**.
+
+Its purpose is cognitive exploration.
+
+---
+
+## Phase 2 – Productive Interaction Space
+
+A structured environment where interaction becomes observable.
+
+Characteristics:
+
+- structured prompts
+- analyzable interaction states
+- reproducible outputs
+
+Only this phase is suitable for system-level evaluation.
+
+---
+
+# KSODI – Structural Observation Model
+
+KSODI provides a structured way to observe interaction states.
+
+Five operators describe interaction structure:
+
+- **K — Context**
+- **S — Structure**
+- **O — Objectivity / grounding**
+- **D — Distinctness / clarity**
+- **I — Information content**
+
+These operators produce normalized values in the range:
