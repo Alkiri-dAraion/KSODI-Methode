@@ -68,7 +68,7 @@ Instead, it detects when **interaction structure deteriorates**.
 | Layer | Scale |
 |------|------|
 KSODI-Light | 0–5 (human-facing prompt clarity) |
-KSODI-Standard | 0.0–1.0 (numeric operator space) |
+KSODI-Standard-Eval | 0.0–1.0 (numeric operator space) |
 
 Approximate mapping:
 KSODI-Light ≈ 5 × KSODI-Standard
