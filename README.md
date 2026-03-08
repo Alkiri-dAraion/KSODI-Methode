@@ -34,7 +34,8 @@ License: Creative Commons Attribution 4.0 (CC BY 4.0)
 
 ### KSODI Standard-Eval & KSODI Full
 Evaluation-oriented and governance-capable variants.  
-Designed for numeric observability, drift detection and system-level stability monitoring with optional steering..  
+Designed for numeric observability, drift detection and system-level stability monitoring with optional steering.
+KSODI 3.3 is the first stable reference implementation of the KSODI interaction observability model.
 → See: [KSODI-Eval-Variants](./KSODI-Eval-Variants)
 
 License: Commercial / All rights reserved.
