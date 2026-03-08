@@ -67,7 +67,7 @@ For licensing inquiries, please contact:
 ksodi@thevoid.email
 
 
-KSODI 3.3 is the first stable reference version.
+KSODI 3.3 (all rights reserved) is the first stable reference version.
 Versions prior to KSODI 3.3 contain structural inconsistencies
 and should not be used for implementation.
 
