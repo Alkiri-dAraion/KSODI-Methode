@@ -396,3 +396,7 @@ Interaction can be described as the dynamic coupling of two semantic state syste
 
 ⸻
 
+Formal mathematical definitions of the KSODI interaction
+observability model will be published in a forthcoming
+technical paper.
+
