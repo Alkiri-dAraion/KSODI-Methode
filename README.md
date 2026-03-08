@@ -66,6 +66,10 @@ all rights are reserved.
 For licensing inquiries, please contact:
 ksodi@thevoid.email
 
+
+Versions prior to KSODI 3.3 contain structural inconsistencies
+and should not be used for implementation.
+
 ---
 
 © 2026 Anne Steinacker-Folkerts & Heiko Folkerts
