@@ -64,8 +64,8 @@ Each folder contains its own LICENSE file.
 Unless explicitly stated otherwise in a subfolder license,  
 all rights are reserved.
 
-For licensing inquiries, please contact:
-ksodi@thevoid.email
+For licensing inquiries, integration, whitelabeling or enterprise adoptions please contact:
+ksodi@thevoid.email with details on intended use case.
 
 
 KSODI 3.3 (all rights reserved) is the first stable reference version.
