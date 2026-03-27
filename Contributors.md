@@ -6,7 +6,7 @@ About us
 => INTP-T | Systemic by nature, emergent by design.
 
 We thank our friends Patrick Bathelmäs (Developer, Implementation) and in the early stages Benjamin Gage-Prater (Developer, Testing) for their continued implementation and testing.
-Together with Patrick we're actually buildung the first full implementation of KSODI-Standard Eval & KSODI Full.
+Together with Patrick we're actually buildung the first full implementation of KSODI-Standard Eval & KSODI Full in our first officially referenced V3.3. 
 
 🎯 I started this initiative to help people overcome fear and hesitation around AI — and to improve the quality and resonance of human-AI interactions.
 
