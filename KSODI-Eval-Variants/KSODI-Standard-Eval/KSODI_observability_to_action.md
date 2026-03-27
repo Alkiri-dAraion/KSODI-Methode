@@ -203,7 +203,7 @@ Language remains flexible, but interaction stays structurally stable.
 
 # Governance Clarification
 
-KSODI is designed to improve **interaction observability and structural stability**.
+KSODI is primarily designed to improve **interaction observability and structural stability**.
 
 The framework:
 
