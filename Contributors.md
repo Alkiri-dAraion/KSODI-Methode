@@ -5,7 +5,8 @@ About us
 ✨ I’m an experienced IT-trainer, AI-Consultant and Governance-Admin with over 30 years of professional (national and international) teaching and project experience. My background spans roles as a GPOP team coach (Hogrefe-licensed), senior financial consultant, project leader, management board member, sales director, head of marketing and communications, speaker, and founder — with more than 10,000 people trained across business, government, education, and sports. I also hold a master’s degree in horse science and have over 35 years of experience in training both people and animals. 
 => INTP-T | Systemic by nature, emergent by design.
 
-We thank our friends Patrick Bathelmäs (Developer, Implementation) and Benjamin Gage-Prater (Developer, Testing) for their continued implementation and testing.
+We thank our friends Patrick Bathelmäs (Developer, Implementation) and in the early stages Benjamin Gage-Prater (Developer, Testing) for their continued implementation and testing.
+Together with Patrick we're actually buildung the first full implementation of KSODI-Standard Eval & KSODI Full.
 
 🎯 I started this initiative to help people overcome fear and hesitation around AI — and to improve the quality and resonance of human-AI interactions.
 
