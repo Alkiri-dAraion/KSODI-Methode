@@ -14,10 +14,10 @@ It is part of the IDAS-Framework.
 
 → See: [KSODI-IDAS-SIRA_Framework](./KSODI-IDAS-SIRA_Framework)
 
-The framework separates explainability, observability and advanced interaction analysis (with optional steering) into clearly defined layers - such as interaction states, interaction coherence and interaction resonance.
+The framework separates explainability, observability and advanced interaction analysis (with optional steering) into clearly defined layers - such as interaction states, interaction coherence and interaction resonance - over time.
 
 KSODI does **not** evaluate people, personalities or intentions.  
-It operates exclusively on observable interaction states.
+It respects maximum privacy and operates exclusively on observable interaction states.
 
 The framework is organized into clearly separated components with different purposes and licenses.
 
@@ -50,7 +50,7 @@ KSODI focuses on structured observation across five operators:
 - Structure  
 - Objectivity  
 - Clarity  
-- Information Content  
+- Information Depth  
 
 The broader architectural framework integrating KSODI is referred to as IDAS (Interactive Dialog, Analytics & Steering).
 
