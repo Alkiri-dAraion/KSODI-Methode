@@ -2,14 +2,14 @@ About us
 
 👋 Hi, I’m Anne Steinacker-Folkerts ("Alkiri-dAraion" in TESO). I came up with the idea for this project and am developing it together with Heiko Folkerts (IT security specialist, Dipl.-Ing. information technology) and - in the early phases in 2023/24 and again while preparing the paper - Silke Honerkamp (Dipl.-Pädagogin, DCG coach, with over 30 years of training experience in special environments) — along with important technical, reflective and testing support from friends.
 
-✨ I’m an experienced IT-trainer, AI-Consultant and Governance-Admin with over 30 years of professional (national and international) teaching and project experience. My background spans roles as a GPOP team coach (Hogrefe-licensed), senior financial consultant, project leader, management board member, sales director, head of marketing and communications, speaker, and founder — with more than 10,000 people trained across business, government, education, and sports. I also hold a BA prof. and a master’s degree in horse science and have over 35 years of experience in training both people and animals. 
+✨ I’m an experienced IT-trainer, AI-Consultant and Governance-Admin with over 30 years of professional (national and international) teaching and project experience. My background spans roles as a GPOP team coach (Hogrefe-licensed), senior financial consultant, project leader, management board member, sales director, head of marketing and communications, speaker, and founder — with more than 10,000 people trained across business, government, education, and sports. I also hold a BA prof. and a master’s degree in horse science and have over 35 years of experience in training both people and animals.
 => INTP-T | Systemic by nature, emergent by design.
 
-We thank Patrick Barthelmäs for substantial technical implementation and infrastructure work around KSODI, especially toward the first full implementation of KSODI-Standard Eval & KSODI Full in the fist officially referenced V2.3 line. His contribution is acknowledged as core implementation and infrastructure support, distinct from methodological authorship unless explicitly stated for a specific concept.
+We thank Patrick Barthelmäs for substantial technical implementation and infrastructure work around KSODI, including the [KSODI-Light-Agent PoC](https://github.com/blackbaddl13/r-KSODI-POC) and later work toward the first full implementation of KSODI-Standard Eval & KSODI Full in the first officially referenced V2.3 line. His contribution is acknowledged as core implementation and infrastructure support, distinct from methodological authorship unless explicitly stated for a specific concept.
 
 We also thank Benjamin Gage-Prater for early private testing and RAG-related feedback in March 2025. His contribution helped observe how KSODI-Light changed response behavior in a controlled RAG setting, but it was limited to early testing and feedback rather than ongoing implementation or authorship.
 
-→ See also: [KSODI Development Timeline](./docs/timeline/KSODI_Timeline_seit_2024-11.md)
+→ See also: [KSODI Development Timeline](./docs/timeline/KSODI_Timeline_since_2024-11.md) ([German version](./docs/timeline/KSODI_Timeline_seit_2024-11.md))
 
 🎯 I started this initiative to help people overcome fear and hesitation around AI — and to improve the quality and resonance of human-AI interactions.
 

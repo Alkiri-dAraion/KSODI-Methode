@@ -18,8 +18,7 @@ To view a copy of this license, visit [![CC BY 4.0][cc-by-shield]][cc-by] .
 ## Contributions
 
 Developers are welcome to contribute code, provide feedback, or implement the method in their own systems. Pull requests are appreciated.  
-Special thanks to Benjamin Gage-Prater and Patrick Barthelmäs (platform & integration support) and the "KSODI-Light-Agent"-PoC:
-[KSODI-Light-Agent PoC (GitHub)](https://github.com/blackbaddl13/r-KSODI-POC)
+Special thanks to Benjamin Gage-Prater for early RAG testing and feedback, and to Patrick Barthelmäs for platform and integration support, including the [KSODI-Light-Agent PoC (GitHub)](https://github.com/blackbaddl13/r-KSODI-POC).
 
 ## Invitation for Research & Feedback
 

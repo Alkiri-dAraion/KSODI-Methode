@@ -12,7 +12,7 @@ ________________________________________________________________
 KSODI is a structured observation model for human–AI interaction quality, focussing on explainable Governance.
 It is part of the IDAS-Framework.
 
-→ See: [KSODI-IDAS-SIRA_Framework](./KSODI-IDAS-SIRA_Framework)
+→ See: [KSODI-IDAS-SIRA_Framework](./KSODI-IDAS-SIRA_Framework.md)
 
 The framework separates explainability, observability and advanced interaction analysis (with optional steering) into clearly defined layers - such as interaction states, interaction coherence and interaction resonance - over time.
 
@@ -55,7 +55,8 @@ KSODI focuses on structured observation across five operators:
 The broader architectural framework integrating KSODI is referred to as IDAS (Interactive Dialog, Analytics & Steering).
 
 For a public development and contribution overview, see:
-[KSODI Development Timeline](./docs/timeline/KSODI_Timeline_seit_2024-11.md)
+[KSODI Development Timeline](./docs/timeline/KSODI_Timeline_since_2024-11.md)
+([German version](./docs/timeline/KSODI_Timeline_seit_2024-11.md))
 
 ---
 

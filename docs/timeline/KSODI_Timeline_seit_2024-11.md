@@ -1,5 +1,7 @@
 # Zeitliche Entwicklung der KSODI-Methode
 
+English version: [KSODI Development Timeline](./KSODI_Timeline_since_2024-11.md)
+
 ## Öffentliche Einordnung
 
 Diese Timeline dokumentiert die methodische Entwicklung von DOSI zu KSODI
