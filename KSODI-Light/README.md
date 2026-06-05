@@ -39,9 +39,19 @@ It supports:
 - explainability
 - AI literacy development
 - structured reflection on interaction quality
+- beginner-friendly collaboration with coding agents
 
 KSODI-Light does not evaluate correctness and does not judge users.
 It supports learning and clarity.
+
+## Agent Literacy
+
+KSODI-Light can also support beginners who work with coding agents.
+The examples below show how users can define reflective collaboration modes
+and lightweight agent prompts without publishing private personal instructions:
+
+→ See: [Coding Agent Skill Prompt Example](./agent-literacy/coding-agent-skill-prompt-example.md)
+→ See: [KSODI-Light System Prompt PoC](./agent-literacy/KSODI-light_System-Prompt_full.md)
 
 ## Scope
 
