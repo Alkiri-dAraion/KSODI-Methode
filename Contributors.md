@@ -1,12 +1,15 @@
 About us
 
-👋 Hi, I’m Anne Steinacker-Folkerts ("Alkiri-dAraion" in TESO). I came up with the idea for this project and am developing it together with Heiko Folkerts (IT security specialist, Dipl.-Ing. information technology) and - in the early phases in 2023/24 and just now (march 2026) while preparing a paper - Silke Honerkamp (Dipl.-Pädagogin, DCG coach, with over 30 years of training experience in special environments) — along with occasional support from other friends.
+👋 Hi, I’m Anne Steinacker-Folkerts ("Alkiri-dAraion" in TESO). I came up with the idea for this project and am developing it together with Heiko Folkerts (IT security specialist, Dipl.-Ing. information technology) and - in the early phases in 2023/24 and again while preparing the paper - Silke Honerkamp (Dipl.-Pädagogin, DCG coach, with over 30 years of training experience in special environments) — along with important technical, reflective and testing support from friends.
 
-✨ I’m an experienced IT-trainer, AI-Consultant and Governance-Admin with over 30 years of professional (national and international) teaching and project experience. My background spans roles as a GPOP team coach (Hogrefe-licensed), senior financial consultant, project leader, management board member, sales director, head of marketing and communications, speaker, and founder — with more than 10,000 people trained across business, government, education, and sports. I also hold a master’s degree in horse science and have over 35 years of experience in training both people and animals. 
+✨ I’m an experienced IT-trainer, AI-Consultant and Governance-Admin with over 30 years of professional (national and international) teaching and project experience. My background spans roles as a GPOP team coach (Hogrefe-licensed), senior financial consultant, project leader, management board member, sales director, head of marketing and communications, speaker, and founder — with more than 10,000 people trained across business, government, education, and sports. I also hold a BA prof. and a master’s degree in horse science and have over 35 years of experience in training both people and animals. 
 => INTP-T | Systemic by nature, emergent by design.
 
-We thank our friends Patrick Bathelmäs (Developer, Implementation) and in the early stages Benjamin Gage-Prater (Developer, Testing) for their continued implementation and testing.
-Together with Patrick we're actually buildung the first full implementation of KSODI-Standard Eval & KSODI Full in our first officially referenced V3.3. 
+We thank Patrick Barthelmäs for substantial technical implementation and infrastructure work around KSODI, especially toward the first full implementation of KSODI-Standard Eval & KSODI Full in the fist officially referenced V2.3 line. His contribution is acknowledged as core implementation and infrastructure support, distinct from methodological authorship unless explicitly stated for a specific concept.
+
+We also thank Benjamin Gage-Prater for early private testing and RAG-related feedback in March 2025. His contribution helped observe how KSODI-Light changed response behavior in a controlled RAG setting, but it was limited to early testing and feedback rather than ongoing implementation or authorship.
+
+→ See also: [KSODI Development Timeline](./docs/timeline/KSODI_Timeline_seit_2024-11.md)
 
 🎯 I started this initiative to help people overcome fear and hesitation around AI — and to improve the quality and resonance of human-AI interactions.
 
@@ -48,13 +51,11 @@ A central insight during this phase was that meaningful evaluation requires step
 
 Only by observing interaction *across* the five KSODI operators did the relative nature of reference frames, goal spaces and drift become visible. 
 
-During this phase, the ideas were shared with **OpenAI**.  
-They **acknowledged the structural approach and broader implications of the work**, noting in particular the clarity of the framework, the relevance of Whitelistening, and the focus on trust, continuity and user-visible safeguards:
-- *"Your insights, observations and the structured approach"*
-- *"We´ve noted all the points you´ve raised, including the technical observations, proposed improvements, and the broader implications for trust and continuity"*
-- *"Your KSODI framework and the concept of Whitelistening provide valuable context"*
-- *"your proposed solutions like project-level voice locking and user-visible warnings are particularly helpful"*
-- *"Your work with ELKIM(GPT) is a testament to what´s possible when AI is integrated into long-term, meaningful flows"*
+During this phase, parts of the work and related observations were shared with
+OpenAI as product feedback and technical context. Responses received at the
+time were encouraging and helped motivate further exploration. This should not
+be understood as an official endorsement, validation, affiliation, or adoption
+by OpenAI.
 
 Throughout the summer of 2025, Anne and Patrick revisited, evaluated and refined what had already been built — adding small but crucial pieces with each review cycle.  
 Toward the end of 2025, a decisive internal breakthrough occurred in a discussion with Heiko:
