@@ -6,6 +6,16 @@ ________________________________________________________________
 
 ⚠️ This documentation includes hypothesis-oriented material (written in the conditional / Konjunktiv), reflecting ongoing empirical exploration of the KSODI model.  
 
+⚠️ **Research-only notice:** The public KSODI Standard-Eval / Full materials in
+this repository are provided for conceptual review, discussion and research
+orientation only. They should not be used as an implementation reference. The
+public 3.3 materials contain known structural issues, including an objectivity
+operator behavior that can make measurement collapse to 0 / not measurable when
+no external data source or web access is connected, as well as ambiguities in
+variable handling and the unresolved public separation between Z, IK, R0,
+IK_rel and R variants. A revised 3.5 reference specification is maintained
+privately and will only be published after final testing and review.
+
 
 # KSODI Method
 
@@ -35,7 +45,10 @@ License: Creative Commons Attribution 4.0 (CC BY 4.0)
 ### KSODI Standard-Eval & KSODI Full
 Evaluation-oriented and governance-capable variants.  
 Designed for numeric observability, drift detection and system-level stability monitoring with optional steering.
-KSODI 3.3 is the first stable reference implementation of the KSODI interaction observability model.
+The public materials are not intended for implementation. KSODI 3.5 is the
+current private reference specification described in the paper draft and is
+intended to resolve known 3.3 ambiguities between interaction coherence and
+resonance.
 → See: [KSODI-Eval-Variants](./KSODI-Eval-Variants)
 
 License: Commercial / All rights reserved.
@@ -72,9 +85,12 @@ For licensing inquiries, integration, whitelabeling or enterprise adoptions plea
 ksodi@thevoid.email with details on intended use case.
 
 
-KSODI 3.3 (all rights reserved) is the first stable reference version.
-Versions prior to KSODI 3.3 contain structural inconsistencies
-and should not be used for implementation.
+The public KSODI 3.3 materials are preserved for transparency and research
+orientation, but contain known structural issues and should not be used for
+implementation.
+
+KSODI 3.5 is the current private reference specification and will only be
+published after final testing and review.
 
 ---
 

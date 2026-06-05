@@ -34,6 +34,26 @@ These variants are intended for:
 Earlier operator drafts (e.g. v0.8) are preserved for transparency.
 They reflect exploratory stages and are not representative of the current implementation architecture.
 
+The public KSODI 3.3 materials are also not recommended as an implementation
+reference. They contain known structural issues, including:
+
+- an objectivity operator behavior where measurement can collapse to 0 / not
+  measurable when no external data source or web access is connected
+- ambiguous or duplicated variable handling in parts of the public draft
+- unresolved public separation between Z, IK, R0, IK_rel and R variants
+
+A revised KSODI 3.5 reference specification is currently maintained privately
+and described in the current paper draft. It refines the separation between
+interaction coherence and resonance and will only be published after final
+testing and review.
+
+Some public v3.3 files already contain placeholders or preliminary glossary
+notes for Z, IK and R0. These files are not normative and should not be treated
+as a complete or tested specification.
+
+Until then, this directory should be used for conceptual review, discussion and
+research orientation only.
+
 ## License
 
 Commercial license only.  
