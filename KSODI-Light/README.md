@@ -50,7 +50,12 @@ The examples below show how users can define reflective collaboration modes
 and lightweight agent prompts without publishing private personal instructions:
 
 → See: [Coding Agent Skill Prompt Example](./agent-literacy/coding-agent-skill-prompt-example.md)
-→ See: [KSODI-Light System Prompt PoC](./agent-literacy/KSODI-light_System-Prompt_full.md)
+→ See: [KSODI-Light User / Account Prompt Example](./agent-literacy/KSODI-light_user-account-prompt-example.md)
+
+The account prompt example is not a hidden system prompt. It is a public,
+copy-and-paste-ready orientation prompt for user accounts, training contexts and
+simple assistant setups. More specialized variants, such as research, education
+or child-friendly prompts, can be added separately.
 
 ## Scope
 
