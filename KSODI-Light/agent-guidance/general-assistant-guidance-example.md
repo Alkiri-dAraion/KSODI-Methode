@@ -1,4 +1,4 @@
-# KSODI-Light User / Account Prompt Example (PoC)
+# KSODI-Light General Assistant Guidance Example (PoC)
 ## A Didactic Entry Point for Structured Human-AI Interaction
 
 ---

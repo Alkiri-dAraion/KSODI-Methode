@@ -1,4 +1,4 @@
-# Coding Agent Skill Prompt Example
+# Coding Agent Guidance Example
 
 This example shows how beginners can define a reflective collaboration mode
 for working with a coding agent.

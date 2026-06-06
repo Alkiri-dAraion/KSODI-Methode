@@ -49,13 +49,21 @@ KSODI-Light can also support beginners who work with coding agents.
 The examples below show how users can define reflective collaboration modes
 and lightweight agent prompts without publishing private personal instructions:
 
-→ See: [Coding Agent Skill Prompt Example](./agent-literacy/coding-agent-skill-prompt-example.md)
-→ See: [KSODI-Light User / Account Prompt Example](./agent-literacy/KSODI-light_user-account-prompt-example.md)
+→ See: [Coding Agent Guidance Example](./agent-guidance/coding-agent-guidance-example.md)
+→ See: [General Assistant Guidance Example](./agent-guidance/general-assistant-guidance-example.md)
+→ See: [Prompt Feedback Example](./user-feedback/prompt-feedback-example.md)
+→ See: [Self-Alignment vs. Observer-Based Steering](./developer-notes/self-alignment-vs-steering.md)
 
-The account prompt example is not a hidden system prompt. It is a public,
-copy-and-paste-ready orientation prompt for user accounts, training contexts and
-simple assistant setups. More specialized variants, such as research, education
-or child-friendly prompts, can be added separately.
+The guidance examples are not hidden system prompts. They are public,
+copy-and-paste-ready orientation prompts for user accounts, training contexts
+and simple assistant setups. More specialized variants, such as research,
+education, creative writing or child-friendly prompts, can be added separately.
+
+KSODI-Light may support reflective self-alignment patterns in assistants, such
+as asking for clarification, keeping uncertainty visible and adapting K/S/O/D/I
+expectations to the task context. This is not governance steering. Strong
+steering, fallback logic, corridor enforcement, drift monitoring and observer
+feedback belong to Standard-Eval, KSODI-Full or IDAS-level implementations.
 
 ## Scope
 
