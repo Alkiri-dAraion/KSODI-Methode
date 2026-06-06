@@ -4,6 +4,14 @@
 
 ⸻
 
+### Version Note
+
+This conceptual note is an earlier public orientation text.
+
+The Z state-vector layer has since been refined in the private canonical workbench. A revised public version will follow after paper consolidation.
+
+⸻
+
 ### 1. Central Clarification
 
 Human and machine processes are not symmetric.
@@ -399,4 +407,3 @@ Interaction can be described as the dynamic coupling of two semantic state syste
 Formal mathematical definitions of the KSODI interaction
 observability model will be published in a forthcoming
 technical paper.
-
