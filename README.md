@@ -71,6 +71,9 @@ For a public development and contribution overview, see:
 [KSODI Development Timeline](./docs/timeline/KSODI_Timeline_since_2024-11.md)
 ([German version](./docs/timeline/KSODI_Timeline_seit_2024-11.md))
 
+For the project origin note and personal context, see:
+[ABOUT.md](./ABOUT.md)
+
 ---
 
 ## Licensing

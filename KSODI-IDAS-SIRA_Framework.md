@@ -24,7 +24,7 @@ Author: Anne Steinacker-Folkerts, Heiko Folkerts
 
 # IDAS in One Sentence
 
-**IDAS is an architectural framework for structuring, observing and optionally steering human–AI interaction over time.**
+**IDAS is an architectural framework for structuring, observing and optionally steering human–AI, human-agent and agentic interaction over time.**
 
 It integrates three elements:
 
@@ -207,6 +207,5 @@ In future systems this could enable:
 - project-level interaction analysis
 - visual exploration of dialogue structures
 
-The long-term goal is to make human–AI interaction **more transparent, structured and understandable**.
-
+The long-term goal is to make human–AI, human-agent and agentic interaction **more transparent, structured and understandable**.
 

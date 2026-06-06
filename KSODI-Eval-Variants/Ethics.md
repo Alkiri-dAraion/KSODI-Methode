@@ -9,7 +9,7 @@
 This document defines the **ethical boundaries, intended use and non-use** of the KSODI method and the IDAS Framework.
 
 It is not a legal policy.
-It is an **explicit statement of responsibility** regarding the observation, evaluation and stabilization of human–AI interaction — especially in contexts involving **autonomous or semi-autonomous agents**.
+It is an **explicit statement of responsibility** regarding the observation, evaluation and stabilization of human–AI, human-agent and agentic interaction — especially in contexts involving **autonomous or semi-autonomous agents**.
 
 ---
 
@@ -179,6 +179,5 @@ Ethical responsibility begins **before** control,
 and **long before** harm.
 
 Observation, transparency and humility
-are the foundations of responsible human–AI interaction.
-
+are the foundations of responsible human–AI, human-agent and agentic interaction.
 
