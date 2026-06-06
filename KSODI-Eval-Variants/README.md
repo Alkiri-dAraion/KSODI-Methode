@@ -17,7 +17,7 @@ Model-agnostic numeric evaluation layer.
 Designed for audit-capable and observable system environments.
 
 ### KSODI-Full
-Extended analytical layer for dynamic interaction patterns, transitions and resonance structures.  
+Extended analytical layer for dynamic interaction patterns, transitions and relational resonance-family structures.  
 Explanatory and architectural – never decision-making.
 
 ## Intended Use
@@ -27,7 +27,7 @@ These variants are intended for:
 - enterprise environments
 - public administration
 - regulated domains
-- continuous or autonomous AI systems
+- continuous, autonomous or multi-agent AI systems
 
 ## Transparency
 
@@ -40,11 +40,11 @@ reference. They contain known structural issues, including:
 - an objectivity operator behavior where measurement can collapse to 0 / not
   measurable when no external data source or web access is connected
 - ambiguous or duplicated variable handling in parts of the public draft
-- unresolved public separation between Z, IK, R0, IK_rel and R variants
+- unresolved public separation between Z, IK, R0, IK_rel and the R-family of relational observation variants
 
 A revised KSODI 3.5 reference specification is currently maintained privately
 and described in the current paper draft. It refines the separation between
-interaction coherence and resonance and will only be published after final
+interaction coherence, relational comparability and resonance-family observation and will only be published after final
 testing and review.
 
 Some public v3.3 files already contain placeholders or preliminary glossary

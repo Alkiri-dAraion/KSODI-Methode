@@ -11,7 +11,7 @@ We also thank Benjamin Gage-Prater for early private testing and RAG-related fee
 
 → See also: [KSODI Development Timeline](./docs/timeline/KSODI_Timeline_since_2024-11.md) ([German version](./docs/timeline/KSODI_Timeline_seit_2024-11.md))
 
-🎯 I started this initiative to help people overcome fear and hesitation around AI — and to improve the quality and resonance of human-AI interactions.
+🎯 I started this initiative to help people overcome fear and hesitation around AI — and to improve the observability, quality and resonance of human-AI, human-agent and agentic interactions.
 
 👀 We’re interested in nature, animals (especially horses), art, music, gaming, and IT
 
@@ -30,7 +30,7 @@ ______________
 ## Origin of the KSODI Method (Short Context)
 
 The KSODI method originated from a very practical question arising in real-world communication contexts:  
-🧐 Why do misunderstandings, ambiguity and instability persist in human–AI interaction even when systems appear technically correct?
+🧐 Why do misunderstandings, ambiguity and instability persist in human-AI, human-agent or agent-agent interaction even when systems appear technically correct?
 
 The initial concept was developed by Anne in **late 2023 / early 2024** under the working title **DOSI**.  
 It emerged from professional discussions around communication, structure and responsibility in administrative and organizational environments.
@@ -65,7 +65,7 @@ while humans think and communicate in the opposite direction (**K → S → O �
 
 🤓 This realization led to a fundamental clarification:  
 Neither classical communication theory nor signal theory alone is sufficient.  
-KSODI only works when both perspectives are used **together**, in the right direction, and within a shared internal geometry — the *semantic KSODI space* between human and machine.
+KSODI only works when the relevant perspectives are used **together**, in the right direction, and within a shared internal geometry — the *semantic KSODI space* between interacting systems.
 
 The next question followed naturally:  
 What if intention, direction and target space could be described — even with reduced precision — within a **five-dimensional observation space**?

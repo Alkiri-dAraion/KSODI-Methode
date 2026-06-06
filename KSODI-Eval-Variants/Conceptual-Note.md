@@ -1,6 +1,6 @@
 ## KSODI – Conceptual Note
 
-# A Structural Observation Model for Human–AI Interaction
+# A Structural Observation Model for Human-AI and Agentic Interaction
 
 ⸻
 
@@ -24,7 +24,7 @@ It assumes describable interaction structure.
 
 ### 2. Foundational Assumption
 
-During interaction between two semantic systems (e.g., human and AI),
+During interaction between two or more semantic systems (e.g., human and AI, agent and agent, or n-agent constellations),
 a temporary, relational semantic space emerges.
 
 This space:
@@ -86,9 +86,11 @@ They describe observable relational structure.
 
 ### 6. Formal Minimal Representation
 
-We consider two systems:
+For the minimal illustrative case, we consider two systems:
 	•	H = human semantic system
 	•	M = machine semantic system
+
+This H/M notation is an example. The same abstraction may be generalized to distinguishable systems A/B or to n-agent constellations where each participant produces an observable state trajectory.
 
 Each has an internal semantic state
 (Z from the German word Zustand = “state”):
@@ -296,7 +298,7 @@ KSODI could offer value in several domains related to LLM-based interaction syst
 
 These implications remain hypothetical and are currently under experimental evaluation within custom-built architectures.
 
-16.1 Human–Machine Interaction
+16.1 Human–Machine and Human–Agent Interaction
 
 If interaction can be described dynamically through the state vector \mathbf{Z}(t),
 KSODI may provide a structured lens for observing:
@@ -314,7 +316,7 @@ This could be relevant for:
 
 ⸻
 
-16.2 Multi-Agent and Autonomous Systems
+16.2 Agent–Agent, Multi-Agent and Autonomous Systems
 
 In systems where multiple agents interact
 (e.g., RAG architectures, MoE configurations, or tool-using chains),

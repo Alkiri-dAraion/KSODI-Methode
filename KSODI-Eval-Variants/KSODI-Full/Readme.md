@@ -1,3 +1,5 @@
+⚠️ Public orientation note: this folder reflects an earlier public KSODI-Full orientation. The current private workbench separates relational comparability, interaction coherence and the broader R-family more carefully. This file should not be treated as an implementation reference.
+
 This Repo is based on R0 and the state vectors Z (Standard-Eval).
 <br>
 

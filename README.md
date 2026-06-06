@@ -13,18 +13,18 @@ public 3.3 materials contain known structural issues, including an objectivity
 operator behavior that can make measurement collapse to 0 / not measurable when
 no external data source or web access is connected, as well as ambiguities in
 variable handling and the unresolved public separation between Z, IK, R0,
-IK_rel and R variants. A revised 3.5 reference specification is maintained
+IK_rel and the broader R-family of relational observation variants. A revised 3.5 reference specification is maintained
 privately and will only be published after final testing and review.
 
 
 # KSODI Method
 
-KSODI is a structured observation model for human–AI interaction quality, focussing on explainable Governance.
+KSODI is a structured observation model for human-AI, agent-agent and n-agent interaction structures, focussing on explainable governance and observability.
 It is part of the IDAS-Framework.
 
 → See: [KSODI-IDAS-SIRA_Framework](./KSODI-IDAS-SIRA_Framework.md)
 
-The framework separates explainability, observability and advanced interaction analysis (with optional steering) into clearly defined layers - such as interaction states, interaction coherence and interaction resonance - over time.
+The framework separates explainability, observability and advanced interaction analysis (with optional steering) into clearly defined layers - such as interaction states, interaction coherence and relational resonance-family observations - over time.
 
 KSODI does **not** evaluate people, personalities or intentions.  
 It respects maximum privacy and operates exclusively on observable interaction states.
@@ -48,7 +48,7 @@ Designed for numeric observability, drift detection and system-level stability m
 The public materials are not intended for implementation. KSODI 3.5 is the
 current private reference specification described in the paper draft and is
 intended to resolve known 3.3 ambiguities between interaction coherence and
-resonance.
+relational resonance-family observation.
 → See: [KSODI-Eval-Variants](./KSODI-Eval-Variants)
 
 License: Commercial / All rights reserved.
