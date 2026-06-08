@@ -1,11 +1,23 @@
-### IDAS Framework – Whitepaper V3.3
+### IDAS Framework – Public Orientation Note
 
 *Interactive Dialogue, Analytics & Steering (IDAS)*  
 Author: Anne Steinacker-Folkerts, Heiko Folkerts
 
 ---
 
-## Changelog – Version 1.1
+## Version Note
+
+This file is a public orientation note. It does not define the current private
+KSODI 3.5 reference mathematics.
+
+The public wording has been updated to align KSODI-Light with the current
+understanding of a **reflective working agreement**: KSODI-Light can reflect
+user input, assistant output and the shared interaction state. Formal numeric
+observer layers remain separate.
+
+---
+
+## Changelog – Public Orientation Update
 
 - **Two-phase interaction model**
   - Phase 1: reflective exploration space
@@ -20,6 +32,10 @@ Author: Anne Steinacker-Folkerts, Heiko Folkerts
   - observation (observability)
   - steering (control mechanisms)
 
+- **Clarified KSODI-Light boundary**
+  - KSODI-Light = prompt-level reflective working agreement
+  - Standard-Eval / Full = formal observer and monitoring layers
+
 ---
 
 # IDAS in One Sentence
@@ -30,7 +46,7 @@ It integrates three elements:
 
 | Component | Role |
 |---|---|
-| KSODI | structural observation and causality model |
+| KSODI | structural observation method |
 | SIRA | interaction protocol |
 | IDAS | architectural integration |
 
@@ -40,11 +56,15 @@ It integrates three elements:
 
 IDAS intentionally separates three layers of interaction analysis:
 
-1. **Explainability**  
+1. **Explainability and reflective working agreement**
 2. **Observability**  
 3. **Optional steering**
 
 This separation ensures that observation and control remain distinguishable.
+
+In this public repository, KSODI-Light belongs to the first layer. It can guide
+the interaction from inside a user, account, developer or system prompt. It is
+not an external observer by itself.
 
 ---
 
@@ -85,10 +105,16 @@ Characteristics:
 - open thinking
 - idea generation
 - iterative dialogue
+- reflective working agreement between user and assistant
 
-This phase is **not intended for monitoring or evaluation**.
+This phase is **not intended for formal observer-based monitoring or
+governance evaluation**.
 
-Its purpose is cognitive exploration.
+Its purpose is cognitive exploration and interaction clarification.
+
+KSODI-Light may be used here as a prompt-level reflective frame. It can help
+user and assistant notice missing context, unclear structure, weak grounding or
+answers that do not fit the shared task.
 
 ---
 
@@ -101,8 +127,9 @@ Characteristics:
 - structured prompts
 - analyzable interaction states
 - reproducible outputs
+- defined observation boundaries
 
-Only this phase is suitable for system-level evaluation.
+Only this phase is suitable for system-level observer evaluation.
 
 ---
 
@@ -115,16 +142,36 @@ Five operators describe interaction structure:
 - **K — Context**
 - **S — Structure**
 - **O — Objectivity / grounding**
-- **D — Distinctness / clarity**
-- **I — Information content**
+- **D — Clarity**
+- **I — Information Depth**
 
-These operators produce normalized values in the range:
+At the KSODI-Light level, these operators can be used as coarse orientation
+signals, for example on a 0-5 scale per operator.
+
+In formal observer layers, operator values may be normalized into numeric
+representations such as:
+
+```text
 [0,1]
+```
 
 Together they form the interaction state vector:
+
+```text
 Z = (K,S,O,D,I)
+```
 
 From this vector further observable interaction structures can be derived.
+
+At the Light level, K/S/O/D/I may refer to:
+
+- user input,
+- assistant output,
+- the shared interaction state across a turn.
+
+This is why KSODI-Light should not be read as scoring only the user's prompt.
+It is better understood as a reflective working agreement for keeping the
+interaction understandable, grounded and task-fit.
 
 ---
 
@@ -147,6 +194,7 @@ Examples include:
 - state vectors
 - interaction distributions
 - interaction dynamics
+- drift over time
 
 No normative judgement is applied.
 
@@ -154,7 +202,7 @@ No normative judgement is applied.
 
 ### Steering
 
-Steering is possible but **not part of the core model**.
+Steering is possible but **not part of the core observation model**.
 
 Control mechanisms arise only when thresholds or policies are introduced.
 
@@ -163,8 +211,15 @@ Examples:
 - drift alerts
 - anomaly detection
 - workflow automation
+- fallback behavior
 
 These mechanisms are external to the core observation model.
+
+Prompt-level guidance in KSODI-Light should be distinguished from formal
+observer-based steering. Light can ask for clarification or define simple
+fallback behavior inside an instruction frame. External monitoring and
+auditable intervention belong to Standard-Eval, KSODI-Full or IDAS-level
+implementations.
 
 ---
 
@@ -182,6 +237,10 @@ Steps:
 - **Adjustment** – allow adaptation and iteration
 
 The protocol does not enforce behavior but encourages structured interaction.
+
+At the KSODI-Light level, SIRA can support the reflective working agreement:
+signals are noticed, intention is clarified, fit is checked and the interaction
+can be adjusted without treating feedback as blame.
 
 ---
 
@@ -208,4 +267,3 @@ In future systems this could enable:
 - visual exploration of dialogue structures
 
 The long-term goal is to make human–AI, human-agent and agentic interaction **more transparent, structured and understandable**.
-
