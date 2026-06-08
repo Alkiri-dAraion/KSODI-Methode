@@ -16,6 +16,16 @@ variable handling and the unresolved public separation between Z, IK, R0,
 IK_rel and the broader R-family of relational observation variants. A revised 3.5 reference specification is maintained
 privately and will only be published after final testing and review.
 
+Note:
+The usual implementation setting for KSODI Standard-Eval and KSODI Full uses a two-layer or multi-layer system:
+1. Agent layer (L1): KSODI-Light runs as a system prompt on one or more agents.
+2. Observer layer (L2): KSODI Standard-Eval provides coherence observation for agents, with `R0` / `IK_rel` as the minimum dyadic coherence observation.
+3. Full observer layer (L4): KSODI Full observes full coherence and the resonance-family layer.
+4. KSODI Full with voice layer (L5): KSODI Full plus additional voice, sound and timing observation.
+The observer is usually designed to give the agent feedback when it drifts out of a defined or explainable corridor.
+
+Current line:
+`Z(t)` -> `Delta Z` / `Delta2 Z` -> `IK` as monadic projection -> `R0` as relational gate -> `IK_rel` as relational projection after a stable gate -> `R_geom` as geometric coupling -> `RSigma` / `RSigma(Hangar)` -> optional: `V(t)`, `R_takt`, `R_pace` as timing and voice overlays.
 
 # KSODI Method
 
