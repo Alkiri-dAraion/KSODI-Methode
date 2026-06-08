@@ -8,6 +8,20 @@ international contexts.
 This file is a public KSODI-Light orientation note. It does not define the
 formal Standard-Eval or KSODI-Full mathematics.
 
+## Why the German Name Is Retained
+
+The name `KSODI` is intentionally retained because the method emerged in a
+German-language development context.
+
+This is not meant as a value judgement between languages. The German terms
+helped preserve conceptual precision during the early development of the
+method. English makes the method internationally accessible, but its broad
+global use can require more explicit definitions to avoid ambiguity.
+
+Multilingual discussion also mattered. French and Chinese perspectives helped
+test whether the dimensions were only local wording habits or more general
+interaction distinctions.
+
 ## German and English Dimensions
 
 | Letter | German | English | Meaning in KSODI-Light |

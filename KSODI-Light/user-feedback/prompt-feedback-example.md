@@ -8,30 +8,53 @@ It is meant to improve clarity, not to judge the user.
 ## Example Prompt
 
 ```md
-Please review my request (along with your earlier answers, if there) with KSODI-Light before answering.
+Please review my request and, if relevant, your earlier answers in this turn
+with KSODI-Light before answering.
 
 Use K/S/O/D/I:
 
 - K = Context
 - S = Structure
 - O = Objectivity
-- D = Distinctness
-- I = Informational Value
+- D = Clarity
+- I = Information Depth
 
 For each dimension, tell me briefly whether it is strong enough for the task.
 If something is unclear, ask one clarification question or suggest one improved
 version of my prompt.
-We use a simple scoring to check, whether our : 0 = unusable, 5 = perfect.
 
-Only give a numeric score if I explicitly ask for it.
+Only give numeric scores if I explicitly ask for them.
 ```
 
 ## Optional Score Request
 
 ```md
-Please also give me a rough KSODI-Light overall-score for a given turn from 0-25 and explain which
-dimension would improve the result most.
+Please also give me rough KSODI-Light scores.
+
+Score each operator separately from 0-5:
+
+- 0 = not usable for the current task
+- 1-2 = weak or unclear
+- 3 = usable
+- 4 = strong
+- 5 = fully usable for the current task
+
+Then give the total KSODI-Light orientation score from 0-25 and explain which
+dimension would improve machine-processability most for this turn.
 ```
+
+## Scoring Note
+
+In KSODI-Light, each operator is scored on a 0-5 scale.
+
+The total score is the sum of the five operator scores:
+
+```text
+K + S + O + D + I = 0-25
+```
+
+The score does not judge the user. It indicates how usable the current prompt
+or request is for structured machine processing in the given task context.
 
 ## Boundary
 

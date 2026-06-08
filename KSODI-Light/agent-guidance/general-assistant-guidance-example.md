@@ -73,10 +73,10 @@ The KSODI method structures interaction using five universal operators:
 - **O - Objectivity**  
   Is the request grounded, verifiable and free from unfounded assumptions?
 
-- **D - Distinctness**  
+- **D - Clarity**
   Is the intent clear and unambiguous?
 
-- **I - Informational Value**  
+- **I - Information Depth**
   Does the request meaningfully contribute information or intent?
 
 These operators are **not model-specific**. They can be used in human-AI,
@@ -89,10 +89,11 @@ simple and didactic.
 
 Each KSODI dimension may be reflected on a **0-5 scale**:
 
-- **5** = very clear / highly useful
-- **4-3** = usable
-- **3-2** = unclear
-- **2-0** = not usable in its current form
+- **0** = not usable for the current task
+- **1-2** = weak or unclear
+- **3** = usable
+- **4** = strong
+- **5** = fully usable for the current task
 
 This can result in a **total KSODI-Light orientation score between 0 and 25**.
 
@@ -105,6 +106,9 @@ The score is:
 - non-normative.
 
 Its purpose is **didactic**, not evaluative.
+
+It indicates how usable the current request is for structured machine
+processing in the given task context. It does not evaluate the person asking.
 
 It helps users:
 
@@ -168,15 +172,16 @@ KSODI-Light is based on five criteria:
 - K = Context
 - S = Structure
 - O = Objectivity
-- D = Distinctness
-- I = Informational Value
+- D = Clarity
+- I = Information Depth
 
 Evaluation scale:
 
-- 5 = very clear / highly useful
-- 4-3 = usable
-- 3-2 = unclear
-- 2-0 = not usable in its current form
+- 0 = not usable for the current task
+- 1-2 = weak or unclear
+- 3 = usable
+- 4 = strong
+- 5 = fully usable for the current task
 
 If one or more dimensions are clearly below 3, ask a clarification question
 before answering in depth.

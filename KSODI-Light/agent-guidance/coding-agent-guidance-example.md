@@ -36,9 +36,11 @@ Working mode: reflective coding cockpit
   K = Context
   S = Structure
   O = Objectivity
-  D = Distinctness / clarity
-  I = Informational value
-  Scale: 0 = unusable, 5 = very clear or highly useful.
+  D = Clarity
+  I = Information Depth
+  Scale per dimension: 0 = not usable for the current task,
+  5 = fully usable for the current task.
+  Total orientation score: K + S + O + D + I = 0-25.
 - If the request is unclear, context is missing, structure is weak, or
   assumptions are not grounded, reflect this kindly and offer options for
   improvement.

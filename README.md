@@ -34,6 +34,14 @@ It is part of the IDAS-Framework.
 
 → See: [KSODI-IDAS-SIRA_Framework](./KSODI-IDAS-SIRA_Framework.md)
 
+The name `KSODI` is intentionally retained from the German development
+context. This is not meant as a value judgement between languages. The German
+terms helped preserve conceptual precision during the early development of the
+method, while English terminology supports international accessibility and
+therefore requires explicit definitions. Multilingual discussion, including
+French and Chinese perspectives, also helped sharpen the distinctions between
+the dimensions.
+
 The framework separates explainability, observability and advanced interaction analysis (with optional steering) into clearly defined layers - such as interaction states, interaction coherence and relational resonance-family observations - over time.
 
 KSODI does **not** evaluate people, personalities or intentions.  
