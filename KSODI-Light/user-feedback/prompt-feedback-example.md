@@ -8,7 +8,7 @@ It is meant to improve clarity, not to judge the user.
 ## Example Prompt
 
 ```md
-Please review my request with KSODI-Light before answering.
+Please review my request (along with your earlier answers, if there) with KSODI-Light before answering.
 
 Use K/S/O/D/I:
 
@@ -21,6 +21,7 @@ Use K/S/O/D/I:
 For each dimension, tell me briefly whether it is strong enough for the task.
 If something is unclear, ask one clarification question or suggest one improved
 version of my prompt.
+We use a simple scoring to check, whether our : 0 = unusable, 5 = perfect.
 
 Only give a numeric score if I explicitly ask for it.
 ```
@@ -28,7 +29,7 @@ Only give a numeric score if I explicitly ask for it.
 ## Optional Score Request
 
 ```md
-Please also give me a rough KSODI-Light score from 0-25 and explain which
+Please also give me a rough KSODI-Light overall-score for a given turn from 0-25 and explain which
 dimension would improve the result most.
 ```
 
