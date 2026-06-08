@@ -51,6 +51,7 @@ KSODI-Light makes interaction quality explicit and discussable.
 It may be used for:
 
 - prompt feedback,
+- assistant-output feedback,
 - user and account prompts,
 - training and AI literacy,
 - developer or system-prompt guidance,
@@ -58,6 +59,10 @@ It may be used for:
 
 At this level, K/S/O/D/I scores are coarse orientation signals. They are not
 formal governance metrics.
+
+K/S/O/D/I may describe user input, assistant output or the shared interaction
+state. In KSODI-Light, the method is therefore best understood as a reflective
+working agreement rather than only as a prompt checklist.
 
 ## Boundary to Observer Layers
 
@@ -74,5 +79,6 @@ implementations.
 
 KSODI starts from the quality of the interaction frame.
 
-A weak prompt is not treated as a personal failure. It is treated as an
-interaction state that can be clarified, structured and improved.
+A weak prompt, an unfitting answer or a drifting turn is not treated as a
+personal failure. It is treated as an interaction state that can be clarified,
+structured and improved.

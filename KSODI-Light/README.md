@@ -33,12 +33,19 @@ Special thanks to Benjamin Gage-Prater for early RAG testing and feedback, and t
 KSODI-Light is the human-facing and prompt-level variant of the KSODI
 observation model.
 
+It can be used as a **reflective working agreement** between user and
+assistant. In that sense, KSODI-Light does not only reflect the user's prompt.
+It can also reflect assistant output, feedback from the user and the shared
+interaction state across a turn.
+
 It supports:
 
 - clearer prompt formulation
 - explainability
 - AI literacy development
 - structured reflection on interaction quality
+- bidirectional feedback when a request, answer or shared working frame does
+  not fit the task
 - beginner-friendly collaboration with coding agents
 - lightweight guidance when K/S/O/D/I expectations are embedded into user,
   account, developer or system prompts
@@ -82,6 +89,10 @@ also support lightweight steering. Examples include:
   answering",
 - keeping the assistant inside a reflective collaboration mode.
 
+Users can also use the same grid to give feedback when an assistant answer does
+not fit the shared frame, for example because it lost context, overclaimed,
+answered the wrong task or moved too quickly.
+
 These patterns remain prompt-level guidance. They are not the same as formal
 Standard-Eval or KSODI-Full monitoring.
 
@@ -91,6 +102,10 @@ KSODI-Light scores are coarse orientation signals.
 
 A score corridor such as `K=4, S=4, O=3, D=4, I=4` should be read as a
 context-specific expectation, not as a universal quality target.
+
+The score may refer to user input, assistant output or the current shared
+interaction state. It should always be interpreted as usability for the current
+task, not as a judgement of a person.
 
 Different tasks may need different corridors:
 

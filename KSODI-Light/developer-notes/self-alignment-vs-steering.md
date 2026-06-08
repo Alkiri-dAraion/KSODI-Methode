@@ -8,6 +8,10 @@ KSODI-Light can also support lightweight prompt-level steering when K/S/O/D/I
 expectations, score corridors or fallback rules are embedded into a user,
 account, developer or system prompt.
 
+At this level, KSODI-Light is best understood as a reflective working
+agreement. It may apply to user input, assistant output or the shared
+interaction state across a turn.
+
 This does not make KSODI-Light a formal observer architecture.
 
 Strong external monitoring, long-term drift analysis, enforced corridor
@@ -23,6 +27,7 @@ At the KSODI-Light level, an assistant may be instructed to:
 - avoid judging users,
 - adapt objectivity requirements to the task context,
 - keep interaction quality discussable.
+- accept user feedback when the answer does not fit the shared frame.
 
 Examples:
 
@@ -80,7 +85,7 @@ Standard-Eval, KSODI-Full or IDAS-level functionality.
 
 User or account prompts:
 
-- help a user ask clearer questions,
+- help a user and assistant keep the shared working frame clear,
 - make uncertainty and missing context visible,
 - keep the assistant in a reflective collaboration mode.
 

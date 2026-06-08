@@ -9,7 +9,7 @@ define the formal Standard-Eval or KSODI-Full mathematics.
 
 | Method | Main purpose | Typical structure | Best suited for | Limitation |
 |---|---|---|---|---|
-| KSODI-Light | Reflective interaction quality and prompt-level guidance | Context, Structure, Objectivity, Clarity, Information Depth | Learning, AI literacy, assistant guidance, prompt feedback, disclosed score corridors | Coarse and didactic unless connected to formal observer layers |
+| KSODI-Light | Reflective working agreement and prompt-level guidance | Context, Structure, Objectivity, Clarity, Information Depth | Learning, AI literacy, assistant guidance, bidirectional feedback, disclosed score corridors | Coarse and didactic unless connected to formal observer layers |
 | RTF | Preparing a clearer prompt before asking | Read, Think, Formulate | Quick self-check before submitting a request | Linear; does not observe interaction dynamics over time |
 | STAR | Structuring a situation or experience | Situation, Task, Action, Result | Case descriptions, interviews, retrospectives, incident reports | Strong for narrative structure, weaker for ongoing human-AI interaction quality |
 | Iterative Prompting | Improving results through repeated refinement | Ask, review, adjust, ask again | Exploration, drafting, debugging, creative work | Depends on user judgement; lacks a stable dimension set unless one is added |
@@ -30,13 +30,14 @@ D = Clarity
 I = Information Depth
 ```
 
-This makes interaction quality discussable across prompts, users, agents and
-training contexts.
+This makes interaction quality discussable across prompts, answers, users,
+agents and training contexts.
 
 KSODI-Light can be used in three public-facing ways:
 
-- user feedback: the assistant helps a user improve a request,
-- account prompts: a user defines a reflective collaboration mode,
+- user and assistant feedback: the interaction partners can improve a request,
+  answer or shared turn,
+- account prompts: a user defines a reflective working agreement,
 - developer or system-prompt guidance: an agent creator embeds disclosed
   K/S/O/D/I expectations or fallback behavior.
 
@@ -46,6 +47,8 @@ metrics.
 ## Score Corridors Compared With Prompt Templates
 
 Prompt templates such as RTF or STAR mainly define the shape of an input.
+KSODI-Light can also reflect whether the answer and the ongoing turn still fit
+the intended task.
 
 KSODI-Light can also define an expected quality corridor, for example:
 
@@ -94,4 +97,5 @@ Use Chain-of-Thought style prompting carefully: request concise reasoning,
 checks or verifiable steps instead of hidden internal reasoning.
 
 Use KSODI-Light when the goal is to make interaction quality explicit,
-repeatable and teachable across users, tasks and assistant configurations.
+repeatable and teachable across users, tasks, assistant outputs and assistant
+configurations.

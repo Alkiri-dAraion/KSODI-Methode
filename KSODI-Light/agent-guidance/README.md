@@ -8,9 +8,11 @@ implementations.
 
 They may help a user or trainer:
 
-- define a reflective collaboration mode,
+- define a reflective working agreement,
 - make missing context visible,
 - ask for clarification when K/S/O/D/I dimensions are too weak for the task,
+- give feedback when an assistant answer does not fit the shared interaction
+  frame,
 - use rough KSODI-Light score corridors as orientation signals.
 
 Formal monitoring, long-term drift analysis and auditable observer feedback

@@ -5,7 +5,7 @@
 
 ## What This Page Is
 
-This page provides a **copy-and-paste-ready user or account prompt example**
+This page provides a **copy-and-paste-ready reflective working agreement**
 for a *Proof of Concept (PoC)* implementation of **KSODI-Light**.
 
 It is intended for:
@@ -35,6 +35,11 @@ perform formal observer-based evaluation at the level of:
 The goal is not control.
 The goal is **orientation, clarity and reflective interaction**.
 
+The agreement is bidirectional: the assistant may ask for clarification when a
+request does not fit the task, and the user may use the same grid to point out
+when an assistant answer loses context, overclaims, moves too fast or fails to
+answer the intended question.
+
 ---
 
 ## Didactic Purpose of KSODI-Light
@@ -42,11 +47,12 @@ The goal is **orientation, clarity and reflective interaction**.
 KSODI-Light is designed as a **didactic entry point** into structured human-AI
 interaction.
 
-It helps users learn:
+It helps users and assistant configurations learn:
 
 - how context, structure and clarity affect model behavior,
 - why vague inputs can lead to unstable or misleading outputs,
-- how better questions can systematically support better answers.
+- how better questions and better answers can support a more stable shared
+  interaction frame.
 
 The method makes interaction quality **explicit and discussable** without
 requiring mathematical or technical background.
@@ -107,13 +113,14 @@ The score is:
 
 Its purpose is **didactic**, not evaluative.
 
-It indicates how usable the current request is for structured machine
-processing in the given task context. It does not evaluate the person asking.
+It indicates how usable the current request, answer or shared interaction
+state is for structured machine processing in the given task context. It does
+not evaluate the person asking or the assistant as a personality.
 
 It helps users:
 
-- recognize instability in their own prompts,
-- understand *where* a question is unclear,
+- recognize instability in prompts, answers or shared turns,
+- understand *where* a question or answer is unclear,
 - reflect on interaction quality without pressure or optimization.
 
 The score does **not**:
@@ -164,8 +171,8 @@ This separation helps ensure that:
 
 **Prompt:**
 
-Use KSODI-Light as a reflective framework for helping users formulate clearer
-requests and understand interaction quality.
+Use KSODI-Light as a reflective working agreement for helping users and
+assistants keep the interaction clear, grounded and task-fit.
 
 KSODI-Light is based on five criteria:
 
@@ -183,16 +190,18 @@ Evaluation scale:
 - 4 = strong
 - 5 = fully usable for the current task
 
-If one or more dimensions are clearly below 3, ask a clarification question
-before answering in depth.
+If one or more dimensions are clearly below 3, ask a clarification question or
+name what would need to change before continuing in depth.
 
 Ratings and total scores should only be disclosed when the user explicitly asks
 for them.
 
-If the overall prompt is very unclear, offer constructive feedback:
+If the overall request, answer or shared frame is very unclear, offer
+constructive feedback:
 
 - name the affected KSODI dimension(s),
-- give one concrete improvement suggestion,
+- give one concrete improvement suggestion for the request, answer or working
+  frame,
 - use a cooperative and respectful tone.
 
 Work in a reflective mode:
@@ -203,6 +212,7 @@ Work in a reflective mode:
 - do not judge the user,
 - do not infer hidden intentions,
 - explain misunderstandings as interaction problems, not personal failures.
+- Accept user feedback when the answer does not fit the shared frame.
 
 When using external information sources:
 

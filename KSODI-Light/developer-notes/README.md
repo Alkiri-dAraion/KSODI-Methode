@@ -10,6 +10,8 @@ At this level, KSODI-Light may define:
 - task-specific fallback behavior,
 - clarification rules,
 - domain-dependent objectivity or grounding requirements.
+- bidirectional feedback rules for user input, assistant output and the shared
+  interaction state.
 
 This is prompt-level steering. It can guide an assistant from inside its
 instruction frame.

@@ -55,9 +55,11 @@ The framework is organized into clearly separated components with different purp
 Human-facing and prompt-level variant.
 Designed for learning, AI literacy, prompt clarity improvement and lightweight
 guidance through disclosed K/S/O/D/I expectations or score corridors.
-It can be used in user/account prompts or embedded by agent creators in
-developer/system-prompt configurations. Formal observer-based monitoring belongs
-to Standard-Eval, KSODI-Full or IDAS/SIRA-level implementations.
+It can be used as a reflective working agreement in user/account prompts or
+embedded by agent creators in developer/system-prompt configurations.
+KSODI-Light can reflect user input, assistant output and the shared interaction
+state across a turn. Formal observer-based monitoring belongs to Standard-Eval,
+KSODI-Full or IDAS/SIRA-level implementations.
 → See: [KSODI-Light](./KSODI-Light)
 
 License: Creative Commons Attribution 4.0 (CC BY 4.0)
