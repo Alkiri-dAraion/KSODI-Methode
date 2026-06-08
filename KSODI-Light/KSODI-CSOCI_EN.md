@@ -1,35 +1,64 @@
-# KSODI-Method => CSOCI-Method
+# KSODI and CSOCI Terminology
 
-//tbd (soon)
+KSODI is the original German acronym.
 
-# Cluster 4: What Is Missing Today? Why KSODI / CSOCI became necessary
+CSOCI is the English-oriented rendering used when the method is explained in
+international contexts.
 
-## 1. Introduction
-Discussion of existing methods for evaluating questions in human-AI interactions and their limitations.
+This file is a public KSODI-Light orientation note. It does not define the
+formal Standard-Eval or KSODI-Full mathematics.
 
-## 2. Development from DOSI to KSODI
-Explanation of the evolution from the DOSI method to KSODI.  
-The English translation helped to define the dimensions **D** (Clarity) and **I** (Information Depth) more precisely in German.  
-The method’s essence remained unchanged, but linguistic clarification improved its precision.
+## German and English Dimensions
 
-## 3. KSODI Dimensions: German / English Comparison
+| Letter | German | English | Meaning in KSODI-Light |
+|---|---|---|---|
+| K | Kontext | Context | Situational, thematic and factual frame |
+| S | Struktur | Structure | Logical order, organization and coherence |
+| O | Objektivitaet | Objectivity | Grounding, verifiability and bias awareness |
+| D | Deutlichkeit | Clarity | Linguistic precision and unambiguous intent |
+| I | Informationsgehalt | Information Depth | Relevance, completeness and informational value |
 
-| Letter | German             | English            | Explanation                                                                  |
-|:------:|--------------------|--------------------|------------------------------------------------------------------------------|
-| **K**  | Kontext             | Context            | Direct translation: thematic, factual, and situational framework.             |
-| **S**  | Struktur            | Structure          | Direct translation: logical structure and argumentative coherence.            |
-| **O**  | Objektivität        | Objectivity        | Direct translation: checks for neutrality vs. bias/suggestion.                 |
-| **D**  | Deutlichkeit        | Clarity            | *Not* "Distinctness" — "Clarity" is more intuitive in English; it means linguistic precision. |
-| **I**  | Informationsgehalt  | Information Depth  | *Not* just "Information" — emphasizes depth and completeness of content.       |
+## Why the English Terms Matter
 
-## 4. Reasoning for Terminology Adjustments
-- **Deutlichkeit → Clarity:** "Clarity" is more intuitive in English and better reflects linguistic precision.  
-- **Informationsgehalt → Information Depth:** Highlights the depth and completeness of information, not merely its presence.
+The English terms are not meant as a literal word-by-word translation only.
+They are chosen to preserve the functional role of each dimension.
 
-## 5. Integration of the "Primacy of the Question"
-Introduction of the "Primacy of the Question" as a central KSODI principle.  
-It shapes the method’s architecture and elevates the importance of question quality.
+`Clarity` is used for `Deutlichkeit` because it is easier to understand in
+English than a more literal term such as "distinctness".
 
-## 6. Conclusion
-KSODI emerged to address critical gaps in existing evaluation methods.  
-The precise definition of the dimensions and the "Primacy of the Question" make KSODI an effective method for assessing questions in human-AI interactions.
+`Information Depth` is used for `Informationsgehalt` because the dimension
+does not only ask whether information is present. It asks whether the request
+contains enough relevant information for the task.
+
+## KSODI-Light Scope
+
+KSODI-Light makes interaction quality explicit and discussable.
+
+It may be used for:
+
+- prompt feedback,
+- user and account prompts,
+- training and AI literacy,
+- developer or system-prompt guidance,
+- disclosed score corridors and simple fallback behavior.
+
+At this level, K/S/O/D/I scores are coarse orientation signals. They are not
+formal governance metrics.
+
+## Boundary to Observer Layers
+
+KSODI-Light can guide an assistant from inside the prompt.
+
+Formal observer-based monitoring is a different layer. It evaluates behavior
+from outside the prompt and may include numeric trajectories, drift, corridor
+movement, dyadic comparison and audit feedback.
+
+Those functions belong to Standard-Eval, KSODI-Full or IDAS/SIRA-level
+implementations.
+
+## Core Principle
+
+KSODI starts from the quality of the interaction frame.
+
+A weak prompt is not treated as a personal failure. It is treated as an
+interaction state that can be clarified, structured and improved.

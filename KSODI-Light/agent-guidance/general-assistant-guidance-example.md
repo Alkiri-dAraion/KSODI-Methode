@@ -22,12 +22,14 @@ agent architecture.
 
 **KSODI-Light is not the full mathematical evaluation framework.**
 
-It deliberately operates at the **prompt and interaction level**, not at the
-level of:
+It deliberately operates at the **prompt and interaction level**.
+
+It may define lightweight expectations or fallback behavior, but it does not
+perform formal observer-based evaluation at the level of:
 
 - automated judging,
 - optimization,
-- long-term behavioral steering,
+- long-term drift monitoring,
 - or numeric governance enforcement.
 
 The goal is not control.

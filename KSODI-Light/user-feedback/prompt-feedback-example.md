@@ -34,6 +34,6 @@ dimension would improve the result most.
 
 ## Boundary
 
-This feedback example does not perform Standard-Eval, Full evaluation,
-observer-based monitoring or governance steering. It only helps the user make a
-request clearer and more useful for the current interaction.
+This feedback example does not perform Standard-Eval, Full evaluation or
+observer-based monitoring. It only helps the user make a request clearer and
+more useful for the current interaction.

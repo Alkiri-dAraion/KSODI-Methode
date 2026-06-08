@@ -1,14 +1,18 @@
-# Self-Alignment vs. Observer-Based Steering
+# KSODI-Light Steering, Self-Alignment and Observer-Based Monitoring
 
 KSODI-Light can support reflective self-alignment patterns in assistants, such
 as asking for clarification, keeping uncertainty visible, and adapting the
 strictness of K/S/O/D/I expectations to the interaction context.
 
-This is not governance steering.
+KSODI-Light can also support lightweight prompt-level steering when K/S/O/D/I
+expectations, score corridors or fallback rules are embedded into a user,
+account, developer or system prompt.
 
-Strong steering, fallback logic, corridor enforcement, drift monitoring and
-observer feedback belong to Standard-Eval, KSODI-Full or IDAS-level
-implementations.
+This does not make KSODI-Light a formal observer architecture.
+
+Strong external monitoring, long-term drift analysis, enforced corridor
+intervention and auditable observer feedback belong to Standard-Eval,
+KSODI-Full or IDAS-level implementations.
 
 ## Light-Level Self-Alignment
 
@@ -28,7 +32,34 @@ Examples:
 - research support may require explicit source boundaries and uncertainty
   labels.
 
-These are guidance patterns, not enforced control corridors.
+These are guidance patterns. They may guide behavior inside a prompt, but they
+are not yet an external observer.
+
+## Prompt-Level Score Corridors
+
+KSODI-Light may use rough score corridors such as:
+
+```text
+K=4, S=4, O=3, D=4, I=4
+```
+
+or domain-specific variants such as:
+
+```text
+K=4.8, S=4, O=4.9, D=4.9, I=4
+```
+
+Such corridors should be understood as context-specific expectations.
+
+They can support simple fallback behavior:
+
+```text
+If O is below the required corridor for this task, ask for grounding before
+answering.
+```
+
+At this level, the agent is being guided by prompt instructions. It is not yet
+being formally audited by an external KSODI observer.
 
 ## Observer-Based Steering
 
@@ -42,8 +73,28 @@ It may involve:
 - external feedback to an agent,
 - escalation to a human or governance layer.
 
-Such mechanisms require formal observation logic and should not be presented as
-KSODI-Light functionality.
+Such mechanisms require formal observation logic and should be described as
+Standard-Eval, KSODI-Full or IDAS-level functionality.
+
+## Target Groups
+
+User or account prompts:
+
+- help a user ask clearer questions,
+- make uncertainty and missing context visible,
+- keep the assistant in a reflective collaboration mode.
+
+Developer or system prompts:
+
+- may embed K/S/O/D/I corridors,
+- may define fallback behavior,
+- may adapt expectations to domains or tasks.
+
+Observer implementations:
+
+- evaluate trajectories from outside the prompt,
+- record drift and corridor movement over time,
+- support audit, research and governance.
 
 ## Research Status
 

@@ -30,7 +30,8 @@ Special thanks to Benjamin Gage-Prater for early RAG testing and feedback, and t
 
 # KSODI-Light
 
-KSODI-Light is the human-facing variant of the KSODI observation model.
+KSODI-Light is the human-facing and prompt-level variant of the KSODI
+observation model.
 
 It supports:
 
@@ -39,20 +40,28 @@ It supports:
 - AI literacy development
 - structured reflection on interaction quality
 - beginner-friendly collaboration with coding agents
+- lightweight guidance when K/S/O/D/I expectations are embedded into user,
+  account, developer or system prompts
 
 KSODI-Light does not evaluate correctness and does not judge users.
 It supports learning and clarity.
 
-## Agent Literacy
+## Agent Literacy and Prompt Guidance
 
 KSODI-Light can also support beginners who work with coding agents.
 The examples below show how users can define reflective collaboration modes
 and lightweight agent prompts without publishing private personal instructions:
 
-→ See: [Coding Agent Guidance Example](./agent-guidance/coding-agent-guidance-example.md)
-→ See: [General Assistant Guidance Example](./agent-guidance/general-assistant-guidance-example.md)
-→ See: [Prompt Feedback Example](./user-feedback/prompt-feedback-example.md)
-→ See: [Self-Alignment vs. Observer-Based Steering](./developer-notes/self-alignment-vs-steering.md)
+- User and account prompts:
+  [Coding Agent Guidance Example](./agent-guidance/coding-agent-guidance-example.md)
+  and [General Assistant Guidance Example](./agent-guidance/general-assistant-guidance-example.md)
+- User feedback:
+  [Prompt Feedback Example](./user-feedback/prompt-feedback-example.md)
+- Developer and system-prompt notes:
+  [KSODI-Light Steering, Self-Alignment and Observer-Based Monitoring](./developer-notes/self-alignment-vs-steering.md)
+- Method orientation:
+  [KSODI-Light Method Comparison](./KSODI%20method%20comparison-EN.md)
+  and [KSODI / CSOCI Terminology](./KSODI-CSOCI_EN.md)
 
 The guidance examples are not hidden system prompts. They are public,
 copy-and-paste-ready orientation prompts for user accounts, training contexts
@@ -61,9 +70,52 @@ education, creative writing or child-friendly prompts, can be added separately.
 
 KSODI-Light may support reflective self-alignment patterns in assistants, such
 as asking for clarification, keeping uncertainty visible and adapting K/S/O/D/I
-expectations to the task context. This is not governance steering. Strong
-steering, fallback logic, corridor enforcement, drift monitoring and observer
-feedback belong to Standard-Eval, KSODI-Full or IDAS-level implementations.
+expectations to the task context.
+
+When embedded by a user, trainer, developer or agent creator, KSODI-Light can
+also support lightweight steering. Examples include:
+
+- asking for clarification if `K`, `S`, `O`, `D` or `I` is too low for the
+  task,
+- using different expectation corridors for different domains,
+- defining fallback behavior such as "if objectivity is too low, ask before
+  answering",
+- keeping the assistant inside a reflective collaboration mode.
+
+These patterns remain prompt-level guidance. They are not the same as formal
+Standard-Eval or KSODI-Full monitoring.
+
+## Score Corridors
+
+KSODI-Light scores are coarse orientation signals.
+
+A score corridor such as `K=4, S=4, O=3, D=4, I=4` should be read as a
+context-specific expectation, not as a universal quality target.
+
+Different tasks may need different corridors:
+
+- creative or science-fiction discussion may allow lower objectivity while
+  still requiring clear context and structure,
+- documentation of an image may require high objectivity and distinctness,
+- legal, medical, safety or governance contexts may require much stricter
+  grounding and source boundaries.
+
+For public examples, score corridors should be disclosed and explained. Hidden
+or automated score-based intervention belongs to formal observer architectures,
+not to this public KSODI-Light example set.
+
+## Observer Boundary
+
+An external observer can add an auditable layer around an agent. It can monitor
+drift, compare trajectories over time, report corridor exits and support human
+oversight.
+
+That observer layer belongs to Standard-Eval, KSODI-Full or IDAS/SIRA-level
+implementations.
+
+KSODI-Light may guide an assistant from inside the prompt. Observer-based
+monitoring evaluates behavior from outside the prompt. Both can be useful, but
+they are different layers.
 
 ## Scope
 
