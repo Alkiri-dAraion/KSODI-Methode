@@ -10,6 +10,16 @@ This conceptual note is an earlier public orientation text.
 
 The Z state-vector layer has since been refined in the private canonical workbench. A revised public version will follow after paper consolidation.
 
+Terminology note:
+Current KSODI-Light wording uses **Clarity** for D and **Information Depth** for I.
+Older public notes may still contain the terms "Distinctness" and
+"Informational Value".
+
+KSODI-Light should also not be read as scoring only the user's prompt. At the
+prompt level, it can serve as a reflective working agreement for user input,
+assistant output and the shared interaction state. Formal observer layers extend
+this logic into numeric trajectories and drift observation.
+
 ⸻
 
 ### 1. Central Clarification
@@ -74,13 +84,16 @@ KSODI introduces five descriptive axes:
 	•	K — Context
 	•	S — Structure
 	•	O — Objectivity
-	•	D — Distinctness
-	•	I — Informational Value
+	•	D — Clarity
+	•	I — Information Depth
 
 These axes describe interaction structure without assuming cognitive symmetry.
 
 They do not model internal mechanisms.
 They describe observable relational structure.
+
+Depending on the layer, they may describe a user's input, an assistant's output
+or the shared interaction state produced across a turn.
 
 ⸻
 
@@ -211,12 +224,12 @@ Objectivity (O)
 – Knowledge validation
 – Verification models
 
-Distinctness (D)
+Clarity (D)
 – Signal-to-noise ratio (Shannon)
 – Ambiguity research
 – Clarity studies
 
-Informational Value (I)
+Information Depth (I)
 – Shannon information
 – Entropy and novelty
 – Redundancy analysis

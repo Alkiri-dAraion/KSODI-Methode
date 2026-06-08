@@ -20,7 +20,7 @@ We thank Patrick Barthelmäs for substantial technical implementation and infras
 
 ## Early testing and feedback
 
-We also thank Benjamin Gage-Prater for early private testing and RAG-related feedback in March 2025. His contribution helped observe how KSODI-Light changed response behavior in a controlled RAG setting, but it was limited to early testing and feedback rather than ongoing implementation or authorship.
+We also thank Benjamin Gage-Prater for early private testing and RAG-related feedback in March 2025. His contribution helped observe how KSODI-Light changed response behavior and the shared interaction frame in a controlled RAG setting, but it was limited to early testing and feedback rather than ongoing implementation or authorship.
 
 ## Timeline
 

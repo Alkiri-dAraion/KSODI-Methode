@@ -13,6 +13,12 @@ We also thank Benjamin Gage-Prater for early private testing and RAG-related fee
 
 🎯 I started this initiative to help people overcome fear and hesitation around AI — and to improve the observability, quality and resonance of human-AI, human-agent and agentic interactions.
 
+In the public KSODI-Light layer, this is expressed as a reflective working
+agreement: not only the user's prompt, but also assistant output and the shared
+interaction state can be reflected through K/S/O/D/I. This keeps feedback
+bidirectional and helps avoid treating interaction quality as a judgement of a
+person.
+
 👀 We’re interested in nature, animals (especially horses), art, music, gaming, and IT
 
 🌱 I’m currently immersing myself in AI and exploring the remarkable opportunities it offers for adaptive learning
@@ -44,6 +50,8 @@ Machines do not begin with meaning; they begin with an **impulse**.
 
 Between 2023 and 2025, the method evolved slowly and iteratively — through day and night reflections, practical experimentation, and yes, sometimes even dreams about mathematics — into what is now known as **KSODI**.  
 The focus shifted toward **observable interaction structure**, rather than content, intention or correctness.
+This includes user input, assistant output and the shared state that emerges
+between interacting systems.
 
 A central insight during this phase was that meaningful evaluation requires stepping back from both:
 - a purely developer-centric signal perspective, and
