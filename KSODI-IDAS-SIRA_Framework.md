@@ -286,4 +286,21 @@ In future systems this could enable:
 - project-level interaction analysis
 - visual exploration of dialogue structures
 
+As a long-term working hypothesis, KSODI-Light plus external observer layers
+may also become relevant for language-, vision-language- or
+vision-language-action-based interaction layers in robotic or embodied agent
+contexts. This is a future research direction, not a current implementation
+claim.
+
+KSODI is not a robotics controller and not a world model. It does not replace
+robotics middleware, sensor-level perception, motion planning, collision
+avoidance, emergency mechanisms or physical safety systems.
+
+The possible KSODI layer would be communicative and task-related interaction
+orientation: whether the system still shares enough context with humans, keeps
+the task structure clear, grounds statements or requests sufficiently, and
+remains within defined or empirically learned interaction corridors over time.
+In embodied or n-entity environments, this would require separate validation and
+may require complex observer forms.
+
 The long-term goal is to make human–AI, human-agent and agentic interaction **more transparent, structured and understandable**.
