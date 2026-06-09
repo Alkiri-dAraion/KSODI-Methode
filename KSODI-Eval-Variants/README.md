@@ -2,6 +2,12 @@
 
 This directory contains the evaluation-oriented variants of the KSODI framework.
 
+These variants extend the same K/S/O/D/I operator logic that appears in
+KSODI-Light, but they do so as formal observer-oriented layers. KSODI-Light can
+support a reflective working agreement inside an interaction. Standard-Eval and
+KSODI-Full are intended to observe trajectories, drift, coupling and structural
+stability from outside the prompt.
+
 These components are designed for:
 
 - numeric interaction observation

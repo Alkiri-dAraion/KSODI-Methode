@@ -19,6 +19,13 @@ interaction state can be reflected through K/S/O/D/I. This keeps feedback
 bidirectional and helps avoid treating interaction quality as a judgement of a
 person.
 
+KSODI-Light is the practical root of the method. It can be used directly in
+training, account prompts or simple assistant setups, while the later
+Standard-Eval, KSODI-Full and IDAS/SIRA layers extend the same idea into formal
+observability for drift, coupling and governance-oriented monitoring. The goal
+is not to make interaction mechanical, but to give humans and machines a shared
+way to notice when the working frame no longer fits.
+
 👀 We’re interested in nature, animals (especially horses), art, music, gaming, and IT
 
 🌱 I’m currently immersing myself in AI and exploring the remarkable opportunities it offers for adaptive learning

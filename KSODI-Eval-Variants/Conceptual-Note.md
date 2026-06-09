@@ -280,7 +280,7 @@ It is a structured observation model.
 ### 14. Conceptual Separation
 
 Clear distinction:
-	•	KSODI-Light → didactic orientation inside interaction
+	•	KSODI-Light → reflective working agreement and didactic orientation inside interaction
 	•	KSODI-Standard / Full → formal evaluation models
 	•	Image / Diagram → visualization of dynamic coupling
 	•	Mathematics → description of state evolution
@@ -371,6 +371,27 @@ KSODI might provide a minimal formal layer for:
 without storing full prompts or enforcing optimization goals.
 
 This would require systematic empirical validation.
+
+⸻
+
+16.5 From Logs to Interaction Conditions
+
+KSODI should not be reduced to log monitoring or prompt scoring.
+
+At the Light level, it makes interaction conditions discussable for humans and
+assistants. At the formal observer level, the same operator logic can be used to
+observe how those conditions move over time.
+
+The relevant question is therefore not only:
+	•	What was said?
+
+It is also:
+	•	Which interaction condition changed?
+	•	Which corridor was left?
+	•	Which coupling became unstable?
+	•	Which uncertainty became visible or remained hidden?
+
+This is the bridge between KSODI-Light, Standard-Eval, KSODI-Full and IDAS/SIRA.
 
 ⸻
 

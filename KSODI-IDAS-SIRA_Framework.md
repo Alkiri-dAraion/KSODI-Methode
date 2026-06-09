@@ -66,6 +66,26 @@ In this public repository, KSODI-Light belongs to the first layer. It can guide
 the interaction from inside a user, account, developer or system prompt. It is
 not an external observer by itself.
 
+## From Light to Observer Architecture
+
+KSODI-Light is the practical root layer. It makes the shared interaction frame
+explicit before formal mathematics or observer infrastructure is introduced.
+
+For simple chatbot architectures, this prompt-level working agreement may be
+sufficient. For MoE systems, multi-agent constellations, tool-using agents or
+robotic settings, it is usually not enough to rely on local instructions alone.
+In those settings, Light can provide orientation inside the agent or user
+interaction while Standard-Eval, KSODI-Full or IDAS-level observers provide a
+separate monitoring layer.
+
+The observer does more than collect logs. It asks which interaction conditions
+are changing: whether context is drifting, structure is weakening, grounding is
+missing, clarity is collapsing, informational movement is becoming repetitive,
+or relational coupling between entities is leaving a defined corridor.
+
+This makes IDAS a bridge between AI literacy, interaction design and
+governance-oriented AI observability.
+
 ---
 
 # Relationship to Existing Evaluation Methods

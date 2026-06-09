@@ -49,6 +49,30 @@ It respects maximum privacy and operates exclusively on observable interaction s
 
 The framework is organized into clearly separated components with different purposes and licenses.
 
+## Where KSODI Fits
+
+KSODI is a layered method for making human-AI, human-agent and agent-agent
+interaction quality observable, discussable and steering-supportive without
+reducing it to single-prompt quality or model accuracy.
+
+It is intended to bridge three practical contexts:
+
+- **AI literacy and training:** KSODI-Light gives users, trainers and
+  organizations a shared language for context, structure, grounding, clarity
+  and information depth.
+- **Prompt-level agent guidance:** KSODI-Light can be embedded into user,
+  account, developer or system-prompt settings as a disclosed reflective
+  working agreement with lightweight corridors and fallback behavior.
+- **AI observability and governance:** KSODI Standard-Eval, KSODI Full and
+  IDAS/SIRA-level implementations extend the same operator logic into numeric
+  observer layers for drift, coupling, corridor exits and longer-term
+  interaction monitoring.
+
+KSODI is not presented as a complete alignment solution. It is a structured way
+to reason about interaction conditions, drift, corridors and coupling in a form
+that remains understandable for humans while remaining compatible with
+machine-readable observation.
+
 ## Structure
 
 ### KSODI-Light

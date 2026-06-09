@@ -53,6 +53,25 @@ It supports:
 KSODI-Light does not evaluate correctness and does not judge users.
 It supports learning and clarity.
 
+## Why This Layer Matters
+
+KSODI-Light is the root layer of the KSODI method. The later observer
+architecture grew from the same practical question: how can humans and machines
+notice missing context, weak structure, insufficient grounding, unclear wording
+or low informational movement before an interaction becomes unusable?
+
+For AI literacy and organizational training, KSODI-Light provides a shared
+language for discussing prompts, answers, uncertainty and task fit without
+requiring mathematical implementation.
+
+For simple assistants, it may be enough to use KSODI-Light as a user/account
+prompt or as developer-level guidance. In more complex settings, such as MoE,
+multi-agent systems or robots, KSODI-Light can provide local orientation while
+Standard-Eval or KSODI-Full observer layers monitor trajectories, drift and
+coupling from outside the prompt. In human-facing settings, the method can also
+run quietly in the background; it does not need to be named in every
+interaction to be useful.
+
 ## Agent Literacy and Prompt Guidance
 
 KSODI-Light can also support beginners who work with coding agents.
