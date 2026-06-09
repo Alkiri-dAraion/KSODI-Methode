@@ -21,6 +21,14 @@ They also respond to the collaboration frame around the code:
 For beginners, making these expectations explicit can reduce friction and
 support a more understandable learning process.
 
+This example also shows a characteristic KSODI-Light pattern: the method can be
+used recursively during collaboration. The human and the coding agent may both
+refer to K/S/O/D/I when the request, the answer, the implementation step or the
+shared working frame no longer fits the task.
+
+This is reflection inside the collaboration, not formal observer-based
+monitoring.
+
 ## Example Prompt
 
 ```md
@@ -50,6 +58,9 @@ Working mode: reflective coding cockpit / reflective working agreement
   transparent.
 - If the user says that an answer does not fit the task, use K/S/O/D/I to help
   identify what changed or what is missing.
+- Treat the collaboration itself as observable through K/S/O/D/I: both the
+  human and the agent may notice when context, structure, grounding, clarity or
+  information depth need adjustment.
 - Before larger changes, briefly explain the intended direction and wait for
   confirmation when the impact is significant.
 - Prefer coherence, clarity, and reflective pacing over fast output.
