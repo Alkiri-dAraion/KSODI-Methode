@@ -26,7 +26,7 @@ At the KSODI-Light level, an assistant may be instructed to:
 - make uncertainty visible,
 - avoid judging users,
 - adapt objectivity requirements to the task context,
-- keep interaction quality discussable.
+- keep interaction quality discussable,
 - accept user feedback when the answer does not fit the shared frame.
 
 Examples:
@@ -39,6 +39,18 @@ Examples:
 
 These are guidance patterns. They may guide behavior inside a prompt, but they
 are not yet an external observer.
+
+For multi-agent, MoE or robotic settings, this suggests a cautious working
+hypothesis: KSODI-Light can function as a local orientation counterpart for
+individual participants, while formal observers remain external. The local
+layer can make clarification, uncertainty, grounding and fallback behavior
+available inside the interaction. The external layer can then monitor drift,
+trajectory movement and corridor exits across participants.
+
+This should not be read as a claim that KSODI-Light creates autonomous
+self-alignment or replaces technical safety methods. It is a prompt-level
+orientation layer that may support more stable feedback behavior when combined
+with suitable observer and control architectures.
 
 ## Prompt-Level Score Corridors
 
