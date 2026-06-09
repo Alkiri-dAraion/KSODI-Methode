@@ -40,12 +40,12 @@ Examples:
 These are guidance patterns. They may guide behavior inside a prompt, but they
 are not yet an external observer.
 
-For multi-agent, MoE or robotic settings, this suggests a cautious working
-hypothesis: KSODI-Light can function as a local orientation counterpart for
-individual participants, while formal observers remain external. The local
-layer can make clarification, uncertainty, grounding and fallback behavior
-available inside the interaction. The external layer can then monitor drift,
-trajectory movement and corridor exits across participants.
+For multi-agent, MoE or embodied-agent interaction settings, this suggests a
+cautious working hypothesis: KSODI-Light can function as a local orientation
+counterpart for individual participants, while formal observers remain external.
+The local layer can make clarification, uncertainty, grounding and fallback
+behavior available inside the interaction. The external layer can then monitor
+drift, trajectory movement and corridor exits across participants.
 
 This should not be read as a claim that KSODI-Light creates autonomous
 self-alignment or replaces technical safety methods. It is a prompt-level

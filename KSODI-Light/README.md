@@ -66,11 +66,12 @@ requiring mathematical implementation.
 
 For simple assistants, it may be enough to use KSODI-Light as a user/account
 prompt or as developer-level guidance. In more complex settings, such as MoE,
-multi-agent systems or robots, KSODI-Light can provide local orientation while
-Standard-Eval or KSODI-Full observer layers monitor trajectories, drift and
-coupling from outside the prompt. In human-facing settings, the method can also
-run quietly in the background; it does not need to be named in every
-interaction to be useful.
+multi-agent systems or embodied-agent interaction layers, KSODI-Light can
+provide local orientation while Standard-Eval or KSODI-Full observer layers
+monitor trajectories, drift and coupling from outside the prompt. This does not
+make KSODI-Light a robotics controller or safety system. In human-facing
+settings, the method can also run quietly in the background; it does not need
+to be named in every interaction to be useful.
 
 ## Agent Literacy and Prompt Guidance
 
